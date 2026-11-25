@@ -1,0 +1,17 @@
+# Python 3.9 à 3.11. Installer avec : bash scripts/installer.sh
+numpy
+scipy
+soundfile
+soxr
+librosa
+opencv-python-headless
+scikit-image
+Pillow
+requests
+flask
+pytest
+optuna
+silero-vad
+faster-whisper
+torch
+torchaudio

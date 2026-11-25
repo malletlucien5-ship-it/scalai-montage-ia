@@ -1,0 +1,9 @@
+{
+  "profile": "studio-a",
+  "sha256": "882af430e32c91f9ca2f38d1340f4d75db29fe3d3a59ea44750ee87486b51dbc",
+  "lut": "Studio_VSL_A.cube",
+  "size": 33,
+  "input": "Rec.709 SDR",
+  "interpolation": "tetrahedral",
+  "approved": "2026-10-04"
+}

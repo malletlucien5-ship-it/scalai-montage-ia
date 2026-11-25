@@ -1,0 +1,11 @@
+{
+  "maj": "2026-10-21",
+  "note": "Noms affichés à l'écran. Un nom qui correspond à « perimes » bloque la livraison. Mettre à jour à chaque nouvelle génération.",
+  "actuels": [
+    "Claude Opus 5.5",
+    "Claude Sonnet 5.5",
+    "Claude Haiku 5.5",
+    "Claude Fable 5.1"
+  ],
+  "perimes": "\\b(?:Claude\\s+)?(?:Opus|Sonnet|Haiku)\\s+[1-4](?:\\.\\d+)?\\b|\\bClaude\\s+[1-4](?:\\.\\d+)?\\b|\\bGPT-?(?:3\\.5|4o?|4\\.1|4\\.5)\\b|\\bGemini\\s+1(?:\\.\\d)?\\b|\\b(?:Opus|Sonnet|Haiku)\\s+5\\b(?!\\.\\d)|\\bFable\\s+5\\b(?!\\.\\d)"
+}

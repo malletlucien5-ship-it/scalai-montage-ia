@@ -1,0 +1,56 @@
+{
+  "source": "/Users/lucienmallet/Desktop/DJI_20261001162806_0076_D.MP4",
+  "fps": "30000/1001",
+  "crop": [
+    341,
+    469,
+    1543,
+    2743
+  ],
+  "grade_base": "colorchannelmixer=rr=1.22:gg=1.17:bb=1.18,eq=gamma=1.03:contrast=1.05:saturation=1.05",
+  "look": "colorchannelmixer=rr=1.0:gg=0.972:bb=0.99,eq=brightness=0.03:contrast=1.06:saturation=1.12,unsharp=5:5:0.5",
+  "sections_frames": [
+    0,
+    115,
+    221,
+    320,
+    413,
+    506,
+    597,
+    684
+  ],
+  "bips_ref": [
+    0.723,
+    2.363,
+    4.355,
+    6.001,
+    7.601,
+    9.505,
+    10.941,
+    12.541,
+    14.117,
+    15.671,
+    17.247,
+    18.785,
+    20.195,
+    22.017
+  ],
+  "arrivees_src": [
+    5.0,
+    6.54,
+    8.08,
+    10.36,
+    11.76,
+    13.32,
+    15.38,
+    16.88,
+    18.3,
+    19.88,
+    21.18,
+    22.8,
+    24.48,
+    26.12
+  ],
+  "note": "Bips de la référence mesurés sur la première note (1600 Hz). Le 13e est pris sur la révélation visuelle (20,20 s). Arrivées de doigt mesurées par edit/arrivees.py. look_powergrade : nœud Look du PowerGrade « P&F colo rapide » (Cineon + Kodak 2383 D55 à 50 %), voir powergrade/build_lut.py.",
+  "look_powergrade": "lut3d=file=/Users/lucienmallet/CODE/martell-motion-cloud/projets/short-outils-ia-2026-10-01/powergrade/pf_look50.cube:interp=tetrahedral"
+}

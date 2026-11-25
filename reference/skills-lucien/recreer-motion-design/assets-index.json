@@ -1,0 +1,818 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "project": "martell-motion",
+      "compositions": [
+        {
+          "id": "01-sous-titres-cinetiques",
+          "path": "remotion/src/comps/01-sous-titres-cinetiques/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "Sous-titres mot à mot en bas, blanc gras, mot clé cyan ou rouge, « 1000 » en serif italique cyan",
+          "catalogue_name": "sous-titres-cinetiques",
+          "reference_ranges": "0-4, 5-8, 38-40, 83-85, 287-289, 374-375, 378-379, 453-454, 469-471, 610-615, 645-646, 775-776, 851-852, 860-861",
+          "referenced_files": []
+        },
+        {
+          "id": "01b-sous-titres-lucien",
+          "path": "remotion/src/comps/01b-sous-titres-lucien/index.tsx",
+          "durationInFrames": 180,
+          "fps": null,
+          "description": null,
+          "catalogue_name": null,
+          "reference_ranges": null,
+          "referenced_files": []
+        },
+        {
+          "id": "02-mots-barres",
+          "path": "remotion/src/comps/02-mots-barres/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "« Doer » barré rouge puis « Director » ; « Human on the loop » / « Human in the loop » barré",
+          "catalogue_name": "mots-barres",
+          "reference_ranges": "407-410, 752-754",
+          "referenced_files": []
+        },
+        {
+          "id": "03-iceberg-claude",
+          "path": "remotion/src/comps/03-iceberg-claude/index.tsx",
+          "durationInFrames": 119,
+          "fps": 30,
+          "description": "Image IA iceberg gravé « Claude », poussée caméra, bascule vue sous-marine lumineuse",
+          "catalogue_name": "iceberg-claude",
+          "reference_ranges": "10-14",
+          "referenced_files": [
+            "03/iceberg-ref.mp4"
+          ]
+        },
+        {
+          "id": "04-podiums-6-niveaux",
+          "path": "remotion/src/comps/04-podiums-6-niveaux/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Podiums 3D avec 6 icônes, travelling latéral, titres « 1. The Amateur » à « 6. The Agent Orchestrator », titre serif « The 6 Levels of Claude Users »",
+          "catalogue_name": "podiums-6-niveaux",
+          "reference_ranges": "14-17, 23-26, 80-82, 263-265, 401-403, 575-577, 733-735",
+          "referenced_files": [
+            "04/clic-niveaux.mp3",
+            "04/decor-large.jpg",
+            "04/podiums.jpg",
+            "sfx/montee-chapitre.wav"
+          ]
+        },
+        {
+          "id": "05-badge-niveau",
+          "path": "remotion/src/comps/05-badge-niveau/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "Pilule bleu-gris en haut à gauche « Level 1/6: Amateur »",
+          "catalogue_name": "badge-niveau",
+          "reference_ranges": "27-80 et suivants",
+          "referenced_files": []
+        },
+        {
+          "id": "05b-badge-chapitres",
+          "path": "remotion/src/comps/05b-badge-chapitres/index.tsx",
+          "durationInFrames": 240,
+          "fps": null,
+          "description": null,
+          "catalogue_name": null,
+          "reference_ranges": null,
+          "referenced_files": []
+        },
+        {
+          "id": "06-icone-coin",
+          "path": "remotion/src/comps/06-icone-coin/index.tsx",
+          "durationInFrames": 162,
+          "fps": 30,
+          "description": "Petite carte teal avec icône au trait qui surgit en bas à gauche puis en bas à droite",
+          "catalogue_name": "icone-coin",
+          "reference_ranges": "18-22",
+          "referenced_files": []
+        },
+        {
+          "id": "07-carte-memoire",
+          "path": "remotion/src/comps/07-carte-memoire/index.tsx",
+          "durationInFrames": 111,
+          "fps": 30,
+          "description": "Panneau Claude « MEMORY OFF / PROJECTS N/A / CONTEXT N/A » qui monte du bas",
+          "catalogue_name": "carte-memoire",
+          "reference_ranges": "34-36",
+          "referenced_files": []
+        },
+        {
+          "id": "08-salle-controle",
+          "path": "remotion/src/comps/08-salle-controle/index.tsx",
+          "durationInFrames": 100,
+          "fps": 30,
+          "description": "Image IA salle de contrôle, écran « 2 », « 2 + 2 », « 2 + 2 = ? »",
+          "catalogue_name": "salle-controle",
+          "reference_ranges": "43-45",
+          "referenced_files": [
+            "08/salle-controle.mp4"
+          ]
+        },
+        {
+          "id": "09-orbes-level-up",
+          "path": "remotion/src/comps/09-orbes-level-up/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Titre serif « Level Up from Amateur », sphères bleues brillantes avec arcs, morph en « Make Claude interview you », « Make Claude Self-Check »",
+          "catalogue_name": "orbes-level-up",
+          "reference_ranges": "46-50, 62-64",
+          "referenced_files": []
+        },
+        {
+          "id": "10-barre-chat-flottante",
+          "path": "remotion/src/comps/10-barre-chat-flottante/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "Barre de saisie Claude sur le speaker, frappe lettre à lettre, « Sonnet 4.6 », bouton orange",
+          "catalogue_name": "barre-chat-flottante",
+          "reference_ranges": "52-57, 73, 123-126, 203-208, 358-370, 433-436, 464-467, 486-488",
+          "referenced_files": []
+        },
+        {
+          "id": "11-fenetre-claude-chat",
+          "path": "remotion/src/comps/11-fenetre-claude-chat/index.tsx",
+          "durationInFrames": 19,
+          "fps": 30,
+          "description": "Fenêtre Claude sombre sur fond dégradé bleu-teal, messages qui apparaissent",
+          "catalogue_name": "fenetre-claude-chat",
+          "reference_ranges": "30-33, 58-61, 127-132",
+          "referenced_files": []
+        },
+        {
+          "id": "12-carte-puces",
+          "path": "remotion/src/comps/12-carte-puces/index.tsx",
+          "durationInFrames": 172,
+          "fps": 30,
+          "description": "Carte verre à droite, puces « Role / Initiative / Client / Workflow » une par une",
+          "catalogue_name": "carte-puces",
+          "reference_ranges": "90-94",
+          "referenced_files": []
+        },
+        {
+          "id": "13-pilule-projets",
+          "path": "remotion/src/comps/13-pilule-projets/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "Pilule « Projects » avec icône en bas",
+          "catalogue_name": "pilule-projets",
+          "reference_ranges": "88-89",
+          "referenced_files": []
+        },
+        {
+          "id": "14-etape-numerotee",
+          "path": "remotion/src/comps/14-etape-numerotee/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "Lower third « 1  Create a New project », « 2  Build a Master Prompt », « 3  Add the Files »",
+          "catalogue_name": "etape-numerotee",
+          "reference_ranges": "103-117, 149-150",
+          "referenced_files": []
+        },
+        {
+          "id": "15-pip-ecran",
+          "path": "remotion/src/comps/15-pip-ecran/index.tsx",
+          "durationInFrames": 284,
+          "fps": 30,
+          "description": "Speaker en carte à gauche, écran Claude à droite, formulaire « Create a project » rempli",
+          "catalogue_name": "pip-ecran",
+          "reference_ranges": "103-111",
+          "referenced_files": [
+            "15/speaker.jpg"
+          ]
+        },
+        {
+          "id": "16-master-prompt-doc",
+          "path": "remotion/src/comps/16-master-prompt-doc/index.tsx",
+          "durationInFrames": 276,
+          "fps": 30,
+          "description": "Document « MASTER PROMPT » qui se remplit, mots clés colorés",
+          "catalogue_name": "master-prompt-doc",
+          "reference_ranges": "135-143",
+          "referenced_files": []
+        },
+        {
+          "id": "17-fichiers-projet",
+          "path": "remotion/src/comps/17-fichiers-projet/index.tsx",
+          "durationInFrames": 420,
+          "fps": 30,
+          "description": "Page projet Claude, glisser-déposer de fichiers, cadre rouge de surbrillance",
+          "catalogue_name": "fichiers-projet",
+          "reference_ranges": "151-165",
+          "referenced_files": []
+        },
+        {
+          "id": "18-projet-youtube",
+          "path": "remotion/src/comps/18-projet-youtube/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Projet « YouTube Video Project », fichiers ajoutés, réponse de Claude",
+          "catalogue_name": "projet-youtube",
+          "reference_ranges": "184-197",
+          "referenced_files": []
+        },
+        {
+          "id": "19-ingredients-recette",
+          "path": "remotion/src/comps/19-ingredients-recette/index.tsx",
+          "durationInFrames": 255,
+          "fps": 30,
+          "description": "Deux cartes « Your Ingredients » puis « The Recipe » reliées par une flèche",
+          "catalogue_name": "ingredients-recette",
+          "reference_ranges": "209-216",
+          "referenced_files": []
+        },
+        {
+          "id": "20-instructions-projet",
+          "path": "remotion/src/comps/20-instructions-projet/index.tsx",
+          "durationInFrames": 204,
+          "fps": 30,
+          "description": "Modale « Set project instructions », texte collé, sauvegarde",
+          "catalogue_name": "instructions-projet",
+          "reference_ranges": "223-229",
+          "referenced_files": []
+        },
+        {
+          "id": "21-ai-playbook",
+          "path": "remotion/src/comps/21-ai-playbook/index.tsx",
+          "durationInFrames": 111,
+          "fps": 30,
+          "description": "Couverture « AI PLAYBOOK » lumineuse, pages qui s'étalent",
+          "catalogue_name": "ai-playbook",
+          "reference_ranges": "241-244, 884-885",
+          "referenced_files": [
+            "21/couverture.png"
+          ]
+        },
+        {
+          "id": "22-telephone-dm",
+          "path": "remotion/src/comps/22-telephone-dm/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "iPhone Instagram, frappe « YOUTUBE OS », réponse avec document",
+          "catalogue_name": "telephone-dm",
+          "reference_ranges": "248-252, 886-891",
+          "referenced_files": [
+            "22/bg.jpg",
+            "lucien-rond.png"
+          ]
+        },
+        {
+          "id": "23-apps-connecteurs",
+          "path": "remotion/src/comps/23-apps-connecteurs/index.tsx",
+          "durationInFrames": 405,
+          "fps": 30,
+          "description": "Carrousel Gmail, Calendar, Drive, Notion puis panneau Connectors et interrupteurs",
+          "catalogue_name": "apps-connecteurs",
+          "reference_ranges": "270-280, 302-305",
+          "referenced_files": []
+        },
+        {
+          "id": "24-niveau-integrateur-cartes",
+          "path": "remotion/src/comps/24-niveau-integrateur-cartes/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Titre « How to operate at Integrator level », 3 cartes lumineuses qui se remplissent",
+          "catalogue_name": "niveau-integrateur-cartes",
+          "reference_ranges": "297-324",
+          "referenced_files": []
+        },
+        {
+          "id": "25-artefacts-dashboards",
+          "path": "remotion/src/comps/25-artefacts-dashboards/index.tsx",
+          "durationInFrames": 165,
+          "fps": 30,
+          "description": "Graphiques et tableaux de bord générés, fenêtres qui s'empilent",
+          "catalogue_name": "artefacts-dashboards",
+          "reference_ranges": "318-321, 593-595",
+          "referenced_files": []
+        },
+        {
+          "id": "26-cowork-orange",
+          "path": "remotion/src/comps/26-cowork-orange/index.tsx",
+          "durationInFrames": 375,
+          "fps": 30,
+          "description": "Cadre orange Claude, « Rhythm Machine », interface Cowork « Let's go »",
+          "catalogue_name": "cowork-orange",
+          "reference_ranges": "325-332, 492-497",
+          "referenced_files": []
+        },
+        {
+          "id": "27-bouton-abonnement",
+          "path": "remotion/src/comps/27-bouton-abonnement/index.tsx",
+          "durationInFrames": 200,
+          "fps": 30,
+          "description": "Barre de progression, bouton rouge « Subscribe », « Subscribe for change »",
+          "catalogue_name": "bouton-abonnement",
+          "reference_ranges": "352-357",
+          "referenced_files": []
+        },
+        {
+          "id": "28-pilules-lower-third",
+          "path": "remotion/src/comps/28-pilules-lower-third/index.tsx",
+          "durationInFrames": null,
+          "fps": null,
+          "description": "« PRO TIP », « Advanced Move », « Plan Mode », « Claude Code Remote », « Chaining Your Skills »",
+          "catalogue_name": "pilules-lower-third",
+          "reference_ranges": "199-201, 336-339, 376-377, 540-544, 678-682, 705-710, 834",
+          "referenced_files": []
+        },
+        {
+          "id": "29-excel-claude-chrome",
+          "path": "remotion/src/comps/29-excel-claude-chrome/index.tsx",
+          "durationInFrames": 86,
+          "fps": 30,
+          "description": "Conversation Claude puis tableur avec Claude in Chrome sur le côté",
+          "catalogue_name": "excel-claude-chrome",
+          "reference_ranges": "382-392",
+          "referenced_files": []
+        },
+        {
+          "id": "30-pipeline-agents",
+          "path": "remotion/src/comps/30-pipeline-agents/index.tsx",
+          "durationInFrames": 209,
+          "fps": 30,
+          "description": "« AI-POWERED VIDEO PRODUCTION WORKFLOW », 5 nœuds qui s'allument avec coches",
+          "catalogue_name": "pipeline-agents",
+          "reference_ranges": "414-420",
+          "referenced_files": []
+        },
+        {
+          "id": "31-trois-facons-operateurs",
+          "path": "remotion/src/comps/31-trois-facons-operateurs/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Titre serif « 3 Ways Operators Deploy Claude », 3 carrés chiffrés italiques",
+          "catalogue_name": "trois-facons-operateurs",
+          "reference_ranges": "427-431, 446-448, 489-491, 505-514",
+          "referenced_files": [
+            "31/speaker.jpg"
+          ]
+        },
+        {
+          "id": "32-readme-skills",
+          "path": "remotion/src/comps/32-readme-skills/index.tsx",
+          "durationInFrames": 188,
+          "fps": 30,
+          "description": "README des skills qui défile",
+          "catalogue_name": "readme-skills",
+          "reference_ranges": "455-460",
+          "referenced_files": [
+            "32/bg.jpg"
+          ]
+        },
+        {
+          "id": "33-telephone-chat-lateral",
+          "path": "remotion/src/comps/33-telephone-chat-lateral/index.tsx",
+          "durationInFrames": 269,
+          "fps": 30,
+          "description": "Écran mobile Claude à droite du speaker, message du matin",
+          "catalogue_name": "telephone-chat-lateral",
+          "reference_ranges": "517-523",
+          "referenced_files": []
+        },
+        {
+          "id": "34-images-ia-titres",
+          "path": "remotion/src/comps/34-images-ia-titres/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Images IA (directeur, développeur dans le noir, robot orchestrateur) avec texte cinétique en haut à gauche",
+          "catalogue_name": "images-ia-titres",
+          "reference_ranges": "535-539, 673-676, 816-820",
+          "referenced_files": []
+        },
+        {
+          "id": "35-chainage-skills",
+          "path": "remotion/src/comps/35-chainage-skills/index.tsx",
+          "durationInFrames": 403,
+          "fps": 30,
+          "description": "« SKILL CHAINING », 3 cartes qui s'allument en séquence",
+          "catalogue_name": "chainage-skills",
+          "reference_ranges": "545-557",
+          "referenced_files": []
+        },
+        {
+          "id": "36-claude-code-ascii",
+          "path": "remotion/src/comps/36-claude-code-ascii/index.tsx",
+          "durationInFrames": 71,
+          "fps": 30,
+          "description": "Terminal avec logo ASCII « CLAUDE CODE » orange",
+          "catalogue_name": "claude-code-ascii",
+          "reference_ranges": "607-608",
+          "referenced_files": []
+        },
+        {
+          "id": "37-orbe-arc-categories",
+          "path": "remotion/src/comps/37-orbe-arc-categories/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Titre « The 3 Categories Inside Claude Code », sphère violette, arc, « Loops / Tools / Apps »",
+          "catalogue_name": "orbe-arc-categories",
+          "reference_ranges": "616-621, 636-648",
+          "referenced_files": []
+        },
+        {
+          "id": "38-graphe-agent",
+          "path": "remotion/src/comps/38-graphe-agent/index.tsx",
+          "durationInFrames": 239,
+          "fps": 30,
+          "description": "Speaker en carte, triangle de nœuds « Agent / APIs / Systems »",
+          "catalogue_name": "graphe-agent",
+          "reference_ranges": "628-635",
+          "referenced_files": [
+            "38/speaker.jpg"
+          ]
+        },
+        {
+          "id": "39-tableau-editable",
+          "path": "remotion/src/comps/39-tableau-editable/index.tsx",
+          "durationInFrames": 150,
+          "fps": 30,
+          "description": "Tableau de ventes, filtre déroulant qui change les chiffres",
+          "catalogue_name": "tableau-editable",
+          "reference_ranges": "638-643",
+          "referenced_files": []
+        },
+        {
+          "id": "40-terminal-telephone",
+          "path": "remotion/src/comps/40-terminal-telephone/index.tsx",
+          "durationInFrames": 263,
+          "fps": 30,
+          "description": "Terminal Claude Code et téléphone, validation à distance",
+          "catalogue_name": "terminal-telephone",
+          "reference_ranges": "711-718",
+          "referenced_files": [
+            "40/SFMono.ttf",
+            "40/bg.jpg"
+          ]
+        },
+        {
+          "id": "41-pyramide-framework",
+          "path": "remotion/src/comps/41-pyramide-framework/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Titre « The Agent-Building Framework », pyramide 1-2-3, flèches pointillées manuscrites et labels",
+          "catalogue_name": "pyramide-framework",
+          "reference_ranges": "763-797",
+          "referenced_files": []
+        },
+        {
+          "id": "42-avatar-bulle",
+          "path": "remotion/src/comps/42-avatar-bulle/index.tsx",
+          "durationInFrames": null,
+          "fps": 30,
+          "description": "Portrait rond à lueur violette, bulle de message dégradée",
+          "catalogue_name": "avatar-bulle",
+          "reference_ranges": "778-780, 800-803",
+          "referenced_files": []
+        },
+        {
+          "id": "43-organigramme-agent",
+          "path": "remotion/src/comps/43-organigramme-agent/index.tsx",
+          "durationInFrames": 146,
+          "fps": 30,
+          "description": "« Your Main Agent », carte centrale et 4 sous-agents reliés",
+          "catalogue_name": "organigramme-agent",
+          "reference_ranges": "790-794",
+          "referenced_files": []
+        },
+        {
+          "id": "44-apex-cta",
+          "path": "remotion/src/comps/44-apex-cta/index.tsx",
+          "durationInFrames": 119,
+          "fps": 30,
+          "description": "« How Apex Works », grille de modules, bouton « Join the Apex Waitlist » puis « Link in Description »",
+          "catalogue_name": "apex-cta",
+          "reference_ranges": "821-824",
+          "referenced_files": []
+        },
+        {
+          "id": "45-boucle-revue-agent",
+          "path": "remotion/src/comps/45-boucle-revue-agent/index.tsx",
+          "durationInFrames": 309,
+          "fps": 30,
+          "description": "Speaker en carte, fenêtre « AI Agent Loop », notes de revue qui s'écrivent",
+          "catalogue_name": "boucle-revue-agent",
+          "reference_ranges": "838-847",
+          "referenced_files": [
+            "45/bg.jpg",
+            "45/speaker.jpg"
+          ]
+        },
+        {
+          "id": "46-commentaire-youtube",
+          "path": "remotion/src/comps/46-commentaire-youtube/index.tsx",
+          "durationInFrames": 73,
+          "fps": 30,
+          "description": "Vignette vidéo en haut, champ de commentaire YouTube qui se tape",
+          "catalogue_name": "commentaire-youtube",
+          "reference_ranges": "881-883",
+          "referenced_files": [
+            "46/bg.jpg",
+            "46/speaker.jpg",
+            "lucien-rond.png"
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "type": "video",
+          "path": "remotion/public/03/iceberg-ref.mp4",
+          "name": "iceberg-ref",
+          "bytes": 4528237
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/04/clic-niveaux.mp3",
+          "name": "clic-niveaux",
+          "bytes": 40085
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/decor-large.jpg",
+          "name": "decor-large",
+          "bytes": 1242133
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podium-1.png",
+          "name": "podium-1",
+          "bytes": 517813
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podium-2.png",
+          "name": "podium-2",
+          "bytes": 549615
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podium-3.png",
+          "name": "podium-3",
+          "bytes": 551115
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podium-4.png",
+          "name": "podium-4",
+          "bytes": 692813
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podium-5.png",
+          "name": "podium-5",
+          "bytes": 618558
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podium-6.png",
+          "name": "podium-6",
+          "bytes": 643879
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/04/podiums.jpg",
+          "name": "podiums",
+          "bytes": 818050
+        },
+        {
+          "type": "video",
+          "path": "remotion/public/08/salle-controle.mp4",
+          "name": "salle-controle",
+          "bytes": 3669225
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/11/bg.png",
+          "name": "bg",
+          "bytes": 259233
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/15/speaker.jpg",
+          "name": "speaker",
+          "bytes": 237727
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/16/bg.png",
+          "name": "bg",
+          "bytes": 259233
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/18/bg.png",
+          "name": "bg",
+          "bytes": 259233
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/20/bg.png",
+          "name": "bg",
+          "bytes": 259233
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/21/couverture.png",
+          "name": "couverture",
+          "bytes": 4044488
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/22/avatar.jpg",
+          "name": "avatar",
+          "bytes": 29086
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/22/bg.jpg",
+          "name": "bg",
+          "bytes": 20225
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/29/bg.png",
+          "name": "bg",
+          "bytes": 259233
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/31/speaker.jpg",
+          "name": "speaker",
+          "bytes": 242055
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/32/bg.jpg",
+          "name": "bg",
+          "bytes": 20225
+        },
+        {
+          "type": "video",
+          "path": "remotion/public/34/developpeur.mp4",
+          "name": "developpeur",
+          "bytes": 2861794
+        },
+        {
+          "type": "video",
+          "path": "remotion/public/34/directeur.mp4",
+          "name": "directeur",
+          "bytes": 2998351
+        },
+        {
+          "type": "video",
+          "path": "remotion/public/34/orchestrateur.mp4",
+          "name": "orchestrateur",
+          "bytes": 4361958
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/36/bg.png",
+          "name": "bg",
+          "bytes": 259233
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/38/speaker.jpg",
+          "name": "speaker",
+          "bytes": 238800
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/40/bg.jpg",
+          "name": "bg",
+          "bytes": 20225
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/42/gregoire.jpg",
+          "name": "gregoire",
+          "bytes": 198897
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/42/leo.jpg",
+          "name": "leo",
+          "bytes": 221594
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/45/bg.jpg",
+          "name": "bg",
+          "bytes": 20225
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/45/speaker.jpg",
+          "name": "speaker",
+          "bytes": 225920
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/46/avatar.jpg",
+          "name": "avatar",
+          "bytes": 29086
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/46/bg.jpg",
+          "name": "bg",
+          "bytes": 20225
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/46/speaker.jpg",
+          "name": "speaker",
+          "bytes": 232361
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/lucien-photo.png",
+          "name": "lucien-photo",
+          "bytes": 390434
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/lucien-rond.png",
+          "name": "lucien-rond",
+          "bytes": 44420
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/plate-dan.jpg",
+          "name": "plate-dan",
+          "bytes": 93529
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/plate.jpg",
+          "name": "plate",
+          "bytes": 132306
+        },
+        {
+          "type": "image",
+          "path": "remotion/public/plate2.jpg",
+          "name": "plate2",
+          "bytes": 96416
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/clic.wav",
+          "name": "clic",
+          "bytes": 116928
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/frappe-clavier.wav",
+          "name": "frappe-clavier",
+          "bytes": 3801854
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/grave-apparition.wav",
+          "name": "grave-apparition",
+          "bytes": 877720
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/impact-chapitre.wav",
+          "name": "impact-chapitre",
+          "bytes": 2044658
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/montee-chapitre.wav",
+          "name": "montee-chapitre",
+          "bytes": 2552814
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/nappe-ecran-titre.wav",
+          "name": "nappe-ecran-titre",
+          "bytes": 2361668
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/notification.wav",
+          "name": "notification",
+          "bytes": 659040
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/pop.wav",
+          "name": "pop",
+          "bytes": 145642
+        },
+        {
+          "type": "audio",
+          "path": "remotion/public/sfx/whoosh-transition.wav",
+          "name": "whoosh-transition",
+          "bytes": 892654
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "remotion-essai",
+  "private": true,
+  "description": "Composition minimale pour tester controles/images_arrets.mjs en CI.",
+  "dependencies": {
+    "@remotion/bundler": "4.0.350",
+    "@remotion/renderer": "4.0.350",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.350"
+  }
+}

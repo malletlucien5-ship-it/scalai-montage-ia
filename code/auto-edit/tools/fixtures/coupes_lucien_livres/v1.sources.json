@@ -1,0 +1,2862 @@
+{
+"fps": 50.0,
+"speed": 1.06,
+"chunks": [
+{
+"frames": 158,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 19.3989285078674,
+"end": 22.748710564827263
+},
+"camera": {
+"path": "cam",
+"start": 18.68,
+"end": 22.029789789789792
+}
+},
+{
+"frames": 171,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 22.83351517386422,
+"end": 26.458912210194203
+},
+"camera": {
+"path": "cam",
+"start": 22.114594594594596,
+"end": 25.740000000000002
+}
+},
+{
+"frames": 106,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 31.01890168365174,
+"end": 33.26286755342986
+},
+"camera": {
+"path": "cam",
+"start": 30.3,
+"end": 32.54397086092715
+}
+},
+{
+"frames": 19,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 33.38988448945503,
+"end": 33.79210478686809
+},
+"camera": {
+"path": "cam",
+"start": 32.6709880794702,
+"end": 33.073209271523176
+}
+},
+{
+"frames": 69,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 33.94029121223079,
+"end": 35.40098597652032
+},
+"camera": {
+"path": "cam",
+"start": 33.22139602649007,
+"end": 34.6820940397351
+}
+},
+{
+"frames": 82,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 35.6761893379082,
+"end": 37.41208746358561
+},
+"camera": {
+"path": "cam",
+"start": 34.95729801324503,
+"end": 36.6932
+}
+},
+{
+"frames": 311,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 37.55888658637374,
+"end": 44.15567204312428
+},
+"camera": {
+"path": "cam",
+"start": 36.84,
+"end": 43.4368
+}
+},
+{
+"frames": 139,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 49.65885865410097,
+"end": 52.608622837061766
+},
+"camera": {
+"path": "cam",
+"start": 48.94,
+"end": 51.88977099236641
+}
+},
+{
+"frames": 118,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 52.714729462348124,
+"end": 55.218845819106214
+},
+"camera": {
+"path": "cam",
+"start": 51.99587786259542,
+"end": 54.5
+}
+},
+{
+"frames": 137,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 62.898828090192595,
+"end": 65.80334367315893
+},
+"camera": {
+"path": "cam",
+"start": 62.18,
+"end": 65.08452204899777
+}
+},
+{
+"frames": 71,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 65.88814704784409,
+"end": 67.39340694850547
+},
+"camera": {
+"path": "cam",
+"start": 65.16932561247216,
+"end": 66.67458886414254
+}
+},
+{
+"frames": 222,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 67.58421454154706,
+"end": 72.29080183657281
+},
+"camera": {
+"path": "cam",
+"start": 66.86539688195991,
+"end": 71.57199465478843
+}
+},
+{
+"frames": 373,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 75.5787988190175,
+"end": 83.47878058224438
+},
+"camera": {
+"path": "cam",
+"start": 74.86,
+"end": 82.76
+}
+},
+{
+"frames": 68,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 98.05874692500993,
+"end": 99.50445787336176
+},
+"camera": {
+"path": "cam",
+"start": 97.34,
+"end": 98.78571428571429
+}
+},
+{
+"frames": 22,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 99.63202060409868,
+"end": 100.09975061680075
+},
+"camera": {
+"path": "cam",
+"start": 98.91327731092437,
+"end": 99.38100840336135
+}
+},
+{
+"frames": 194,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 100.20605289241485,
+"end": 104.32720092301798
+},
+"camera": {
+"path": "cam",
+"start": 99.48731092436975,
+"end": 103.60846846846847
+}
+},
+{
+"frames": 270,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 104.45440783657342,
+"end": 110.17871894656813
+},
+"camera": {
+"path": "cam",
+"start": 103.73567567567568,
+"end": 109.46000000000001
+}
+},
+{
+"frames": 129,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 112.13871442200163,
+"end": 114.85870814301138
+},
+"camera": {
+"path": "cam",
+"start": 111.42,
+"end": 114.14
+}
+},
+{
+"frames": 305,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 119.37869770880701,
+"end": 125.85548344257184
+},
+"camera": {
+"path": "cam",
+"start": 118.66,
+"end": 125.13680000000001
+}
+},
+{
+"frames": 245,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 127.25867951820294,
+"end": 132.43866756042004
+},
+"camera": {
+"path": "cam",
+"start": 126.54,
+"end": 131.72
+}
+},
+{
+"frames": 160,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 132.81866668320816,
+"end": 136.21433748538325
+},
+"camera": {
+"path": "cam",
+"start": 132.1,
+"end": 135.49567816091954
+}
+},
+{
+"frames": 94,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 136.3628980829784,
+"end": 138.35785467925626
+},
+"camera": {
+"path": "cam",
+"start": 135.64423908045978,
+"end": 137.63920000000002
+}
+},
+{
+"frames": 180,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 142.23864493758757,
+"end": 146.05599461596364
+},
+"camera": {
+"path": "cam",
+"start": 141.52,
+"end": 145.33735849056606
+}
+},
+{
+"frames": 81,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 146.14082460881644,
+"end": 147.85863196408567
+},
+"camera": {
+"path": "cam",
+"start": 145.4221886792453,
+"end": 147.14000000000001
+}
+},
+{
+"frames": 301,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 171.05857840799246,
+"end": 177.44383390051078
+},
+"camera": {
+"path": "cam",
+"start": 170.34,
+"end": 176.72526985915493
+}
+},
+{
+"frames": 40,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 177.74082252806977,
+"end": 178.5893614639526
+},
+"camera": {
+"path": "cam",
+"start": 177.02225915492957,
+"end": 177.8708
+}
+},
+{
+"frames": 125,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 190.13853436272268,
+"end": 192.78822884481764
+},
+"camera": {
+"path": "cam",
+"start": 189.42000000000002,
+"end": 192.0697005988024
+}
+},
+{
+"frames": 3,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 192.87301906824467,
+"end": 192.93661173581495
+},
+"camera": {
+"path": "cam",
+"start": 192.1544910179641,
+"end": 192.21808383233534
+}
+},
+{
+"frames": 129,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 193.10619218266905,
+"end": 195.84067688819104
+},
+"camera": {
+"path": "cam",
+"start": 192.3876646706587,
+"end": 195.12215568862277
+}
+},
+{
+"frames": 57,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 196.0102573350451,
+"end": 197.21851801888042
+},
+"camera": {
+"path": "cam",
+"start": 195.29173652694612,
+"end": 196.5
+}
+},
+{
+"frames": 288,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 238.19842341850543,
+"end": 244.30680966012974
+},
+"camera": {
+"path": "cam",
+"start": 237.48000000000002,
+"end": 243.5884
+}
+},
+{
+"frames": 93,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 247.1384027809419,
+"end": 249.11169771805993
+},
+"camera": {
+"path": "cam",
+"start": 246.42000000000002,
+"end": 248.39329949238578
+}
+},
+{
+"frames": 73,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 249.26022529397204,
+"end": 250.80915572848406
+},
+"camera": {
+"path": "cam",
+"start": 248.5418274111675,
+"end": 250.0907614213198
+}
+},
+{
+"frames": 19,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 250.91524685413555,
+"end": 251.3183931316113
+},
+"camera": {
+"path": "cam",
+"start": 250.19685279187817,
+"end": 250.6
+}
+},
+{
+"frames": 50,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 301.85827646243234,
+"end": 302.91641355465146
+},
+"camera": {
+"path": "cam",
+"start": 301.14,
+"end": 302.1981395348837
+}
+},
+{
+"frames": 54,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 303.02222726387333,
+"end": 304.16501532346996
+},
+"camera": {
+"path": "cam",
+"start": 302.3039534883721,
+"end": 303.4467441860465
+}
+},
+{
+"frames": 25,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 304.41896822560255,
+"end": 304.94803677171205
+},
+"camera": {
+"path": "cam",
+"start": 303.7006976744186,
+"end": 304.2297674418605
+}
+},
+{
+"frames": 103,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 305.053850480934,
+"end": 307.2336128909053
+},
+"camera": {
+"path": "cam",
+"start": 304.33558139534887,
+"end": 306.51534883720933
+}
+},
+{
+"frames": 97,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 307.4382635812686,
+"end": 309.4936101879394
+},
+"camera": {
+"path": "cam",
+"start": 306.72,
+"end": 308.7753513513514
+}
+},
+{
+"frames": 87,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 309.7055015906889,
+"end": 311.54895679461015
+},
+"camera": {
+"path": "cam",
+"start": 308.98724324324326,
+"end": 310.8307027027027
+}
+},
+{
+"frames": 10,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 311.63371335571,
+"end": 311.84560475845956
+},
+"camera": {
+"path": "cam",
+"start": 310.9154594594595,
+"end": 311.12735135135136
+}
+},
+{
+"frames": 13,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 311.9515504598343,
+"end": 312.2270092834088
+},
+"camera": {
+"path": "cam",
+"start": 311.2332972972973,
+"end": 311.5087567567568
+}
+},
+{
+"frames": 138,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 312.3541441250585,
+"end": 315.27824548300254
+},
+"camera": {
+"path": "cam",
+"start": 311.6358918918919,
+"end": 314.56
+}
+},
+{
+"frames": 103,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 323.31822692304615,
+"end": 325.50042527536425
+},
+"camera": {
+"path": "cam",
+"start": 322.6,
+"end": 324.78220338983056
+}
+},
+{
+"frames": 166,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 325.69110280129496,
+"end": 329.20804383512797
+},
+"camera": {
+"path": "cam",
+"start": 324.9728813559322,
+"end": 328.4898305084746
+}
+},
+{
+"frames": 26,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 329.3775349692886,
+"end": 329.92838115531066
+},
+"camera": {
+"path": "cam",
+"start": 328.6593220338983,
+"end": 329.21016949152545
+}
+},
+{
+"frames": 37,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 330.034313114161,
+"end": 330.81820960965393
+},
+"camera": {
+"path": "cam",
+"start": 329.3161016949153,
+"end": 330.1
+}
+},
+{
+"frames": 85,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 337.5781940045164,
+"end": 339.3870525194737
+},
+"camera": {
+"path": "cam",
+"start": 336.86,
+"end": 338.6688623853211
+}
+},
+{
+"frames": 69,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 339.47217527311875,
+"end": 340.94054277349585
+},
+"camera": {
+"path": "cam",
+"start": 338.7539853211009,
+"end": 340.2223559633028
+}
+},
+{
+"frames": 6,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 341.0895075923747,
+"end": 341.21719172284224
+},
+"camera": {
+"path": "cam",
+"start": 340.37132110091744,
+"end": 340.49900550458716
+}
+},
+{
+"frames": 42,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 341.32359516489856,
+"end": 342.21738407817156
+},
+"camera": {
+"path": "cam",
+"start": 340.60540917431194,
+"end": 341.49920000000003
+}
+},
+{
+"frames": 97,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 356.7981496360633,
+"end": 358.85509524230145
+},
+"camera": {
+"path": "cam",
+"start": 356.08,
+"end": 358.1369503546099
+}
+},
+{
+"frames": 50,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 359.1095627399804,
+"end": 360.16984398030934
+},
+"camera": {
+"path": "cam",
+"start": 358.3914184397163,
+"end": 359.4517021276596
+}
+},
+{
+"frames": 117,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 360.29707772914884,
+"end": 362.77813583151857
+},
+"camera": {
+"path": "cam",
+"start": 359.5789361702128,
+"end": 362.06
+}
+},
+{
+"frames": 187,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 371.59811547096933,
+"end": 375.55760971664915
+},
+"camera": {
+"path": "cam",
+"start": 370.88,
+"end": 374.8395033860045
+}
+},
+{
+"frames": 246,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 375.76934737684593,
+"end": 380.9780938176868
+},
+"camera": {
+"path": "cam",
+"start": 375.0512415349887,
+"end": 380.26
+}
+},
+{
+"frames": 296,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 391.15807031764245,
+"end": 397.43805582056206
+},
+"camera": {
+"path": "cam",
+"start": 390.44,
+"end": 396.72
+}
+},
+{
+"frames": 194,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 405.63803689125325,
+"end": 409.7476847251777
+},
+"camera": {
+"path": "cam",
+"start": 404.92,
+"end": 409.0296573208723
+}
+},
+{
+"frames": 118,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 409.938338490669,
+"end": 412.4380211937777
+},
+"camera": {
+"path": "cam",
+"start": 409.22031152647975,
+"end": 411.72
+}
+},
+{
+"frames": 321,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 419.4980048961045,
+"end": 426.3113726263804
+},
+"camera": {
+"path": "cam",
+"start": 418.78000000000003,
+"end": 425.5933834586466
+}
+},
+{
+"frames": 12,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 426.39618446067107,
+"end": 426.650619963543
+},
+"camera": {
+"path": "cam",
+"start": 425.6781954887218,
+"end": 425.9326315789474
+}
+},
+{
+"frames": 185,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 426.7354317978337,
+"end": 430.65797913377685
+},
+"camera": {
+"path": "cam",
+"start": 426.01744360902256,
+"end": 429.94
+}
+},
+{
+"frames": 82,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 432.93797387050563,
+"end": 434.66971812459565
+},
+"camera": {
+"path": "cam",
+"start": 432.22,
+"end": 433.95174825174826
+}
+},
+{
+"frames": 57,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 434.75419345406345,
+"end": 435.9579668989797
+},
+"camera": {
+"path": "cam",
+"start": 434.0362237762238,
+"end": 435.24
+}
+},
+{
+"frames": 69,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 447.2779407672997,
+"end": 448.7464935269405
+},
+"camera": {
+"path": "cam",
+"start": 446.56,
+"end": 448.02855614973265
+}
+},
+{
+"frames": 114,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 448.83162702025305,
+"end": 451.2579315796596
+},
+"camera": {
+"path": "cam",
+"start": 448.1136898395722,
+"end": 450.54
+}
+},
+{
+"frames": 281,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 464.2379016159488,
+"end": 470.1893237747788
+},
+"camera": {
+"path": "cam",
+"start": 463.52,
+"end": 469.4714358974359
+}
+},
+{
+"frames": 26,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 470.4434770342307,
+"end": 470.9941424297096
+},
+"camera": {
+"path": "cam",
+"start": 469.72558974358975,
+"end": 470.27625641025645
+}
+},
+{
+"frames": 63,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 471.1635779360108,
+"end": 472.49788254813285
+},
+"camera": {
+"path": "cam",
+"start": 470.44569230769235,
+"end": 471.78000000000003
+}
+},
+{
+"frames": 217,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 496.33782751463013,
+"end": 500.9340344116998
+},
+"camera": {
+"path": "cam",
+"start": 495.62,
+"end": 500.2162168674699
+}
+},
+{
+"frames": 35,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 501.03993779642497,
+"end": 501.7812614895007
+},
+"camera": {
+"path": "cam",
+"start": 500.3221204819277,
+"end": 501.0634457831325
+}
+},
+{
+"frames": 146,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 502.03542961284097,
+"end": 505.12780844681413
+},
+"camera": {
+"path": "cam",
+"start": 501.3176144578313,
+"end": 504.40999999999997
+}
+},
+{
+"frames": 237,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 526.9777567836518,
+"end": 532.0029291016583
+},
+"camera": {
+"path": "cam",
+"start": 526.26,
+"end": 531.2851834710743
+}
+},
+{
+"frames": 120,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 532.1301486540128,
+"end": 534.6745397011048
+},
+"camera": {
+"path": "cam",
+"start": 531.4124033057851,
+"end": 533.9567999999999
+}
+},
+{
+"frames": 53,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 534.8177386853858,
+"end": 535.9377360999193
+},
+"camera": {
+"path": "cam",
+"start": 534.1,
+"end": 535.22
+}
+},
+{
+"frames": 102,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 548.237707705956,
+"end": 550.4072265072376
+},
+"camera": {
+"path": "cam",
+"start": 547.52,
+"end": 549.6895238095238
+}
+},
+{
+"frames": 10,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 550.5135754680848,
+"end": 550.7262733897791
+},
+"camera": {
+"path": "cam",
+"start": 549.7958730158731,
+"end": 550.0085714285715
+}
+},
+{
+"frames": 57,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 551.0387679064941,
+"end": 552.2395651345045
+},
+"camera": {
+"path": "cam",
+"start": 550.3210666666668,
+"end": 551.5218666666667
+}
+},
+{
+"frames": 13,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 552.3238316066456,
+"end": 552.5976976411041
+},
+"camera": {
+"path": "cam",
+"start": 551.6061333333333,
+"end": 551.88
+}
+},
+{
+"frames": 188,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 561.7376765418501,
+"end": 565.7376673080408
+},
+"camera": {
+"path": "cam",
+"start": 561.02,
+"end": 565.02
+}
+},
+{
+"frames": 153,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 575.8576439465037,
+"end": 579.0976364671183
+},
+"camera": {
+"path": "cam",
+"start": 575.14,
+"end": 578.38
+}
+},
+{
+"frames": 278,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 583.4976263099281,
+"end": 589.397083963505
+},
+"camera": {
+"path": "cam",
+"start": 582.78,
+"end": 588.6794708074534
+}
+},
+{
+"frames": 36,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 589.5668525290756,
+"end": 590.3308110741431
+},
+"camera": {
+"path": "cam",
+"start": 588.8492397515528,
+"end": 589.6132
+}
+},
+{
+"frames": 40,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 599.9175884051415,
+"end": 600.763377698464
+},
+"camera": {
+"path": "cam",
+"start": 599.2,
+"end": 600.0457912457913
+}
+},
+{
+"frames": 224,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 600.8691013601293,
+"end": 605.6055214027353
+},
+"camera": {
+"path": "cam",
+"start": 600.1515151515152,
+"end": 604.8879461279462
+}
+},
+{
+"frames": 23,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 605.7112450644007,
+"end": 606.1975739080611
+},
+"camera": {
+"path": "cam",
+"start": 604.99367003367,
+"end": 605.48
+}
+},
+{
+"frames": 186,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 616.2375507312,
+"end": 620.1900416070423
+},
+"camera": {
+"path": "cam",
+"start": 615.52,
+"end": 619.4725
+}
+},
+{
+"frames": 97,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 620.2962913617692,
+"end": 622.357536603472
+},
+"camera": {
+"path": "cam",
+"start": 619.57875,
+"end": 621.64
+}
+},
+{
+"frames": 181,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 622.4975362802886,
+"end": 626.3375274158319
+},
+"camera": {
+"path": "cam",
+"start": 621.78,
+"end": 625.62
+}
+},
+{
+"frames": 100,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 634.6975081171707,
+"end": 636.8154519459358
+},
+"camera": {
+"path": "cam",
+"start": 633.98,
+"end": 636.0979487179487
+}
+},
+{
+"frames": 16,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 637.0060668905247,
+"end": 637.3449379031272
+},
+"camera": {
+"path": "cam",
+"start": 636.2885641025641,
+"end": 636.6274358974359
+}
+},
+{
+"frames": 107,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 637.4296556562778,
+"end": 639.6958555530565
+},
+"camera": {
+"path": "cam",
+"start": 636.7121538461539,
+"end": 638.978358974359
+}
+},
+{
+"frames": 144,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 639.907649935933,
+"end": 642.9574890493548
+},
+"camera": {
+"path": "cam",
+"start": 639.1901538461539,
+"end": 642.24
+}
+},
+{
+"frames": 76,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 674.5774160560932,
+"end": 676.1774123625696
+},
+"camera": {
+"path": "cam",
+"start": 673.86,
+"end": 675.46
+}
+},
+{
+"frames": 218,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 685.6973903861037,
+"end": 690.3288165077058
+},
+"camera": {
+"path": "cam",
+"start": 684.98,
+"end": 689.6114365853659
+}
+},
+{
+"frames": 102,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 690.4987770993242,
+"end": 692.6657746424592
+},
+"camera": {
+"path": "cam",
+"start": 689.7813975609757,
+"end": 691.9484000000001
+}
+},
+{
+"frames": 249,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 701.257354466586,
+"end": 706.5373422779579
+},
+"camera": {
+"path": "cam",
+"start": 700.54,
+"end": 705.82
+}
+},
+{
+"frames": 152,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 706.834209062533,
+"end": 710.0573341522058
+},
+"camera": {
+"path": "cam",
+"start": 706.1168674698795,
+"end": 709.34
+}
+},
+{
+"frames": 45,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 725.4772985558714,
+"end": 726.4303732788156
+},
+"camera": {
+"path": "cam",
+"start": 724.76,
+"end": 725.7130769230769
+}
+},
+{
+"frames": 91,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 726.536270470254,
+"end": 728.4635993544302
+},
+"camera": {
+"path": "cam",
+"start": 725.8189743589744,
+"end": 727.7463076923077
+}
+},
+{
+"frames": 119,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 728.7177526138821,
+"end": 731.2381057701126
+},
+"camera": {
+"path": "cam",
+"start": 728.0004615384615,
+"end": 730.5208205128205
+}
+},
+{
+"frames": 105,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 731.5134384678521,
+"end": 733.7372794880555
+},
+"camera": {
+"path": "cam",
+"start": 730.7961538461539,
+"end": 733.02
+}
+},
+{
+"frames": 205,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 752.7372356274618,
+"end": 757.0806860885247
+},
+"camera": {
+"path": "cam",
+"start": 752.02,
+"end": 756.3634601769911
+}
+},
+{
+"frames": 15,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 757.2078114678728,
+"end": 757.5256249162433
+},
+"camera": {
+"path": "cam",
+"start": 756.4905858407079,
+"end": 756.8084
+}
+},
+{
+"frames": 271,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 765.7972054790749,
+"end": 771.5571921823897
+},
+"camera": {
+"path": "cam",
+"start": 765.08,
+"end": 770.84
+}
+},
+{
+"frames": 121,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 774.5971851646947,
+"end": 777.1528801995604
+},
+"camera": {
+"path": "cam",
+"start": 773.88,
+"end": 776.4357009345795
+}
+},
+{
+"frames": 87,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 777.2796088789753,
+"end": 779.1171747304903
+},
+"camera": {
+"path": "cam",
+"start": 776.5624299065421,
+"end": 778.4
+}
+},
+{
+"frames": 283,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 789.1771515074603,
+"end": 795.1861456788473
+},
+"camera": {
+"path": "cam",
+"start": 788.46,
+"end": 794.4690080428954
+}
+},
+{
+"frames": 83,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 795.3347780435106,
+"end": 797.0971332245181
+},
+"camera": {
+"path": "cam",
+"start": 794.6176407506703,
+"end": 796.38
+}
+},
+{
+"frames": 132,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 818.6570834542866,
+"end": 821.4496628566042
+},
+"camera": {
+"path": "cam",
+"start": 817.94,
+"end": 820.7325857142857
+}
+},
+{
+"frames": 191,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 821.7246896159234,
+"end": 825.7654673874587
+},
+"camera": {
+"path": "cam",
+"start": 821.0076130952382,
+"end": 825.0484
+}
+},
+{
+"frames": 276,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 830.4570562145495,
+"end": 836.3251974845504
+},
+"camera": {
+"path": "cam",
+"start": 829.74,
+"end": 835.6081542857144
+}
+},
+{
+"frames": 130,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 845.6170212184128,
+"end": 848.3570148932534
+},
+"camera": {
+"path": "cam",
+"start": 844.9,
+"end": 847.64
+}
+},
+{
+"frames": 195,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 848.9370135543512,
+"end": 853.0770039973587
+},
+"camera": {
+"path": "cam",
+"start": 848.22,
+"end": 852.36
+}
+},
+{
+"frames": 174,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 854.8569998883136,
+"end": 858.5369913932092
+},
+"camera": {
+"path": "cam",
+"start": 854.14,
+"end": 857.82
+}
+},
+{
+"frames": 88,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 860.9769857605855,
+"end": 862.8569814206952
+},
+"camera": {
+"path": "cam",
+"start": 860.26,
+"end": 862.14
+}
+},
+{
+"frames": 169,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 869.6769656770506,
+"end": 873.2549490492268
+},
+"camera": {
+"path": "cam",
+"start": 868.96,
+"end": 872.5379916317992
+}
+},
+{
+"frames": 64,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 873.3819780446886,
+"end": 874.736953996282
+},
+"camera": {
+"path": "cam",
+"start": 872.6650209205021,
+"end": 874.02
+}
+},
+{
+"frames": 213,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 876.6769495178845,
+"end": 881.1969390836801
+},
+"camera": {
+"path": "cam",
+"start": 875.96,
+"end": 880.48
+}
+},
+{
+"frames": 63,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 884.5769312811115,
+"end": 885.9140710515238
+},
+"camera": {
+"path": "cam",
+"start": 883.86,
+"end": 885.1971428571429
+}
+},
+{
+"frames": 227,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 885.9989688147245,
+"end": 890.8169168763691
+},
+"camera": {
+"path": "cam",
+"start": 885.2820408163266,
+"end": 890.1
+}
+},
+{
+"frames": 147,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 891.236915906819,
+"end": 894.336908750617
+},
+"camera": {
+"path": "cam",
+"start": 890.52,
+"end": 893.62
+}
+},
+{
+"frames": 62,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 896.936902748641,
+"end": 898.2517272996312
+},
+"camera": {
+"path": "cam",
+"start": 896.22,
+"end": 897.5348275862069
+}
+},
+{
+"frames": 50,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 898.3365546900177,
+"end": 899.3968970698485
+},
+"camera": {
+"path": "cam",
+"start": 897.6196551724138,
+"end": 898.6800000000001
+}
+},
+{
+"frames": 50,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 903.0968885285749,
+"end": 904.1604156771511
+},
+"camera": {
+"path": "cam",
+"start": 902.38,
+"end": 903.4435294117648
+}
+},
+{
+"frames": 64,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 904.2454978490372,
+"end": 905.6068125992147
+},
+"camera": {
+"path": "cam",
+"start": 903.5286117647058,
+"end": 904.8899294117647
+}
+},
+{
+"frames": 80,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 905.7344358570439,
+"end": 907.4360792947657
+},
+"camera": {
+"path": "cam",
+"start": 905.0175529411765,
+"end": 906.7192
+}
+},
+{
+"frames": 291,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 909.8568729234373,
+"end": 916.0168587033713
+},
+"camera": {
+"path": "cam",
+"start": 909.14,
+"end": 915.3000000000001
+}
+},
+{
+"frames": 24,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 919.3768509469716,
+"end": 919.888849765044
+},
+"camera": {
+"path": "cam",
+"start": 918.66,
+"end": 919.172
+}
+},
+{
+"frames": 47,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 919.9741829013894,
+"end": 920.9768472534479
+},
+"camera": {
+"path": "cam",
+"start": 919.2573333333333,
+"end": 920.26
+}
+},
+{
+"frames": 88,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 926.8768336335793,
+"end": 928.7406495557583
+},
+"camera": {
+"path": "cam",
+"start": 926.16,
+"end": 928.0238202247191
+}
+},
+{
+"frames": 188,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 928.8465481877004,
+"end": 932.8283367487192
+},
+"camera": {
+"path": "cam",
+"start": 928.1297191011236,
+"end": 932.1115168539326
+}
+},
+{
+"frames": 70,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 932.9342353806612,
+"end": 934.416816227849
+},
+"camera": {
+"path": "cam",
+"start": 932.2174157303372,
+"end": 933.7
+}
+},
+{
+"frames": 239,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 939.9768033928543,
+"end": 945.0367917120857
+},
+"camera": {
+"path": "cam",
+"start": 939.26,
+"end": 944.32
+}
+},
+{
+"frames": 44,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 948.2967841865312,
+"end": 949.2294766442286
+},
+"camera": {
+"path": "cam",
+"start": 947.58,
+"end": 948.5126946107785
+}
+},
+{
+"frames": 281,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 949.4202546469395,
+"end": 955.3767678426889
+},
+"camera": {
+"path": "cam",
+"start": 948.7034730538923,
+"end": 954.66
+}
+},
+{
+"frames": 101,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 957.3967631796154,
+"end": 959.5367582395274
+},
+"camera": {
+"path": "cam",
+"start": 956.6800000000001,
+"end": 958.82
+}
+},
+{
+"frames": 227,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 961.9367526992419,
+"end": 966.7535422650375
+},
+"camera": {
+"path": "cam",
+"start": 961.22,
+"end": 966.0368
+}
+},
+{
+"frames": 283,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 973.8567251824905,
+"end": 979.8567113317768
+},
+"camera": {
+"path": "cam",
+"start": 973.14,
+"end": 979.14
+}
+},
+{
+"frames": 52,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 980.5967096235221,
+"end": 981.6967070842246
+},
+"camera": {
+"path": "cam",
+"start": 979.88,
+"end": 980.98
+}
+},
+{
+"frames": 108,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 987.9566926333132,
+"end": 990.245918117964
+},
+"camera": {
+"path": "cam",
+"start": 987.24,
+"end": 989.5292307692308
+}
+},
+{
+"frames": 208,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 990.5166867236754,
+"end": 994.9418775360351
+},
+"camera": {
+"path": "cam",
+"start": 989.8000000000001,
+"end": 994.2252
+}
+},
+{
+"frames": 193,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 997.2966710723688,
+"end": 1001.3766616538834
+},
+"camera": {
+"path": "cam",
+"start": 996.58,
+"end": 1000.66
+}
+},
+{
+"frames": 126,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1004.596654220667,
+"end": 1007.2766480340149
+},
+"camera": {
+"path": "cam",
+"start": 1003.88,
+"end": 1006.5600000000001
+}
+},
+{
+"frames": 75,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1029.416596924881,
+"end": 1031.0052822034838
+},
+"camera": {
+"path": "cam",
+"start": 1028.7,
+"end": 1030.2886889460156
+}
+},
+{
+"frames": 133,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1031.2171069072976,
+"end": 1034.0343754680198
+},
+"camera": {
+"path": "cam",
+"start": 1030.5005141388176,
+"end": 1033.3177892030849
+}
+},
+{
+"frames": 69,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1034.267382642215,
+"end": 1035.7289730985294
+},
+"camera": {
+"path": "cam",
+"start": 1033.5507969151672,
+"end": 1035.0123907455013
+}
+},
+{
+"frames": 87,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1035.813702980055,
+"end": 1037.6565779032342
+},
+"camera": {
+"path": "cam",
+"start": 1035.0971208226222,
+"end": 1036.94
+}
+},
+{
+"frames": 344,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1041.3765693157918,
+"end": 1048.67655246409
+},
+"camera": {
+"path": "cam",
+"start": 1040.66,
+"end": 1047.96
+}
+},
+{
+"frames": 214,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1051.0565469699734,
+"end": 1055.5765365357693
+},
+"camera": {
+"path": "cam",
+"start": 1050.34,
+"end": 1054.8600000000001
+}
+},
+{
+"frames": 200,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1057.9965309493145,
+"end": 1062.2365211614767
+},
+"camera": {
+"path": "cam",
+"start": 1057.28,
+"end": 1061.52
+}
+},
+{
+"frames": 60,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1083.096473007162,
+"end": 1084.3718702831884
+},
+"camera": {
+"path": "cam",
+"start": 1082.38,
+"end": 1083.6554
+}
+},
+{
+"frames": 55,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1084.4781533895239,
+"end": 1085.6472675592147
+},
+"camera": {
+"path": "cam",
+"start": 1083.7616833333334,
+"end": 1084.9308
+}
+},
+{
+"frames": 155,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1098.5564373184893,
+"end": 1101.846873408664
+},
+"camera": {
+"path": "cam",
+"start": 1097.84,
+"end": 1101.1304436860069
+}
+},
+{
+"frames": 133,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1101.953016508347,
+"end": 1104.776422959916
+},
+"camera": {
+"path": "cam",
+"start": 1101.2365870307167,
+"end": 1104.06
+}
+},
+{
+"frames": 33,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1106.3764192663925,
+"end": 1107.0733776574937
+},
+"camera": {
+"path": "cam",
+"start": 1105.66,
+"end": 1106.35696
+}
+},
+{
+"frames": 88,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1107.1578574624755,
+"end": 1109.0164131720785
+},
+"camera": {
+"path": "cam",
+"start": 1106.44144,
+"end": 1108.3
+}
+},
+{
+"frames": 121,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1117.3363939657554,
+"end": 1119.9046593718156
+},
+"camera": {
+"path": "cam",
+"start": 1116.6200000000001,
+"end": 1119.1882713347923
+}
+},
+{
+"frames": 56,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1120.1593633790283,
+"end": 1121.3479820793536
+},
+"camera": {
+"path": "cam",
+"start": 1119.4429759299783,
+"end": 1120.6315973741794
+}
+},
+{
+"frames": 213,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1121.5177847508287,
+"end": 1126.038780878852
+},
+"camera": {
+"path": "cam",
+"start": 1120.8014004376369,
+"end": 1125.3224070021881
+}
+},
+{
+"frames": 33,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1126.3359355539335,
+"end": 1127.036371573768
+},
+"camera": {
+"path": "cam",
+"start": 1125.6195623632384,
+"end": 1126.32
+}
+},
+{
+"frames": 233,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1130.7163630786636,
+"end": 1135.6459384758073
+},
+"camera": {
+"path": "cam",
+"start": 1130.0,
+"end": 1134.9295867768597
+}
+},
+{
+"frames": 191,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1137.456347519695,
+"end": 1141.5163381473787
+},
+"camera": {
+"path": "cam",
+"start": 1136.74,
+"end": 1140.8
+}
+},
+{
+"frames": 68,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1146.6763262357651,
+"end": 1148.114695796706
+},
+"camera": {
+"path": "cam",
+"start": 1145.96,
+"end": 1147.398372881356
+}
+},
+{
+"frames": 222,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1148.2204582644222,
+"end": 1152.9163118310228
+},
+"camera": {
+"path": "cam",
+"start": 1147.5041355932203,
+"end": 1152.2
+}
+},
+{
+"frames": 92,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1165.5162827445238,
+"end": 1167.4677933910593
+},
+"camera": {
+"path": "cam",
+"start": 1164.8,
+"end": 1166.7515151515152
+}
+},
+{
+"frames": 47,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1167.573853752284,
+"end": 1168.5708211477968
+},
+"camera": {
+"path": "cam",
+"start": 1166.8575757575757,
+"end": 1167.8545454545454
+}
+},
+{
+"frames": 180,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1168.6980935812664,
+"end": 1172.5162665853577
+},
+"camera": {
+"path": "cam",
+"start": 1167.9818181818182,
+"end": 1171.8
+}
+},
+{
+"frames": 183,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1176.7562567975199,
+"end": 1180.6358478416485
+},
+"camera": {
+"path": "cam",
+"start": 1176.04,
+"end": 1179.9196
+}
+},
+{
+"frames": 61,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1180.7630475480134,
+"end": 1182.056244562723
+},
+"camera": {
+"path": "cam",
+"start": 1180.0467999999998,
+"end": 1181.34
+}
+},
+{
+"frames": 142,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1187.716231496883,
+"end": 1190.7362245253569
+},
+"camera": {
+"path": "cam",
+"start": 1187.0,
+"end": 1190.02
+}
+},
+{
+"frames": 138,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1194.716215337717,
+"end": 1197.6354093819098
+},
+"camera": {
+"path": "cam",
+"start": 1194.0,
+"end": 1196.9191999999998
+}
+},
+{
+"frames": 99,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1199.036205365203,
+"end": 1201.136200517453
+},
+"camera": {
+"path": "cam",
+"start": 1198.32,
+"end": 1200.42
+}
+},
+{
+"frames": 203,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1206.3561884673322,
+"end": 1210.655002073115
+},
+"camera": {
+"path": "cam",
+"start": 1205.64,
+"end": 1209.9388235294118
+}
+},
+{
+"frames": 149,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1210.887942711852,
+"end": 1214.043229545653
+},
+"camera": {
+"path": "cam",
+"start": 1210.1717647058824,
+"end": 1213.3270588235296
+}
+},
+{
+"frames": 55,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1214.1914644975766,
+"end": 1215.3561676912616
+},
+"camera": {
+"path": "cam",
+"start": 1213.475294117647,
+"end": 1214.64
+}
+},
+{
+"frames": 95,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1227.6961392049602,
+"end": 1229.7155631146343
+},
+"camera": {
+"path": "cam",
+"start": 1226.98,
+"end": 1228.9994285714286
+}
+},
+{
+"frames": 73,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1229.8643627711365,
+"end": 1231.4161306175176
+},
+"camera": {
+"path": "cam",
+"start": 1229.1482285714287,
+"end": 1230.7
+}
+},
+{
+"frames": 137,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1233.5361257235986,
+"end": 1236.4361190290872
+},
+"camera": {
+"path": "cam",
+"start": 1232.82,
+"end": 1235.72
+}
+},
+{
+"frames": 137,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1236.91611792103,
+"end": 1239.8261124269134
+},
+"camera": {
+"path": "cam",
+"start": 1236.2,
+"end": 1239.11
+}
+},
+{
+"frames": 38,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1244.8560995919188,
+"end": 1245.6617629681305
+},
+"camera": {
+"path": "cam",
+"start": 1244.14,
+"end": 1244.9456652360516
+}
+},
+{
+"frames": 182,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1245.9373846494661,
+"end": 1249.7960881881643
+},
+"camera": {
+"path": "cam",
+"start": 1245.2212875536482,
+"end": 1249.08
+}
+},
+{
+"frames": 173,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1252.0760829248934,
+"end": 1255.7360744759578
+},
+"camera": {
+"path": "cam",
+"start": 1251.3600000000001,
+"end": 1255.02
+}
+},
+{
+"frames": 103,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1259.596065565332,
+"end": 1261.7760605329058
+},
+"camera": {
+"path": "cam",
+"start": 1258.88,
+"end": 1261.06
+}
+},
+{
+"frames": 296,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1272.3160362018189,
+"end": 1278.5888240767317
+},
+"camera": {
+"path": "cam",
+"start": 1271.6000000000001,
+"end": 1277.8728020253166
+}
+},
+{
+"frames": 67,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1278.673591480447,
+"end": 1280.0934454926737
+},
+"camera": {
+"path": "cam",
+"start": 1277.9575696202533,
+"end": 1279.3774268354432
+}
+},
+{
+"frames": 24,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1280.1782128963887,
+"end": 1280.686817318679
+},
+"camera": {
+"path": "cam",
+"start": 1279.46219443038,
+"end": 1279.9708
+}
+},
+{
+"frames": 116,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1297.6159777979758,
+"end": 1300.095972073014
+},
+"camera": {
+"path": "cam",
+"start": 1296.9,
+"end": 1299.38
+}
+},
+{
+"frames": 175,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1305.87595873016,
+"end": 1309.5828467246902
+},
+"camera": {
+"path": "cam",
+"start": 1305.16,
+"end": 1308.8668965517243
+}
+},
+{
+"frames": 21,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1309.7311222444712,
+"end": 1310.175948803815
+},
+"camera": {
+"path": "cam",
+"start": 1309.0151724137932,
+"end": 1309.46
+}
+},
+{
+"frames": 129,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1311.8159450179533,
+"end": 1314.5359387389628
+},
+"camera": {
+"path": "cam",
+"start": 1311.1000000000001,
+"end": 1313.82
+}
+},
+{
+"frames": 126,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1315.6359361996654,
+"end": 1318.3159300130135
+},
+"camera": {
+"path": "cam",
+"start": 1314.92,
+"end": 1317.6000000000001
+}
+},
+{
+"frames": 164,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1319.6559269196873,
+"end": 1323.1243192556256
+},
+"camera": {
+"path": "cam",
+"start": 1318.94,
+"end": 1322.4084
+}
+},
+{
+"frames": 92,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1326.755910529676,
+"end": 1328.7125257312223
+},
+"camera": {
+"path": "cam",
+"start": 1326.04,
+"end": 1327.9966197183098
+}
+},
+{
+"frames": 43,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1328.8613986269922,
+"end": 1329.7759035581498
+},
+"camera": {
+"path": "cam",
+"start": 1328.1454929577465,
+"end": 1329.06
+}
+},
+{
+"frames": 150,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1329.855903373474,
+"end": 1333.0358960325955
+},
+"camera": {
+"path": "cam",
+"start": 1329.14,
+"end": 1332.32
+}
+},
+{
+"frames": 388,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1336.755887445153,
+"end": 1344.975868469675
+},
+"camera": {
+"path": "cam",
+"start": 1336.04,
+"end": 1344.26
+}
+},
+{
+"frames": 52,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1346.0958658842087,
+"end": 1347.198263339371
+},
+"camera": {
+"path": "cam",
+"start": 1345.38,
+"end": 1346.4824
+}
+},
+{
+"frames": 126,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1347.3890628989182,
+"end": 1350.0602567325805
+},
+"camera": {
+"path": "cam",
+"start": 1346.6732000000002,
+"end": 1349.3444000000002
+}
+},
+{
+"frames": 200,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1350.335856096371,
+"end": 1354.575846308533
+},
+"camera": {
+"path": "cam",
+"start": 1349.6200000000001,
+"end": 1353.8600000000001
+}
+},
+{
+"frames": 333,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1360.4558327348336,
+"end": 1367.5158164371603
+},
+"camera": {
+"path": "cam",
+"start": 1359.74,
+"end": 1366.8
+}
+},
+{
+"frames": 371,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1372.6558045717156,
+"end": 1380.5289869351398
+},
+"camera": {
+"path": "cam",
+"start": 1371.94,
+"end": 1379.8131999999998
+}
+},
+{
+"frames": 282,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1387.1757710529882,
+"end": 1393.1465577101342
+},
+"camera": {
+"path": "cam",
+"start": 1386.46,
+"end": 1392.4308
+}
+},
+{
+"frames": 41,
+"layout": "face",
+"audio": {
+"path": "obs",
+"start": 1394.355754478301,
+"end": 1395.2357524468628
+},
+"camera": {
+"path": "cam",
+"start": 1393.64,
+"end": 1394.52
+}
+}
+]
+}

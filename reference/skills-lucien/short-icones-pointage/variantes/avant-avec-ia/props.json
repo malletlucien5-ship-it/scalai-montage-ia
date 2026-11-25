@@ -1,0 +1,116 @@
+{
+ "totalFrames": 684,
+ "video": "montage3.mp4",
+ "labels": [
+  "avant l'IA :",
+  "avec l'IA :"
+ ],
+ "sfxGain": 0.5,
+ "sections": [
+  {
+   "title": "Écrire des emails",
+   "from": 0,
+   "to": 115,
+   "before": {
+    "name": "Gmail",
+    "icon": "gmail.svg",
+    "reveal": 22
+   },
+   "after": {
+    "name": "Claude",
+    "icon": "claude.svg",
+    "reveal": 71
+   }
+  },
+  {
+   "title": "Faire des présentations",
+   "from": 115,
+   "to": 221,
+   "before": {
+    "name": "PowerPoint",
+    "icon": "powerpoint.svg",
+    "reveal": 16
+   },
+   "after": {
+    "name": "Gamma",
+    "icon": "gamma.png",
+    "reveal": 65
+   }
+  },
+  {
+   "title": "Faire des recherches",
+   "from": 221,
+   "to": 320,
+   "before": {
+    "name": "Google",
+    "icon": "google.svg",
+    "reveal": 7
+   },
+   "after": {
+    "name": "Grok",
+    "icon": "grok.svg",
+    "reveal": 64
+   }
+  },
+  {
+   "title": "Prendre des notes",
+   "from": 320,
+   "to": 413,
+   "before": {
+    "name": "Google Docs",
+    "icon": "googledocs.svg",
+    "reveal": 8
+   },
+   "after": {
+    "name": "Granola",
+    "icon": "granola.png",
+    "reveal": 56
+   }
+  },
+  {
+   "title": "Créer un site web",
+   "from": 413,
+   "to": 506,
+   "before": {
+    "name": "WordPress",
+    "icon": "wordpress.svg",
+    "reveal": 10
+   },
+   "after": {
+    "name": "Claude Code",
+    "icon": "claudecode.svg",
+    "reveal": 57
+   }
+  },
+  {
+   "title": "Design graphique",
+   "from": 506,
+   "to": 597,
+   "before": {
+    "name": "Illustrator",
+    "icon": "illustrator.svg",
+    "reveal": 11
+   },
+   "after": {
+    "name": "Nano Banana",
+    "icon": "nanobanana.svg",
+    "reveal": 57
+   }
+  },
+  {
+   "title": "Apprendre",
+   "from": 597,
+   "to": 684,
+   "before": {
+    "name": "YouTube",
+    "icon": "youtube.svg",
+    "reveal": 8
+   },
+   "after": {
+    "name": "NotebookLM",
+    "icon": "notebooklm.svg",
+    "reveal": 63
+   }
+  }
+ ]
+}

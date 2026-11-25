@@ -1,0 +1,28 @@
+{
+  "source": "OBS « Vidéo Livres Claude/Son/2026-09-28 19-00-06.mp4 », montage du 08/10/2026",
+  "extrait": "3 s mono 16 kHz, la coupe tombe à 1,5 s",
+  "stats_source": {"fond_db": -87.01, "parole_db": -35.49, "fond_brut_ancien_db": -77.49,
+                   "note": "mesurés sur le fichier OBS complet : levels_db (passe-haut 80 Hz) et ancien floor_db (brut)"},
+  "cas": [
+    {"fichier": "entreprise.wav", "cote": "fin", "t_source": 55.219, "mot": "entreprise",
+     "doit_atteindre": 0.18, "note": "sifflante finale « -se » perdue, Fal entend « entre eux » en v2"},
+    {"fichier": "schwartz.wav", "cote": "fin", "t_source": 899.397, "mot": "Schwartz",
+     "doit_atteindre": 0.19, "note": "« -tz » perdu, Fal entend « Schumann » en v2"},
+    {"fichier": "pitch.wav", "cote": "fin", "t_source": 1055.577, "mot": "pitch",
+     "doit_atteindre": 0.20, "note": "coupe dans l'occlusion du t, « -tch » perdu, Fal entend « mon... » en v2"},
+    {"fichier": "etape.wav", "cote": "fin", "t_source": 1127.036, "mot": "étape",
+     "doit_atteindre": 0.14, "note": "fin de voyelle et détente du p perdues"},
+    {"fichier": "ce-que.wav", "cote": "debut", "t_source": 876.677, "mot": "Ce (que)",
+     "doit_atteindre": 0.07, "note": "« Ce » retiré, Fal entend « vente, que ces personnes » en v2"},
+    {"fichier": "commerciales.wav", "cote": "fin", "t_source": 1007.277, "mot": "commerciales",
+     "doit_atteindre": 0, "note": "reprise « Et maintenant » coupée volontairement juste après"},
+    {"fichier": "fois.wav", "cote": "fin", "t_source": 934.417, "mot": "fois",
+     "doit_atteindre": 0, "note": "clic de lèvres isolé après le mot"},
+    {"fichier": "different.wav", "cote": "fin", "t_source": 1197.296, "mot": "différent",
+     "doit_atteindre": 0, "note": "grondement grave : l'ancien code rallongeait de 0,30 s"},
+    {"fichier": "et-jai.wav", "cote": "debut", "t_source": 860.977, "mot": "Et j'ai",
+     "doit_atteindre": 0, "note": "grondement grave avant l'attaque, aucun mot coupé"},
+    {"fichier": "pour-cela.wav", "cote": "debut", "t_source": 830.457, "mot": "Pour cela",
+     "doit_atteindre": 0, "note": "grondement grave avant l'explosion du p"}
+  ]
+}

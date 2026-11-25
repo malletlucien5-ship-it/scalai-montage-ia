@@ -1,0 +1,1148 @@
+{
+ "montage": "/Users/lucienmallet/Desktop/montage-2026-10-08-livres/montage.sources.json",
+ "audio_maitre": "/Users/lucienmallet/Desktop/Vidéo Livres Claude/Son/2026-09-28 19-00-06.mp4",
+ "v2": "v1 moins les images 15832-15836 et 20554-20559 (t_v2 = raccord sur la timeline v2)",
+ "methode": "tools/tail_guard.py du 09/10/2026 (extension/lead) sur chaque raccord, ajout = voix + retour au silence + 40 ms de marge, borné par la portion voisine",
+ "raccords_examines": {
+  "prises": 103,
+  "creux": 100
+ },
+ "cas": [
+  {
+   "chunk": 8,
+   "cote": "fin",
+   "t_v2": 23.46,
+   "mot": "entreprise",
+   "ajout_s": 0.3,
+   "gravite": "mot coupé",
+   "t_source": 55.219,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -48.5,
+     -51.5,
+     -57.7,
+     -62.6,
+     -64.2,
+     -66.8,
+     -69.2,
+     -60.9,
+     -63.7,
+     -64.1,
+     -65.2,
+     -64.7,
+     -62.6,
+     -64.7,
+     -60.3,
+     -47.5,
+     -51.7,
+     -49.4,
+     -50.0,
+     -51.0,
+     -53.2,
+     -63.1,
+     -61.7,
+     -60.9,
+     -62.4,
+     -62.3,
+     -63.2,
+     -65.4,
+     -65.9,
+     -71.6,
+     -73.3,
+     -74.3,
+     -72.1,
+     -79.9,
+     -76.9,
+     -81.1
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.06,
+    "pic_perdu_dB": -47.5,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 7.68,
+    "transcription_v2": "dans mon entre eux. Mais le plus intéressant c",
+    "oreille": "Fal sur la v2 entend « mon entre eux. »",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -55.9,
+      -56.9,
+      -49.7,
+      -53.0,
+      -58.6,
+      -65.0,
+      -66.9,
+      -65.7,
+      -64.9,
+      -70.0,
+      -68.9,
+      -64.3
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucun couple de fenêtres 50 ms sous fond+8 = -69.5 dB dans les 0.6 s : lu comme une phrase continue, rien rallongé"
+    }
+   }
+  },
+  {
+   "chunk": 17,
+   "cote": "fin",
+   "t_v2": 53.18,
+   "mot": "mesure",
+   "ajout_s": 0.1,
+   "gravite": "rognure légère",
+   "t_source": 114.859,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -53.4,
+     -57.9,
+     -54.8,
+     -52.9,
+     -64.3,
+     -66.8,
+     -68.8,
+     -67.4,
+     -66.5,
+     -72.2,
+     -73.1,
+     -73.3,
+     -74.7,
+     -74.1,
+     -70.7,
+     -72.2
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -52.9,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 4.52,
+    "transcription_v2": "une certaine mesure. Vous pouvez lui demander de vous parler",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -57.8,
+      -68.8,
+      -68.3,
+      -71.2,
+      -70.2,
+      -68.5,
+      -68.2,
+      -66.6,
+      -65.2,
+      -69.4,
+      -64.8,
+      -52.2
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucune fenêtre au-dessus de fond+20 = -57.5 dB avant le silence"
+    }
+   }
+  },
+  {
+   "chunk": 19,
+   "cote": "fin",
+   "t_v2": 64.18,
+   "mot": "donnée",
+   "ajout_s": 0.13,
+   "gravite": "rognure légère",
+   "t_source": 132.439,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -56.8,
+     -59.0,
+     -58.8,
+     -58.4,
+     -59.7,
+     -61.2,
+     -63.4,
+     -62.6,
+     -63.7,
+     -63.0,
+     -65.6,
+     -64.5,
+     -63.5,
+     -64.1,
+     -65.1,
+     -65.0,
+     -65.0,
+     -65.5,
+     -66.7
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -58.4,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 0.38,
+    "transcription_v2": "vous lui avez donné, il devient médiocre",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -58.4,
+      -61.5,
+      -60.9,
+      -64.6,
+      -69.7,
+      -67.2,
+      -67.3,
+      -71.6,
+      -42.6,
+      -38.2,
+      -40.6,
+      -34.2
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucun couple de fenêtres 50 ms sous fond+8 = -69.5 dB dans les 0.6 s : lu comme une phrase continue, rien rallongé"
+    }
+   }
+  },
+  {
+   "chunk": 33,
+   "cote": "fin",
+   "t_v2": 97.04,
+   "mot": "résoudre",
+   "ajout_s": 0.11,
+   "gravite": "rognure légère",
+   "t_source": 251.318,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -58.6,
+     -59.6,
+     -60.8,
+     -57.6,
+     -66.2,
+     -69.1,
+     -67.7,
+     -66.3,
+     -69.6,
+     -68.1,
+     -71.5,
+     -74.9,
+     -74.9,
+     -76.0,
+     -79.9,
+     -77.6,
+     -81.4
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -57.6,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 50.54,
+    "transcription_v2": "va résoudre. Un skill, c 'est simplement une",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -62.6,
+      -67.1,
+      -71.3,
+      -73.3,
+      -73.8,
+      -69.4,
+      -66.8,
+      -72.6,
+      -72.2,
+      -76.1,
+      -70.6,
+      -64.4
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucune fenêtre au-dessus de fond+20 = -57.5 dB avant le silence"
+    }
+   }
+  },
+  {
+   "chunk": 53,
+   "cote": "fin",
+   "t_v2": 124.54,
+   "mot": "bibliothèques",
+   "ajout_s": 0.18,
+   "gravite": "rognure légère",
+   "t_source": 362.778,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -64.9,
+     -66.0,
+     -65.8,
+     -65.8,
+     -69.7,
+     -67.5,
+     -67.6,
+     -60.0,
+     -58.2,
+     -59.4,
+     -57.1,
+     -57.4,
+     -60.3,
+     -61.4,
+     -63.0,
+     -66.6,
+     -71.0,
+     -73.2,
+     -72.7,
+     -78.9,
+     -79.0,
+     -81.7,
+     -87.9,
+     -82.5
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.04,
+    "pic_perdu_dB": -57.1,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 8.82,
+    "transcription_v2": "de bibliothèques. Ce qui va se passer, c 'est qu 'au",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -61.8,
+      -57.8,
+      -59.0,
+      -66.5,
+      -73.7,
+      -72.8,
+      -78.2,
+      -73.7,
+      -69.7,
+      -70.6,
+      -68.8,
+      -73.4
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucune fenêtre au-dessus de fond+20 = -57.5 dB avant le silence"
+    }
+   }
+  },
+  {
+   "chunk": 57,
+   "cote": "debut",
+   "t_v2": 139.12,
+   "mot": "Puis",
+   "ajout_s": 0.07,
+   "gravite": "rognure légère",
+   "t_source": 405.638,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -76.1,
+     -83.8,
+     -86.6,
+     -88.1,
+     -85.6,
+     -84.4,
+     -85.1,
+     -63.4,
+     -61.6,
+     -54.4,
+     -48.5,
+     -45.6,
+     -42.1
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 10",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -54.4,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 8.2,
+    "transcription_v2": "en ait réellement besoin. Puis lorsque vous lui demandez de",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 66,
+   "cote": "debut",
+   "t_v2": 162.16,
+   "mot": "C'est (une procédure)",
+   "ajout_s": 0.07,
+   "gravite": "rognure légère",
+   "t_source": 464.238,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -84.5,
+     -88.7,
+     -89.8,
+     -91.3,
+     -89.2,
+     -84.3,
+     -79.3,
+     -65.3,
+     -57.9,
+     -55.6,
+     -50.4,
+     -50.0,
+     -52.9
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 10",
+    "voix_perdue_s": 0.02,
+    "pic_perdu_dB": -55.6,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 12.98,
+    "transcription_v2": "ces livres en skill. C 'est une procédure qui va",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 88,
+   "cote": "fin",
+   "t_v2": 217.48,
+   "mot": "skill",
+   "ajout_s": 0.08,
+   "gravite": "rognure légère",
+   "t_source": 626.338,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -53.5,
+     -52.5,
+     -52.6,
+     -53.1,
+     -54.7,
+     -58.3,
+     -68.3,
+     -74.5,
+     -74.1,
+     -75.8,
+     -76.2,
+     -77.8,
+     -81.7,
+     -83.1
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.03,
+    "pic_perdu_dB": -53.1,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 8.36,
+    "transcription_v2": "à ce skill. Et dorénavant, vous pouvez",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -55.2,
+      -64.8,
+      -63.8,
+      -56.9,
+      -64.0,
+      -67.3,
+      -59.4,
+      -60.2,
+      -70.7,
+      -66.0,
+      -66.6,
+      -67.9
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucun couple de fenêtres 50 ms sous fond+8 = -69.5 dB dans les 0.6 s : lu comme une phrase continue, rien rallongé"
+    }
+   }
+  },
+  {
+   "chunk": 118,
+   "cote": "debut",
+   "t_v2": 297.64,
+   "mot": "Ce (que)",
+   "ajout_s": 0.12,
+   "gravite": "mot coupé",
+   "t_source": 876.677,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -83.4,
+     -85.5,
+     -84.3,
+     -85.8,
+     -83.9,
+     -82.7,
+     -78.2,
+     -68.0,
+     -58.4,
+     -56.0,
+     -50.8,
+     -47.8,
+     -52.6,
+     -57.8,
+     -70.5,
+     -65.9,
+     -71.6,
+     -79.6
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 15",
+    "voix_perdue_s": 0.06,
+    "pic_perdu_dB": -47.8,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 1.94,
+    "transcription_v2": "la page de vente, que ces personnes savaient déjà",
+    "oreille": "Fal sur la v2 entend « page de vente, que ces personnes »",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 123,
+   "cote": "fin",
+   "t_v2": 312.88,
+   "mot": "Schwartz",
+   "ajout_s": 0.26,
+   "gravite": "mot coupé",
+   "t_source": 899.397,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -43.5,
+     -53.1,
+     -55.3,
+     -57.2,
+     -45.0,
+     -50.6,
+     -54.2,
+     -56.2,
+     -60.4,
+     -61.2,
+     -66.9,
+     -65.4,
+     -66.0,
+     -70.3,
+     -67.7,
+     -66.0,
+     -62.7,
+     -59.8,
+     -56.5,
+     -50.6,
+     -54.3,
+     -55.2,
+     -60.6,
+     -63.7,
+     -65.9,
+     -72.1,
+     -74.5,
+     -78.0,
+     -79.6,
+     -82.2,
+     -84.3,
+     -83.2
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.09,
+    "pic_perdu_dB": -45.0,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 3.7,
+    "transcription_v2": "'impression de parler à Eugène Schumann. Une deuxième chose avec laquelle Claude",
+    "oreille": "Fal sur la v2 entend « Eugène Schumann. »",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -36.1,
+      -47.5,
+      -58.6,
+      -51.0,
+      -59.1,
+      -60.4,
+      -55.5,
+      -66.5,
+      -58.3,
+      -60.9,
+      -69.6,
+      -61.0
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucun couple de fenêtres 50 ms sous fond+8 = -69.5 dB dans les 0.6 s : lu comme une phrase continue, rien rallongé"
+    }
+   }
+  },
+  {
+   "chunk": 149,
+   "cote": "fin",
+   "t_v2": 386.5,
+   "mot": "pitch",
+   "ajout_s": 0.31,
+   "gravite": "mot coupé",
+   "t_source": 1055.577,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -66.2,
+     -67.1,
+     -61.6,
+     -59.7,
+     -63.7,
+     -65.1,
+     -63.6,
+     -62.8,
+     -55.6,
+     -61.1,
+     -69.4,
+     -71.6,
+     -72.7,
+     -67.5,
+     -64.8,
+     -58.5,
+     -54.0,
+     -53.8,
+     -53.0,
+     -49.6,
+     -51.5,
+     -54.2,
+     -54.2,
+     -55.0,
+     -58.2,
+     -60.1,
+     -62.7,
+     -65.4,
+     -66.8,
+     -71.5,
+     -76.5,
+     -79.8,
+     -81.3,
+     -80.9,
+     -80.4,
+     -77.3,
+     -78.9
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.11,
+    "pic_perdu_dB": -49.6,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 2.42,
+    "transcription_v2": "mon offre et à faire mon... Et ça, ça crée vraiment une",
+    "oreille": "Fal sur la v2 entend « faire mon... »",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -57.0,
+      -60.7,
+      -56.9,
+      -52.1,
+      -58.5,
+      -66.5,
+      -61.6,
+      -66.0,
+      -68.7,
+      -67.0,
+      -66.3,
+      -73.7
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "voix au-delà de 0,5 s"
+    }
+   }
+  },
+  {
+   "chunk": 155,
+   "cote": "debut",
+   "t_v2": 398.56,
+   "mot": "C'est (littéralement)",
+   "ajout_s": 0.08,
+   "gravite": "rognure légère",
+   "t_source": 1106.376,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -90.3,
+     -84.6,
+     -85.2,
+     -86.6,
+     -85.1,
+     -78.9,
+     -72.0,
+     -59.4,
+     -58.8,
+     -53.2,
+     -47.8,
+     -49.1,
+     -48.1,
+     -49.6
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 11",
+    "voix_perdue_s": 0.04,
+    "pic_perdu_dB": -47.8,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 1.6,
+    "transcription_v2": "farfelu. C 'est littéralement incohérent",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 156,
+   "cote": "fin",
+   "t_v2": 400.98,
+   "mot": "inutilisable",
+   "ajout_s": 0.07,
+   "gravite": "rognure légère",
+   "t_source": 1109.016,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -64.7,
+     -63.9,
+     -56.7,
+     -53.2,
+     -70.4,
+     -67.4,
+     -73.4,
+     -72.1,
+     -75.9,
+     -73.7,
+     -74.3,
+     -77.9,
+     -78.7
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -53.2,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 8.32,
+    "transcription_v2": "Et les méthodes qui sont signées",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -59.6,
+      -69.7,
+      -71.1,
+      -74.6,
+      -74.1,
+      -62.3,
+      -69.4,
+      -70.1,
+      -73.4,
+      -79.6,
+      -76.5,
+      -78.1
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucune fenêtre au-dessus de fond+20 = -57.5 dB avant le silence"
+    }
+   }
+  },
+  {
+   "chunk": 160,
+   "cote": "fin",
+   "t_v2": 409.44,
+   "mot": "étape",
+   "ajout_s": 0.22,
+   "gravite": "mot coupé",
+   "t_source": 1127.036,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -64.2,
+     -65.4,
+     -66.7,
+     -56.7,
+     -49.0,
+     -53.4,
+     -50.9,
+     -55.2,
+     -56.9,
+     -66.5,
+     -74.6,
+     -72.9,
+     -75.8,
+     -77.0,
+     -77.2,
+     -63.9,
+     -58.2,
+     -69.7,
+     -62.8,
+     -63.5,
+     -66.6,
+     -73.2,
+     -78.7,
+     -80.3,
+     -81.8,
+     -79.9,
+     -81.3,
+     -85.9
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.07,
+    "pic_perdu_dB": -49.0,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 3.68,
+    "transcription_v2": "suivre étape par étape. Sous forme de skill, ça empêche",
+    "oreille": "Fal sur la v2 entend encore « étape »",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -50.5,
+      -62.5,
+      -56.8,
+      -46.5,
+      -53.5,
+      -63.2,
+      -75.6,
+      -65.4,
+      -71.0,
+      -66.8,
+      -64.8,
+      -72.1
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "voix au-delà de 0,5 s"
+    }
+   }
+  },
+  {
+   "chunk": 161,
+   "cote": "debut",
+   "t_v2": 409.44,
+   "mot": "Sous",
+   "ajout_s": 0.06,
+   "gravite": "rognure légère",
+   "t_source": 1130.716,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -77.9,
+     -80.8,
+     -82.1,
+     -85.5,
+     -82.5,
+     -80.4,
+     -80.9,
+     -64.7,
+     -56.8,
+     -59.6,
+     -56.1,
+     -54.0
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 9",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -56.8,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 3.68,
+    "transcription_v2": "suivre étape par étape. Sous forme de skill, ça empêche",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 170,
+   "cote": "debut",
+   "t_v2": 434.86,
+   "mot": "C'est (littéralement mon préféré)",
+   "ajout_s": 0.09,
+   "gravite": "rognure légère",
+   "t_source": 1187.716,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -78.8,
+     -83.9,
+     -81.8,
+     -80.8,
+     -81.4,
+     -80.1,
+     -77.2,
+     -64.4,
+     -57.9,
+     -54.0,
+     -51.9,
+     -50.5,
+     -54.1,
+     -54.8,
+     -54.4
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 12",
+    "voix_perdue_s": 0.04,
+    "pic_perdu_dB": -50.5,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 5.66,
+    "transcription_v2": "livre va l 'enseigner. C 'est littéralement mon préféré",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 170,
+   "cote": "fin",
+   "t_v2": 437.7,
+   "mot": "spectaculaire",
+   "ajout_s": 0.16,
+   "gravite": "rognure légère",
+   "t_source": 1190.736,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -55.2,
+     -59.2,
+     -50.3,
+     -58.9,
+     -60.0,
+     -60.1,
+     -56.8,
+     -60.3,
+     -64.1,
+     -62.7,
+     -64.7,
+     -67.5,
+     -66.3,
+     -68.9,
+     -69.5,
+     -74.0,
+     -75.2,
+     -76.3,
+     -76.5,
+     -80.7,
+     -79.9,
+     -83.9
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.02,
+    "pic_perdu_dB": -56.8,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 3.98,
+    "transcription_v2": "'est spectaculaire. Le dernier livre que j 'ai donné à",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -58.1,
+      -61.8,
+      -62.0,
+      -61.0,
+      -61.1,
+      -68.2,
+      -67.2,
+      -64.1,
+      -67.4,
+      -64.5,
+      -68.3,
+      -69.7
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucune fenêtre au-dessus de fond+20 = -57.5 dB avant le silence"
+    }
+   }
+  },
+  {
+   "chunk": 190,
+   "cote": "debut",
+   "t_v2": 483.32,
+   "mot": "Parce qu'on",
+   "ajout_s": 0.06,
+   "gravite": "rognure légère",
+   "t_source": 1311.816,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -82.3,
+     -79.8,
+     -86.7,
+     -90.9,
+     -90.8,
+     -88.8,
+     -84.4,
+     -59.7,
+     -55.6,
+     -59.1,
+     -55.5,
+     -54.5
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 9",
+    "voix_perdue_s": 0.01,
+    "pic_perdu_dB": -55.6,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 1.64,
+    "transcription_v2": "-même tous les livres. Parce qu 'on va perdre tout simplement les",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  },
+  {
+   "chunk": 195,
+   "cote": "fin",
+   "t_v2": 497.4,
+   "mot": "suivre",
+   "ajout_s": 0.11,
+   "gravite": "rognure légère",
+   "t_source": 1333.036,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -48.8,
+     -47.5,
+     -47.3,
+     -57.8,
+     -58.1,
+     -62.4,
+     -60.1,
+     -66.0,
+     -65.0,
+     -70.8,
+     -72.8,
+     -73.7,
+     -73.0,
+     -81.3,
+     -77.6,
+     -80.0,
+     -81.7
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après les 3 premières trames",
+    "voix_perdue_s": 0.02,
+    "pic_perdu_dB": -57.8,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 3.72,
+    "transcription_v2": "process à suivre. Et par exemple, pour ce framework",
+    "ancien_tail_guard": {
+     "profil_50ms_brut_dB": [
+      -57.9,
+      -64.3,
+      -67.4,
+      -68.1,
+      -75.8,
+      -71.4,
+      -72.0,
+      -75.7,
+      -70.7,
+      -77.5,
+      -70.8,
+      -74.3
+     ],
+     "seuil_voix_dB": -57.5,
+     "seuil_silence_dB": -69.5,
+     "resultat_s": 0.0,
+     "raison": "aucune fenêtre au-dessus de fond+20 = -57.5 dB avant le silence"
+    }
+   }
+  },
+  {
+   "chunk": 202,
+   "cote": "debut",
+   "t_v2": 526.8,
+   "mot": "Dites(-moi)",
+   "ajout_s": 0.09,
+   "gravite": "rognure légère",
+   "t_source": 1387.176,
+   "preuve": {
+    "niveaux_10ms_dB": [
+     -74.5,
+     -86.7,
+     -85.1,
+     -84.5,
+     -82.7,
+     -85.1,
+     -72.2,
+     -52.5,
+     -55.6,
+     -59.4,
+     -61.9,
+     -70.4,
+     -71.5,
+     -64.8,
+     -49.3
+    ],
+    "repere": "trames de 10 ms, passe-haut 80 Hz ; la coupe tombe après la trame 12",
+    "voix_perdue_s": 0.03,
+    "pic_perdu_dB": -52.5,
+    "seuils_dB": {
+     "fond": -87.0,
+     "parole": -35.5,
+     "voix": -59.5,
+     "silence": -71.5
+    },
+    "ecart_avec_portion_voisine_s": 6.647,
+    "transcription_v2": "'est tout dans la description. Dites -moi en commentaire quel est",
+    "ancien_tail_guard": {
+     "raison": "les débuts de portion ne sont jamais examinés"
+    }
+   }
+  }
+ ]
+}

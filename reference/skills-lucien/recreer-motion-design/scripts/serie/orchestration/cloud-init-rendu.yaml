@@ -1,0 +1,9 @@
+#cloud-config
+package_update: true
+ssh_authorized_keys:
+  - <CLE_PUBLIQUE_ATELIER>
+packages: [ffmpeg, rsync, git, curl, fonts-liberation, libnss3, libatk1.0-0t64, libatk-bridge2.0-0t64, libcups2t64, libdrm2, libxkbcommon0, libxcomposite1, libxdamage1, libxfixes3, libxrandr2, libgbm1, libasound2t64, libpango-1.0-0, libcairo2]
+runcmd:
+  - curl -fsSL https://deb.nodesource.com/setup_22.x | bash -
+  - apt-get install -y nodejs
+  - mkdir -p /srv/faq-v4 && touch /srv/faq-v4/cloud-init.done

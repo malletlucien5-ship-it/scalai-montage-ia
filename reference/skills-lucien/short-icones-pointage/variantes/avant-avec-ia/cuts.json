@@ -1,0 +1,9 @@
+{
+  "source": "/Users/lucienmallet/Desktop/DJI_20260930210806_0072_D.MP4",
+  "fps": "30000/1001",
+  "crop": [238, 184, 1728, 3072],
+  "grade_base": "colorchannelmixer=rr=1.126:gg=1.149:bb=1.207,eq=gamma=1.03:contrast=1.05:saturation=1.05",
+  "look": "colorchannelmixer=rr=1.0:gg=0.972:bb=0.99,eq=brightness=0.03:contrast=1.06:saturation=1.12,unsharp=5:5:0.5",
+  "ranges": [[2.9, 5.8], [6.5, 29.0]],
+  "note": "8 paires de gestes gauche puis droite. Sections (temps source) : 2.9, 6.5, 9.5, 13.2, 16.4, 19.7, 22.85, 26.1, fin 29.0."
+}

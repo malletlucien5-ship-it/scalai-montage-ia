@@ -1,0 +1,65 @@
+[
+ {
+  "file": "coupe1.flac",
+  "start": 134.98,
+  "end": 146.256,
+  "phrases": [
+   40,
+   44
+  ]
+ },
+ {
+  "file": "coupe2.flac",
+  "start": 432.738,
+  "end": 451.458,
+  "phrases": [
+   111,
+   117
+  ]
+ },
+ {
+  "file": "coupe3.flac",
+  "start": 501.33,
+  "end": 531.35,
+  "phrases": [
+   128,
+   132
+  ]
+ },
+ {
+  "file": "coupe4.flac",
+  "start": 987.757,
+  "end": 1001.12,
+  "phrases": [
+   237,
+   242
+  ]
+ },
+ {
+  "file": "coupe5.flac",
+  "start": 1233.336,
+  "end": 1249.996,
+  "phrases": [
+   296,
+   300
+  ]
+ },
+ {
+  "file": "coupe6.flac",
+  "start": 1317.12,
+  "end": 1329.8,
+  "phrases": [
+   315,
+   318
+  ]
+ },
+ {
+  "file": "coupe7.flac",
+  "start": 1340.41,
+  "end": 1352.01,
+  "phrases": [
+   322,
+   326
+  ]
+ }
+]

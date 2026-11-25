@@ -1,0 +1,51 @@
+TITLE: Timeline 1
+FCM: NON-DROP FRAME
+
+001  AX       V     C        00:00:00:00 00:01:09:01 01:00:00:00 01:01:09:01  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+002  AX       A     C        00:00:00:00 00:01:09:01 01:00:00:00 01:01:09:01  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+003  AX       V     C        00:01:09:13 00:02:38:25 01:01:09:01 01:02:38:13  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+004  AX       A     C        00:01:09:13 00:02:38:25 01:01:09:01 01:02:38:13  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+005  AX       V     C        00:02:39:14 00:02:57:02 01:02:38:13 01:02:56:01  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+006  AX       A     C        00:02:39:14 00:02:57:02 01:02:38:13 01:02:56:01  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+007  AX       V     C        00:02:57:26 00:06:01:16 01:02:56:01 01:05:59:41  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+008  AX       A     C        00:02:57:26 00:06:01:16 01:02:56:01 01:05:59:41  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+009  AX       V     C        00:06:01:35 00:07:38:43 01:05:59:41 01:07:36:49  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+010  AX       A     C        00:06:01:35 00:07:38:43 01:05:59:41 01:07:36:49  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+011  AX       V     C        00:07:40:10 00:08:11:29 01:07:36:49 01:08:08:18  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+012  AX       A     C        00:07:40:10 00:08:11:29 01:07:36:49 01:08:08:18  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+013  AX       V     C        00:08:11:35 00:08:25:05 01:08:08:18 01:08:21:38  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+014  AX       A     C        00:08:11:35 00:08:25:05 01:08:08:18 01:08:21:38  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+015  AX       V     C        00:08:26:10 00:08:53:13 01:08:21:38 01:08:48:41  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+
+016  AX       A     C        00:08:26:10 00:08:53:13 01:08:21:38 01:08:48:41  
+* FROM CLIP NAME: Livres-Claude-v2-cuts-720p.mp4
+

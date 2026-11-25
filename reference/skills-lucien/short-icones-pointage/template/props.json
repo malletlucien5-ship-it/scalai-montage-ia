@@ -1,0 +1,119 @@
+{
+  "totalFrames": 376,
+  "video": "montage.mp4",
+  "labels": [
+    "Nul :",
+    "Bien :",
+    "Incroyable :"
+  ],
+  "sections": [
+    {
+      "title": "Écriture",
+      "from": 0,
+      "to": 105,
+      "tips": [
+        {
+          "x": 597,
+          "y": 871
+        },
+        {
+          "x": 629,
+          "y": 1083
+        },
+        {
+          "x": 607,
+          "y": 1333
+        }
+      ],
+      "tools": [
+        {
+          "name": "Claude",
+          "icon": "claude",
+          "reveal": 6
+        },
+        {
+          "name": "Gemini",
+          "icon": "gemini",
+          "reveal": 42
+        },
+        {
+          "name": "ChatGPT",
+          "icon": "chatgpt",
+          "reveal": 78
+        }
+      ]
+    },
+    {
+      "title": "Images",
+      "from": 105,
+      "to": 232,
+      "tips": [
+        {
+          "x": 593,
+          "y": 898
+        },
+        {
+          "x": 631,
+          "y": 1139
+        },
+        {
+          "x": 559,
+          "y": 1240
+        }
+      ],
+      "tools": [
+        {
+          "name": "Midjourney",
+          "icon": "midjourney",
+          "reveal": 6
+        },
+        {
+          "name": "Grok",
+          "icon": "grok",
+          "reveal": 40
+        },
+        {
+          "name": "GPT Image",
+          "icon": "chatgpt",
+          "reveal": 82
+        }
+      ]
+    },
+    {
+      "title": "Automatisation",
+      "from": 232,
+      "to": 376,
+      "tips": [
+        {
+          "x": 561,
+          "y": 907
+        },
+        {
+          "x": 607,
+          "y": 1107
+        },
+        {
+          "x": 531,
+          "y": 1290
+        }
+      ],
+      "tools": [
+        {
+          "name": "Zapier",
+          "icon": "zapier",
+          "reveal": 9
+        },
+        {
+          "name": "Make",
+          "icon": "make",
+          "reveal": 62
+        },
+        {
+          "name": "n8n",
+          "icon": "n8n",
+          "reveal": 105
+        }
+      ]
+    }
+  ]
+}

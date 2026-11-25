@@ -1,0 +1,24 @@
+# Dépendances du script Amélioration de la voix + Synchronisation.
+# Python 3.11, conteneur Linux sans GPU.
+#
+# Installation en deux commandes (voir voix/README.md) :
+#   .venv/bin/pip install -r voix/requirements.txt
+#   .venv/bin/pip install --no-deps deepfilternet==0.5.6
+#
+# deepfilternet 0.5.6 déclare numpy<2.0 et packaging<24.
+# Le Mac de référence le fait déjà tourner avec numpy 2.0.2.
+# Le dépôt garde numpy 2.x pour OpenCV 5 : installer deepfilternet sans ses dépendances.
+# Ses dépendances réelles sont listées ici.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.8.0+cpu
+torchaudio==2.8.0+cpu
+DeepFilterLib==0.5.6
+appdirs>=1.4,<2.0
+loguru>=0.5
+requests>=2.27,<3.0
+silero-vad==6.2.3
+soundfile>=0.12
+soxr>=0.3.7
+numpy>=2.0
+scipy>=1.11
+pytest>=8

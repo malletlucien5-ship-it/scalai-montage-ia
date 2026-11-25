@@ -1,0 +1,25 @@
+{
+  "name": "martell-motion",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio --no-open",
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.350",
+    "@remotion/google-fonts": "4.0.350",
+    "@remotion/lambda": "^4.0.350",
+    "@remotion/noise": "4.0.350",
+    "@remotion/paths": "4.0.350",
+    "@remotion/shapes": "4.0.350",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.350",
+    "simple-icons": "^15.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/webpack-env": "^1.18.8",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,1851 @@
+{
+ "fps": 50,
+ "duree": 41036,
+ "video": "timeline/sobre-v4.mp4",
+ "audio": "timeline/voix-v4.wav",
+ "plans": [
+  {
+   "debut": 0,
+   "fin": 2371,
+   "etat": "visage"
+  },
+  {
+   "debut": 2371,
+   "fin": 3197,
+   "etat": "collage",
+   "nom": "collage fixe",
+   "cles": [
+    {
+     "f": 2371,
+     "x": 1707,
+     "y": 1440,
+     "s": 0.5
+    }
+   ],
+   "dynamiques": []
+  },
+  {
+   "debut": 3197,
+   "fin": 4006,
+   "etat": "visage"
+  },
+  {
+   "debut": 4006,
+   "fin": 4081,
+   "etat": "collage",
+   "nom": "collage zoom Doomers",
+   "cles": [
+    {
+     "f": 4006,
+     "x": 1707,
+     "y": 1440,
+     "s": 0.5
+    },
+    {
+     "f": 4080,
+     "x": 430.0,
+     "y": 463.0,
+     "s": 2.845
+    }
+   ],
+   "dynamiques": [
+    [
+     4006,
+     4081
+    ]
+   ]
+  },
+  {
+   "debut": 4081,
+   "fin": 4709,
+   "etat": "site",
+   "site": "doomers-pleine-page",
+   "nom": "site Doomers",
+   "arrets": [
+    {
+     "f0": 4081,
+     "f1": 4709,
+     "x": 0,
+     "y": 0,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 516.0,
+       "y": 137.0,
+       "w": 503.0,
+       "h": 72.0
+      },
+      {
+       "x": 298.0,
+       "y": 233.0,
+       "w": 296.0,
+       "h": 92.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "doomers-pleine-pageENGINEER the X algorithm",
+     "debut": 4324,
+     "fin": 4709,
+     "texte": "ENGINEER the X algorithm"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     4294,
+     4349
+    ]
+   ]
+  },
+  {
+   "debut": 4709,
+   "fin": 5009,
+   "etat": "logos",
+   "nom": "écran logos",
+   "dynamiques": [
+    [
+     4709,
+     4860
+    ]
+   ]
+  },
+  {
+   "debut": 5009,
+   "fin": 5264,
+   "etat": "board",
+   "nom": "Leurs clients",
+   "arrets": [
+    {
+     "f0": 5009,
+     "f1": 5264,
+     "x": 4812.5,
+     "y": 4697.5,
+     "zoom": 1.4
+    }
+   ],
+   "traits": [],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": []
+  },
+  {
+   "debut": 5264,
+   "fin": 5588,
+   "etat": "site",
+   "site": "doomers-pleine-page",
+   "nom": "site Doomers, stratégie",
+   "arrets": [
+    {
+     "f0": 5264,
+     "f1": 5588,
+     "x": 0,
+     "y": 1078,
+     "zoom": 1
+    }
+   ],
+   "traits": [],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": []
+  },
+  {
+   "debut": 5588,
+   "fin": 5638,
+   "etat": "visage"
+  },
+  {
+   "debut": 5638,
+   "fin": 6405,
+   "etat": "board",
+   "nom": "Le playbook des agences",
+   "arrets": [
+    {
+     "f0": 5638,
+     "f1": 5888,
+     "x": 3729.4,
+     "y": 5624.2,
+     "zoom": 2.25,
+     "bloc": [
+      "s162",
+      "s176",
+      "s267",
+      "s270",
+      "s266"
+     ]
+    },
+    {
+     "f0": 5948,
+     "f1": 6405,
+     "x": 3727.6,
+     "y": 5819.0,
+     "zoom": 2.05,
+     "bloc": [
+      "s267",
+      "s270",
+      "s266",
+      "s80",
+      "s75",
+      "s79"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 3365.62,
+       "y": 5660.68,
+       "w": 188.22,
+       "h": 16.6
+      }
+     ],
+     "forme": "entourer",
+     "graine": "Créateurs ciblés",
+     "debut": 5683,
+     "fin": 5888,
+     "texte": "Créateurs ciblés"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     5653,
+     5708
+    ],
+    [
+     5888,
+     5948
+    ]
+   ]
+  },
+  {
+   "debut": 6405,
+   "fin": 6460,
+   "etat": "visage"
+  },
+  {
+   "debut": 6460,
+   "fin": 7600,
+   "etat": "board",
+   "nom": "Anatomie d'une vague",
+   "arrets": [
+    {
+     "f0": 6460,
+     "f1": 7600,
+     "x": 2391.0,
+     "y": 11524.4,
+     "zoom": 2.0
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 2200.0,
+       "y": 11411.333333333334,
+       "w": 382.0,
+       "h": 20.33333333333394
+      }
+     ],
+     "forme": "souligner",
+     "graine": "Le schéma se répète à chaque lancement",
+     "debut": 6822,
+     "fin": 7600,
+     "texte": "Le schéma se répète à chaque lancement"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     6792,
+     6847
+    ]
+   ]
+  },
+  {
+   "debut": 7600,
+   "fin": 7731,
+   "etat": "visage"
+  },
+  {
+   "debut": 7731,
+   "fin": 8282,
+   "etat": "diapo",
+   "titre": "On se croit au-dessus",
+   "puces": [
+    {
+     "texte": "C'est pour les gens qui regardent de la télé-réalité",
+     "f": 7743
+    },
+    {
+     "texte": "Ou pour ceux qui suivent les tendances",
+     "f": 7852
+    },
+    {
+     "texte": "On se sent au-dessus de ça",
+     "f": 8230
+    }
+   ],
+   "dynamiques": [],
+   "nom": "On se croit au-dessus"
+  },
+  {
+   "debut": 8282,
+   "fin": 8991,
+   "etat": "board",
+   "nom": "Ce qu'on voit sur son fil",
+   "arrets": [
+    {
+     "f0": 8282,
+     "f1": 8532,
+     "x": 4440.8,
+     "y": 2063.3,
+     "zoom": 2.6
+    },
+    {
+     "f0": 8592,
+     "f1": 8991,
+     "x": 4438.2,
+     "y": 2691.1,
+     "zoom": 2.6
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 4187.666666666667,
+       "y": 2023.0,
+       "w": 318.66666666666606,
+       "h": 17.333333333333485
+      }
+     ],
+     "forme": "souligner",
+     "graine": "Beaucoup de gens en parlent sur mon fil",
+     "debut": 8339,
+     "fin": 8532,
+     "texte": "Beaucoup de gens en parlent sur mon fil"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     8309,
+     8364
+    ],
+    [
+     8532,
+     8592
+    ]
+   ]
+  },
+  {
+   "debut": 8991,
+   "fin": 9318,
+   "etat": "visage"
+  },
+  {
+   "debut": 9318,
+   "fin": 9982,
+   "etat": "diapo",
+   "titre": "Biais 1 : vérité illusoire",
+   "puces": [
+    {
+     "texte": "Même si quelque chose est faux",
+     "f": 9330
+    },
+    {
+     "texte": "À force de le voir répété",
+     "f": 9394
+    },
+    {
+     "texte": "On commence à croire que c'est vrai",
+     "f": 9536
+    }
+   ],
+   "dynamiques": [],
+   "nom": "Biais 1 : vérité illusoire"
+  },
+  {
+   "debut": 9982,
+   "fin": 10032,
+   "etat": "visage"
+  },
+  {
+   "debut": 10032,
+   "fin": 11201,
+   "etat": "board",
+   "nom": "Prestige bias",
+   "arrets": [
+    {
+     "f0": 10032,
+     "f1": 10282,
+     "x": 7336.3,
+     "y": 9940.7,
+     "zoom": 1.25,
+     "bloc": [
+      "s265",
+      "s209",
+      "s77"
+     ]
+    },
+    {
+     "f0": 10342,
+     "f1": 10592,
+     "x": 7262.9,
+     "y": 10569.2,
+     "zoom": 2.6
+    },
+    {
+     "f0": 10652,
+     "f1": 11201,
+     "x": 7336.3,
+     "y": 9940.7,
+     "zoom": 1.25,
+     "bloc": [
+      "s265",
+      "s209",
+      "s77"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 7724.7,
+       "y": 9762.68,
+       "w": 148.0,
+       "h": 21.24
+      }
+     ],
+     "forme": "entourer",
+     "graine": "Prestige bias",
+     "debut": 10066,
+     "fin": 10282,
+     "texte": "Prestige bias"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     10036,
+     10091
+    ],
+    [
+     10282,
+     10342
+    ],
+    [
+     10592,
+     10652
+    ]
+   ]
+  },
+  {
+   "debut": 11201,
+   "fin": 11256,
+   "etat": "visage"
+  },
+  {
+   "debut": 11256,
+   "fin": 12569,
+   "etat": "site",
+   "site": "doomers-etude-typesafe-pleine-page",
+   "nom": "site TypeSafe (Jev)",
+   "arrets": [
+    {
+     "f0": 11256,
+     "f1": 12127,
+     "x": 0,
+     "y": 246.3,
+     "zoom": 1
+    },
+    {
+     "f0": 12187,
+     "f1": 12569,
+     "x": 0,
+     "y": 426.8,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 455.0,
+       "y": 730.0,
+       "w": 44.0,
+       "h": 38.0
+      },
+      {
+       "x": 456.0,
+       "y": 775.0,
+       "w": 35.0,
+       "h": 8.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "doomers-etude-typesafe-pleine-page40M views",
+     "debut": 11290,
+     "fin": 12127,
+     "texte": "40M views"
+    },
+    {
+     "lignes": [
+      {
+       "x": 427.0,
+       "y": 929.0,
+       "w": 138.0,
+       "h": 16.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "doomers-etude-typesafe-pleine-page1,500 followers",
+     "debut": 12221,
+     "fin": 12569,
+     "texte": "1,500 followers"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     11260,
+     11315
+    ],
+    [
+     12127,
+     12187
+    ],
+    [
+     12191,
+     12246
+    ]
+   ]
+  },
+  {
+   "debut": 12569,
+   "fin": 12624,
+   "etat": "visage"
+  },
+  {
+   "debut": 12624,
+   "fin": 13279,
+   "etat": "board",
+   "nom": "La fenêtre de 60 minutes",
+   "arrets": [
+    {
+     "f0": 12624,
+     "f1": 13279,
+     "x": 3964.8,
+     "y": 11551.3,
+     "zoom": 1.95,
+     "bloc": [
+      "s169",
+      "s74"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 4054.8,
+       "y": 11521.3,
+       "w": 202.31,
+       "h": 20.36
+      }
+     ],
+     "forme": "souligner",
+     "graine": "inside the first hour",
+     "debut": 12934,
+     "fin": 13279,
+     "texte": "inside the first hour"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     12904,
+     12959
+    ]
+   ]
+  },
+  {
+   "debut": 13279,
+   "fin": 13329,
+   "etat": "visage"
+  },
+  {
+   "debut": 13329,
+   "fin": 14279,
+   "etat": "site",
+   "site": "doomers-etude-typesafe-pleine-page",
+   "nom": "site TypeSafe, distribution",
+   "arrets": [
+    {
+     "f0": 13329,
+     "f1": 13529,
+     "x": 0,
+     "y": 3497.3,
+     "zoom": 1
+    },
+    {
+     "f0": 13589,
+     "f1": 13900,
+     "x": 0,
+     "y": 3529.8,
+     "zoom": 1
+    },
+    {
+     "f0": 13960,
+     "f1": 14279,
+     "x": 0,
+     "y": 1011.3,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 745.0,
+       "y": 4001.0,
+       "w": 160.0,
+       "h": 13.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "doomers-etude-typesafe-pleine-pagebetween 80 and 100",
+     "debut": 13363,
+     "fin": 13529,
+     "texte": "between 80 and 100"
+    },
+    {
+     "lignes": [
+      {
+       "x": 487.0,
+       "y": 1516.0,
+       "w": 83.0,
+       "h": 11.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "doomers-etude-typesafe-pleine-pageWhere it sits",
+     "debut": 13994,
+     "fin": 14279,
+     "texte": "Where it sits"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     13333,
+     13388
+    ],
+    [
+     13529,
+     13589
+    ],
+    [
+     13900,
+     13960
+    ],
+    [
+     13964,
+     14019
+    ]
+   ]
+  },
+  {
+   "debut": 14279,
+   "fin": 14329,
+   "etat": "visage"
+  },
+  {
+   "debut": 14329,
+   "fin": 14811,
+   "etat": "board",
+   "nom": "Ce que dit la FTC",
+   "arrets": [
+    {
+     "f0": 14329,
+     "f1": 14811,
+     "x": 5741.0,
+     "y": 13307.1,
+     "zoom": 2.15,
+     "bloc": [
+      "s165",
+      "s178"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 5776.12,
+       "y": 13225.01,
+       "w": 141.86,
+       "h": 14.59
+      }
+     ],
+     "forme": "souligner",
+     "graine": "n'est pas illégal en soi ~6",
+     "debut": 14458,
+     "fin": 14811,
+     "texte": "n'est pas illégal en soi"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     14428,
+     14483
+    ]
+   ]
+  },
+  {
+   "debut": 14811,
+   "fin": 14861,
+   "etat": "visage"
+  },
+  {
+   "debut": 14861,
+   "fin": 15412,
+   "etat": "board",
+   "nom": "Paid partnership",
+   "arrets": [
+    {
+     "f0": 14861,
+     "f1": 15412,
+     "x": 2803.1,
+     "y": 9958.7,
+     "zoom": 1.75,
+     "bloc": [
+      "s257",
+      "s197",
+      "s37",
+      "s269",
+      "s264",
+      "s229",
+      "s249"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 3101.67,
+       "y": 9731.8,
+       "w": 162.29,
+       "h": 35.8
+      }
+     ],
+     "forme": "entourer",
+     "graine": "Paid partnership ~5",
+     "debut": 14903,
+     "fin": 15412,
+     "texte": "Paid partnership"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     14873,
+     14928
+    ]
+   ]
+  },
+  {
+   "debut": 15412,
+   "fin": 15541,
+   "etat": "visage"
+  },
+  {
+   "debut": 15541,
+   "fin": 16378,
+   "etat": "board",
+   "nom": "Le buzz peut être acheté",
+   "arrets": [
+    {
+     "f0": 15541,
+     "f1": 16378,
+     "x": 5164.8,
+     "y": 8883.5,
+     "zoom": 2.6
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 4907.68,
+       "y": 8765.23,
+       "w": 511.35,
+       "h": 76.15
+      }
+     ],
+     "forme": "entourer",
+     "graine": "Le buzz peut être acheté ou coordonné",
+     "debut": 15790,
+     "fin": 16378,
+     "texte": "Le buzz peut être acheté ou coordonné"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     15760,
+     15815
+    ]
+   ]
+  },
+  {
+   "debut": 16378,
+   "fin": 16628,
+   "etat": "visage"
+  },
+  {
+   "debut": 16628,
+   "fin": 17041,
+   "etat": "diapo",
+   "titre": "Le SEO à ses débuts",
+   "puces": [
+    {
+     "texte": "Des centaines de faux sites",
+     "f": 16640
+    },
+    {
+     "texte": "Des liens artificiels",
+     "f": 16724
+    },
+    {
+     "texte": "Les gens payaient pour ça",
+     "f": 16793
+    }
+   ],
+   "dynamiques": [],
+   "nom": "Le SEO à ses débuts"
+  },
+  {
+   "debut": 17041,
+   "fin": 17304,
+   "etat": "visage"
+  },
+  {
+   "debut": 17304,
+   "fin": 18478,
+   "etat": "diapo",
+   "titre": "Un canal invisible",
+   "puces": [
+    {
+     "texte": "Des publications qui semblent spontanées",
+     "f": 17316
+    },
+    {
+     "texte": "Un nouveau canal marketing",
+     "f": 17791
+    },
+    {
+     "texte": "Le grand public n'a pas compris l'ampleur",
+     "f": 17983
+    }
+   ],
+   "dynamiques": [],
+   "nom": "Un canal invisible"
+  },
+  {
+   "debut": 18478,
+   "fin": 20397,
+   "etat": "taichi",
+   "nom": "pubs tai chi",
+   "f_gym": 18478,
+   "f_26": 18938,
+   "f_devant": 19349,
+   "dynamiques": [
+    [
+     18478,
+     18497
+    ],
+    [
+     18938,
+     18957
+    ],
+    [
+     19349,
+     19386
+    ]
+   ]
+  },
+  {
+   "debut": 20397,
+   "fin": 20460,
+   "etat": "visage"
+  },
+  {
+   "debut": 20460,
+   "fin": 21777,
+   "etat": "board",
+   "nom": "Fenêtre de 60 min",
+   "arrets": [
+    {
+     "f0": 20460,
+     "f1": 20884,
+     "x": 3791.0,
+     "y": 6068.5,
+     "zoom": 2.6,
+     "bloc": [
+      "s281",
+      "s271",
+      "s283",
+      "s284",
+      "s259"
+     ]
+    },
+    {
+     "f0": 20944,
+     "f1": 21194,
+     "x": 3000.5,
+     "y": 6130.4,
+     "zoom": 2.6
+    },
+    {
+     "f0": 21254,
+     "f1": 21777,
+     "x": 3732.2,
+     "y": 5630.3,
+     "zoom": 2.35,
+     "bloc": [
+      "s162",
+      "s176"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 3933.31,
+       "y": 6296.88,
+       "w": 152.69,
+       "h": 27.46
+      }
+     ],
+     "forme": "entourer",
+     "graine": "30-60 min ~1",
+     "debut": 20704,
+     "fin": 20884,
+     "texte": "30-60 min"
+    },
+    {
+     "lignes": [
+      {
+       "x": 3522.63,
+       "y": 5562.21,
+       "w": 285.96,
+       "h": 13.98
+      }
+     ],
+     "forme": "souligner",
+     "graine": "Chaque créateur reçoit l'heure exacte du post ~59",
+     "debut": 21288,
+     "fin": 21777,
+     "texte": "Chaque créateur reçoit l'heure exacte du post"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     20674,
+     20729
+    ],
+    [
+     20884,
+     20944
+    ],
+    [
+     21194,
+     21254
+    ],
+    [
+     21258,
+     21313
+    ]
+   ]
+  },
+  {
+   "debut": 21777,
+   "fin": 21817,
+   "etat": "visage"
+  },
+  {
+   "debut": 21817,
+   "fin": 24223,
+   "etat": "board",
+   "nom": "Source indépendante",
+   "arrets": [
+    {
+     "f0": 21817,
+     "f1": 22225,
+     "x": 3750.0,
+     "y": 6547.5,
+     "zoom": 2.6,
+     "bloc": [
+      "s192",
+      "s188"
+     ]
+    },
+    {
+     "f0": 22285,
+     "f1": 22711,
+     "x": 3750.0,
+     "y": 6547.5,
+     "zoom": 2.6,
+     "bloc": [
+      "s192",
+      "s188"
+     ]
+    },
+    {
+     "f0": 22771,
+     "f1": 24223,
+     "x": 3750.0,
+     "y": 6547.5,
+     "zoom": 2.6,
+     "bloc": [
+      "s192",
+      "s188"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 3611.92,
+       "y": 6431.13,
+       "w": 230.38,
+       "h": 18.31
+      }
+     ],
+     "forme": "entourer",
+     "graine": "Source independante",
+     "debut": 21851,
+     "fin": 22225,
+     "texte": "Source independante"
+    },
+    {
+     "lignes": [
+      {
+       "x": 3522.5,
+       "y": 6511.73,
+       "w": 275.38,
+       "h": 14.52
+      }
+     ],
+     "forme": "souligner",
+     "graine": "Des messages identiques seraient repérés. ~39",
+     "debut": 22319,
+     "fin": 22711,
+     "texte": "Des messages identiques seraient repérés."
+    },
+    {
+     "lignes": [
+      {
+       "x": 3448.08,
+       "y": 6492.12,
+       "w": 213.08,
+       "h": 14.71
+      }
+     ],
+     "forme": "souligner",
+     "graine": "Chaque créateur parle à sa façon ~40",
+     "debut": 22805,
+     "fin": 24223,
+     "texte": "Chaque créateur parle à sa façon"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     21821,
+     21876
+    ],
+    [
+     22225,
+     22285
+    ],
+    [
+     22289,
+     22344
+    ],
+    [
+     22711,
+     22771
+    ],
+    [
+     22775,
+     22830
+    ]
+   ]
+  },
+  {
+   "debut": 24223,
+   "fin": 24749,
+   "etat": "visage"
+  },
+  {
+   "debut": 24749,
+   "fin": 25992,
+   "etat": "site",
+   "site": "x-authenticity-policy-pleine-page",
+   "nom": "conditions de X",
+   "arrets": [
+    {
+     "f0": 24749,
+     "f1": 24839,
+     "x": 0,
+     "y": 0,
+     "zoom": 1
+    },
+    {
+     "f0": 24899,
+     "f1": 25992,
+     "x": 0,
+     "y": 3937.8,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 391.0,
+       "y": 4441.0,
+       "w": 267.0,
+       "h": 14.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "x-authenticity-policy-pleine-pageCoordinating to exchange engagement",
+     "debut": 25209,
+     "fin": 25992,
+     "texte": "Coordinating to exchange engagement"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     24839,
+     24899
+    ],
+    [
+     25179,
+     25234
+    ]
+   ],
+   "depart_libre": true
+  },
+  {
+   "debut": 25992,
+   "fin": 26180,
+   "etat": "visage"
+  },
+  {
+   "debut": 26180,
+   "fin": 27048,
+   "etat": "site",
+   "site": "x-authenticity-policy-pleine-page",
+   "nom": "conditions de X (2)",
+   "arrets": [
+    {
+     "f0": 26180,
+     "f1": 27048,
+     "x": 0,
+     "y": 3937.8,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 391.0,
+       "y": 4441.0,
+       "w": 267.0,
+       "h": 14.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "x-authenticity-policy-pleine-pageCoordinating to exchange engagement",
+     "debut": 26214,
+     "fin": 27048,
+     "texte": "Coordinating to exchange engagement"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     26184,
+     26239
+    ]
+   ]
+  },
+  {
+   "debut": 27048,
+   "fin": 27348,
+   "etat": "visage"
+  },
+  {
+   "debut": 27348,
+   "fin": 28494,
+   "etat": "site",
+   "site": "clickstrike-x-amplification-pleine-page",
+   "nom": "Clickstrike",
+   "arrets": [
+    {
+     "f0": 27348,
+     "f1": 27740,
+     "x": 0,
+     "y": 0,
+     "zoom": 1
+    },
+    {
+     "f0": 27800,
+     "f1": 28000,
+     "x": 0,
+     "y": 3090.3,
+     "zoom": 1
+    },
+    {
+     "f0": 28060,
+     "f1": 28494,
+     "x": 0,
+     "y": 3115.3,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 153.0,
+       "y": 327.0,
+       "w": 951.0,
+       "h": 51.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "clickstrike-x-amplification-pleine-pageTurn Your Next Announcement",
+     "debut": 27382,
+     "fin": 27740,
+     "texte": "Turn Your Next Announcement"
+    },
+    {
+     "lignes": [
+      {
+       "x": 1042.0,
+       "y": 3594.0,
+       "w": 196.0,
+       "h": 13.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "clickstrike-x-amplification-pleine-pagevetted influencers across X",
+     "debut": 27834,
+     "fin": 28000,
+     "texte": "vetted influencers across X"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     27352,
+     27407
+    ],
+    [
+     27740,
+     27800
+    ],
+    [
+     27804,
+     27859
+    ],
+    [
+     28000,
+     28060
+    ]
+   ]
+  },
+  {
+   "debut": 28494,
+   "fin": 28549,
+   "etat": "visage"
+  },
+  {
+   "debut": 28549,
+   "fin": 30127,
+   "etat": "site",
+   "site": "growthmatrix-pleine-page",
+   "nom": "Growth Matrix",
+   "arrets": [
+    {
+     "f0": 28549,
+     "f1": 29273,
+     "x": 0,
+     "y": 402.3,
+     "zoom": 1
+    },
+    {
+     "f0": 29333,
+     "f1": 30127,
+     "x": 0,
+     "y": 7153.3,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 308.0,
+       "y": 908.0,
+       "w": 211.0,
+       "h": 9.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "growthmatrix-pleine-pageTHE LAUNCHES WE'VE AMPLIFIED",
+     "debut": 28583,
+     "fin": 29273,
+     "texte": "THE LAUNCHES WE'VE AMPLIFIED"
+    },
+    {
+     "lignes": [
+      {
+       "x": 543.0,
+       "y": 7650.0,
+       "w": 180.0,
+       "h": 27.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "growthmatrix-pleine-pageRepost waves",
+     "debut": 29367,
+     "fin": 30127,
+     "texte": "Repost waves"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     28553,
+     28608
+    ],
+    [
+     29273,
+     29333
+    ],
+    [
+     29337,
+     29392
+    ]
+   ]
+  },
+  {
+   "debut": 30127,
+   "fin": 30177,
+   "etat": "visage"
+  },
+  {
+   "debut": 30177,
+   "fin": 30657,
+   "etat": "site",
+   "site": "launchvideo-pleine-page",
+   "nom": "launchvideo.com",
+   "arrets": [
+    {
+     "f0": 30177,
+     "f1": 30377,
+     "x": 0,
+     "y": 0,
+     "zoom": 1
+    },
+    {
+     "f0": 30437,
+     "f1": 30657,
+     "x": 0,
+     "y": 568.8,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 453.0,
+       "y": 336.0,
+       "w": 533.0,
+       "h": 36.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "launchvideo-pleine-pageWe make launch videos.",
+     "debut": 30211,
+     "fin": 30377,
+     "texte": "We make launch videos."
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     30181,
+     30236
+    ],
+    [
+     30377,
+     30437
+    ]
+   ]
+  },
+  {
+   "debut": 30657,
+   "fin": 30707,
+   "etat": "visage"
+  },
+  {
+   "debut": 30707,
+   "fin": 31295,
+   "etat": "site",
+   "site": "launchvideo-bloc-influencers-etape-03",
+   "nom": "launchvideo étape 03",
+   "arrets": [
+    {
+     "f0": 30707,
+     "f1": 31295,
+     "x": 0,
+     "y": 0,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 66.0,
+       "y": 962.0,
+       "w": 503.0,
+       "h": 37.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "launchvideo-bloc-influencers-etape-0303 - Creators/Influencers",
+     "debut": 30747,
+     "fin": 31295,
+     "texte": "03 - Creators/Influencers"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     30717,
+     30772
+    ]
+   ]
+  },
+  {
+   "debut": 31295,
+   "fin": 31345,
+   "etat": "visage"
+  },
+  {
+   "debut": 31345,
+   "fin": 32221,
+   "etat": "site",
+   "site": "nowix-pleine-page",
+   "nom": "Nowix",
+   "arrets": [
+    {
+     "f0": 31345,
+     "f1": 32221,
+     "x": 0,
+     "y": 525.3,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 569.0,
+       "y": 1026.0,
+       "w": 197.0,
+       "h": 19.0
+      }
+     ],
+     "forme": "entourer",
+     "graine": "nowix-pleine-pageX content amplification",
+     "debut": 31379,
+     "fin": 32221,
+     "texte": "X content amplification"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     31349,
+     31404
+    ]
+   ]
+  },
+  {
+   "debut": 32221,
+   "fin": 32266,
+   "etat": "visage"
+  },
+  {
+   "debut": 32266,
+   "fin": 32670,
+   "etat": "site",
+   "site": "x-authenticity-policy-pleine-page",
+   "nom": "conditions de X (3)",
+   "arrets": [
+    {
+     "f0": 32266,
+     "f1": 32670,
+     "x": 0,
+     "y": 3937.8,
+     "zoom": 1
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 391.0,
+       "y": 4441.0,
+       "w": 267.0,
+       "h": 14.0
+      }
+     ],
+     "forme": "souligner",
+     "graine": "x-authenticity-policy-pleine-pageCoordinating to exchange engagement",
+     "debut": 32318,
+     "fin": 32670,
+     "texte": "Coordinating to exchange engagement"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     32288,
+     32343
+    ]
+   ]
+  },
+  {
+   "debut": 32670,
+   "fin": 34025,
+   "etat": "diapo",
+   "titre": "Est-ce que c'est mal ?",
+   "puces": [
+    {
+     "texte": "Pas forcément mal",
+     "f": 32717
+    },
+    {
+     "texte": "Certaines ne violent aucune règle",
+     "f": 32894
+    },
+    {
+     "texte": "Un canal qui marche extrêmement bien",
+     "f": 33326
+    },
+    {
+     "texte": "Certaines enfreignent clairement les conditions",
+     "f": 33607
+    },
+    {
+     "texte": "Vous devriez être au courant",
+     "f": 33756
+    }
+   ],
+   "dynamiques": [],
+   "nom": "Est-ce que c'est mal ?"
+  },
+  {
+   "debut": 34025,
+   "fin": 34513,
+   "etat": "visage"
+  },
+  {
+   "debut": 34513,
+   "fin": 34994,
+   "etat": "diapo",
+   "titre": "On n'est pas immunisé",
+   "puces": [
+    {
+     "texte": "Plus intelligents que le reste du monde",
+     "f": 34525
+    },
+    {
+     "texte": "Je m'inclus là-dedans",
+     "f": 34585
+    },
+    {
+     "texte": "Tous plus ou moins des moutons",
+     "f": 34881
+    }
+   ],
+   "dynamiques": [],
+   "nom": "On n'est pas immunisé"
+  },
+  {
+   "debut": 34994,
+   "fin": 36907,
+   "etat": "board",
+   "nom": "Le cas Ramp",
+   "arrets": [
+    {
+     "f0": 34994,
+     "f1": 35308,
+     "x": 5883.9,
+     "y": 17732.1,
+     "zoom": 2.15,
+     "bloc": [
+      "s190",
+      "s201"
+     ]
+    },
+    {
+     "f0": 35368,
+     "f1": 36122,
+     "x": 5851.5,
+     "y": 17980.5,
+     "zoom": 2.6,
+     "bloc": [
+      "s201",
+      "s102"
+     ]
+    },
+    {
+     "f0": 36182,
+     "f1": 36907,
+     "x": 5847.5,
+     "y": 18212.1,
+     "zoom": 2.6
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 5652.97,
+       "y": 17746.73,
+       "w": 409.77,
+       "h": 62.37
+      }
+     ],
+     "forme": "entourer",
+     "graine": "Le cas Ramp",
+     "debut": 35054,
+     "fin": 35308,
+     "texte": "Le cas Ramp"
+    },
+    {
+     "lignes": [
+      {
+       "x": 5940.96,
+       "y": 18141.14,
+       "w": 87.5,
+       "h": 26.76
+      },
+      {
+       "x": 5666.15,
+       "y": 18168.45,
+       "w": 252.88,
+       "h": 21.49
+      }
+     ],
+     "forme": "souligner",
+     "graine": "le produit n'est pas meilleur que Brex",
+     "debut": 36216,
+     "fin": 36907,
+     "texte": "le produit n'est pas meilleur que Brex"
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     35024,
+     35079
+    ],
+    [
+     35308,
+     35368
+    ],
+    [
+     36122,
+     36182
+    ],
+    [
+     36186,
+     36241
+    ]
+   ]
+  },
+  {
+   "debut": 36907,
+   "fin": 36957,
+   "etat": "visage"
+  },
+  {
+   "debut": 36957,
+   "fin": 37717,
+   "etat": "board",
+   "nom": "Faux comptes et clips",
+   "arrets": [
+    {
+     "f0": 36957,
+     "f1": 37216,
+     "x": 6356.7,
+     "y": 16713.8,
+     "zoom": 2.15,
+     "bloc": [
+      "s244",
+      "s175"
+     ]
+    },
+    {
+     "f0": 37276,
+     "f1": 37717,
+     "x": 6367.8,
+     "y": 16951.4,
+     "zoom": 2.1,
+     "bloc": [
+      "s240",
+      "s195"
+     ]
+    }
+   ],
+   "traits": [
+    {
+     "lignes": [
+      {
+       "x": 6258.79,
+       "y": 16615.2,
+       "w": 329.3,
+       "h": 24.69
+      },
+      {
+       "x": 6258.56,
+       "y": 16642.64,
+       "w": 119.77,
+       "h": 18.92
+      }
+     ],
+     "forme": "souligner",
+     "graine": "Des dizaines de clips courts tirés de la même source.",
+     "debut": 37033,
+     "fin": 37216,
+     "texte": "Des dizaines de clips courts tirés de la même source."
+    }
+   ],
+   "pointeur": [
+    1180,
+    1150
+   ],
+   "dynamiques": [
+    [
+     37003,
+     37058
+    ],
+    [
+     37216,
+     37276
+    ]
+   ]
+  },
+  {
+   "debut": 37717,
+   "fin": 41036,
+   "etat": "visage"
+  }
+ ]
+}

@@ -1,0 +1,14551 @@
+[
+{
+"index": 0,
+"audio": {
+"path": "obs",
+"start": 19.399,
+"end": 26.459
+},
+"camera": {
+"path": "cam",
+"start": 18.68,
+"end": 25.74
+},
+"frames": 333,
+"text": "Claude a lu plus de livres sur le business que n'importe qui sur terre, alors pourquoi est-ce qu'il agit comme s'il n'en avait jamais eu aucun quand vous l'utilisez ?",
+"words": [
+{
+"word": "Claude",
+"start": 0.0,
+"end": 0.4
+},
+{
+"word": "a",
+"start": 0.4,
+"end": 0.48
+},
+{
+"word": "lu",
+"start": 0.48,
+"end": 0.54
+},
+{
+"word": "plus",
+"start": 0.54,
+"end": 0.7
+},
+{
+"word": "de",
+"start": 0.7,
+"end": 0.8
+},
+{
+"word": "livres",
+"start": 0.8,
+"end": 1.0
+},
+{
+"word": "sur",
+"start": 1.0,
+"end": 1.18
+},
+{
+"word": "le",
+"start": 1.18,
+"end": 1.26
+},
+{
+"word": "business",
+"start": 1.26,
+"end": 1.56
+},
+{
+"word": "que",
+"start": 1.56,
+"end": 1.86
+},
+{
+"word": "n",
+"start": 1.86,
+"end": 2.08
+},
+{
+"word": "'importe",
+"start": 2.08,
+"end": 2.34
+},
+{
+"word": "qui",
+"start": 2.34,
+"end": 2.58
+},
+{
+"word": "sur",
+"start": 2.58,
+"end": 2.78
+},
+{
+"word": "terre,",
+"start": 2.78,
+"end": 3.08
+},
+{
+"word": "alors",
+"start": 3.34,
+"end": 3.44
+},
+{
+"word": "pourquoi",
+"start": 3.44,
+"end": 3.92
+},
+{
+"word": "est",
+"start": 3.92,
+"end": 4.04
+},
+{
+"word": "-ce",
+"start": 4.04,
+"end": 4.1
+},
+{
+"word": "qu",
+"start": 4.1,
+"end": 4.16
+},
+{
+"word": "'il",
+"start": 4.16,
+"end": 4.28
+},
+{
+"word": "agit",
+"start": 4.28,
+"end": 4.48
+},
+{
+"word": "comme",
+"start": 4.48,
+"end": 4.66
+},
+{
+"word": "s",
+"start": 4.66,
+"end": 4.8
+},
+{
+"word": "'il",
+"start": 4.8,
+"end": 4.9
+},
+{
+"word": "n",
+"start": 4.9,
+"end": 4.98
+},
+{
+"word": "'en",
+"start": 4.98,
+"end": 5.06
+},
+{
+"word": "avait",
+"start": 5.06,
+"end": 5.26
+},
+{
+"word": "jamais",
+"start": 5.26,
+"end": 5.7
+},
+{
+"word": "eu",
+"start": 5.7,
+"end": 5.9
+},
+{
+"word": "aucun",
+"start": 5.9,
+"end": 6.18
+},
+{
+"word": "quand",
+"start": 6.18,
+"end": 6.42
+},
+{
+"word": "vous",
+"start": 6.42,
+"end": 6.64
+},
+{
+"word": "l",
+"start": 6.64,
+"end": 6.74
+},
+{
+"word": "'utilisez",
+"start": 6.74,
+"end": 7.16
+},
+{
+"word": "?",
+"start": 7.16,
+"end": 7.24
+}
+]
+},
+{
+"index": 1,
+"audio": {
+"path": "obs",
+"start": 31.019,
+"end": 37.412
+},
+"camera": {
+"path": "cam",
+"start": 30.3,
+"end": 36.693
+},
+"frames": 302,
+"text": "Parce que lire un livre une fois et avoir le livre ouvert à côté de soi pendant qu'on travaille, ce sont deux choses complètement différentes.",
+"words": [
+{
+"word": "Parce",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "que",
+"start": 0.26,
+"end": 0.4
+},
+{
+"word": "lire",
+"start": 0.4,
+"end": 0.82
+},
+{
+"word": "un",
+"start": 0.82,
+"end": 0.94
+},
+{
+"word": "livre",
+"start": 0.94,
+"end": 1.1
+},
+{
+"word": "une",
+"start": 1.1,
+"end": 1.24
+},
+{
+"word": "fois",
+"start": 1.24,
+"end": 1.48
+},
+{
+"word": "et",
+"start": 1.48,
+"end": 1.72
+},
+{
+"word": "avoir",
+"start": 1.72,
+"end": 1.9
+},
+{
+"word": "le",
+"start": 1.9,
+"end": 2.02
+},
+{
+"word": "livre",
+"start": 2.02,
+"end": 2.28
+},
+{
+"word": "ouvert",
+"start": 2.28,
+"end": 2.86
+},
+{
+"word": "à",
+"start": 2.86,
+"end": 3.16
+},
+{
+"word": "côté",
+"start": 3.16,
+"end": 3.34
+},
+{
+"word": "de",
+"start": 3.34,
+"end": 3.46
+},
+{
+"word": "soi",
+"start": 3.46,
+"end": 3.64
+},
+{
+"word": "pendant",
+"start": 3.64,
+"end": 3.96
+},
+{
+"word": "qu",
+"start": 3.96,
+"end": 4.1
+},
+{
+"word": "'on",
+"start": 4.1,
+"end": 4.12
+},
+{
+"word": "travaille,",
+"start": 4.12,
+"end": 4.42
+},
+{
+"word": "ce",
+"start": 4.84,
+"end": 4.86
+},
+{
+"word": "sont",
+"start": 4.86,
+"end": 5.0
+},
+{
+"word": "deux",
+"start": 5.0,
+"end": 5.12
+},
+{
+"word": "choses",
+"start": 5.12,
+"end": 5.34
+},
+{
+"word": "complètement",
+"start": 5.34,
+"end": 5.68
+},
+{
+"word": "différentes.",
+"start": 5.68,
+"end": 6.1
+}
+]
+},
+{
+"index": 2,
+"audio": {
+"path": "obs",
+"start": 37.559,
+"end": 44.156
+},
+"camera": {
+"path": "cam",
+"start": 36.84,
+"end": 43.437
+},
+"frames": 311,
+"text": "Donc, j'ai pris les meilleurs livres de business qui existaient sur Terre et j'ai fait en sorte de les rendre accessibles en permanence dans mon cloud.",
+"words": [
+{
+"word": "Donc,",
+"start": 0.0,
+"end": 0.4
+},
+{
+"word": "j",
+"start": 0.5,
+"end": 0.52
+},
+{
+"word": "'ai",
+"start": 0.52,
+"end": 0.58
+},
+{
+"word": "pris",
+"start": 0.58,
+"end": 0.8
+},
+{
+"word": "les",
+"start": 0.8,
+"end": 1.08
+},
+{
+"word": "meilleurs",
+"start": 1.08,
+"end": 1.42
+},
+{
+"word": "livres",
+"start": 1.42,
+"end": 1.64
+},
+{
+"word": "de",
+"start": 1.64,
+"end": 1.82
+},
+{
+"word": "business",
+"start": 1.82,
+"end": 2.1
+},
+{
+"word": "qui",
+"start": 2.1,
+"end": 2.36
+},
+{
+"word": "existaient",
+"start": 2.36,
+"end": 2.82
+},
+{
+"word": "sur",
+"start": 2.82,
+"end": 3.0
+},
+{
+"word": "Terre",
+"start": 3.0,
+"end": 3.24
+},
+{
+"word": "et",
+"start": 3.24,
+"end": 3.36
+},
+{
+"word": "j",
+"start": 3.36,
+"end": 3.46
+},
+{
+"word": "'ai",
+"start": 3.46,
+"end": 3.52
+},
+{
+"word": "fait",
+"start": 3.52,
+"end": 3.6
+},
+{
+"word": "en",
+"start": 3.6,
+"end": 3.72
+},
+{
+"word": "sorte",
+"start": 3.72,
+"end": 3.82
+},
+{
+"word": "de",
+"start": 3.82,
+"end": 3.94
+},
+{
+"word": "les",
+"start": 3.94,
+"end": 4.04
+},
+{
+"word": "rendre",
+"start": 4.04,
+"end": 4.2
+},
+{
+"word": "accessibles",
+"start": 4.2,
+"end": 5.08
+},
+{
+"word": "en",
+"start": 5.08,
+"end": 5.2
+},
+{
+"word": "permanence",
+"start": 5.2,
+"end": 5.88
+},
+{
+"word": "dans",
+"start": 5.88,
+"end": 6.2
+},
+{
+"word": "mon",
+"start": 6.2,
+"end": 6.4
+},
+{
+"word": "cloud.",
+"start": 6.4,
+"end": 6.62
+}
+]
+},
+{
+"index": 3,
+"audio": {
+"path": "obs",
+"start": 49.659,
+"end": 55.219
+},
+"camera": {
+"path": "cam",
+"start": 48.94,
+"end": 54.5
+},
+"frames": 262,
+"text": "Maintenant, je peux appeler chacun d'entre eux à tout moment, ce qui me permet d'appliquer instantanément les méthodes qui sont enseignées dans mon entreprise.",
+"words": [
+{
+"word": "Maintenant,",
+"start": 0.0,
+"end": 0.42
+},
+{
+"word": "je",
+"start": 0.54,
+"end": 0.54
+},
+{
+"word": "peux",
+"start": 0.54,
+"end": 0.64
+},
+{
+"word": "appeler",
+"start": 0.64,
+"end": 0.8
+},
+{
+"word": "chacun",
+"start": 0.8,
+"end": 1.02
+},
+{
+"word": "d",
+"start": 1.02,
+"end": 1.18
+},
+{
+"word": "'entre",
+"start": 1.18,
+"end": 1.32
+},
+{
+"word": "eux",
+"start": 1.32,
+"end": 1.5
+},
+{
+"word": "à",
+"start": 1.5,
+"end": 1.68
+},
+{
+"word": "tout",
+"start": 1.68,
+"end": 1.86
+},
+{
+"word": "moment,",
+"start": 1.86,
+"end": 2.14
+},
+{
+"word": "ce",
+"start": 2.26,
+"end": 2.32
+},
+{
+"word": "qui",
+"start": 2.32,
+"end": 2.42
+},
+{
+"word": "me",
+"start": 2.42,
+"end": 2.5
+},
+{
+"word": "permet",
+"start": 2.5,
+"end": 2.64
+},
+{
+"word": "d",
+"start": 2.64,
+"end": 2.72
+},
+{
+"word": "'appliquer",
+"start": 2.72,
+"end": 3.04
+},
+{
+"word": "instantanément",
+"start": 3.04,
+"end": 3.82
+},
+{
+"word": "les",
+"start": 3.82,
+"end": 3.96
+},
+{
+"word": "méthodes",
+"start": 3.96,
+"end": 4.22
+},
+{
+"word": "qui",
+"start": 4.22,
+"end": 4.32
+},
+{
+"word": "sont",
+"start": 4.32,
+"end": 4.46
+},
+{
+"word": "enseignées",
+"start": 4.46,
+"end": 4.82
+},
+{
+"word": "dans",
+"start": 4.82,
+"end": 5.08
+},
+{
+"word": "mon",
+"start": 5.08,
+"end": 5.42
+},
+{
+"word": "entreprise.",
+"start": 5.42,
+"end": 5.84
+}
+]
+},
+{
+"index": 4,
+"audio": {
+"path": "obs",
+"start": 62.899,
+"end": 72.418
+},
+"camera": {
+"path": "cam",
+"start": 62.18,
+"end": 71.699
+},
+"frames": 449,
+"text": "Mais le plus intéressant, c'est que le process que je vais vous montrer ne fonctionne pas uniquement pour des livres business. Vous pouvez donner des formations, des vidéos, des Google Docs et même tous les PDF que vous auriez.",
+"words": [
+{
+"word": "Mais",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "le",
+"start": 0.24,
+"end": 0.34
+},
+{
+"word": "plus",
+"start": 0.34,
+"end": 0.48
+},
+{
+"word": "intéressant,",
+"start": 0.48,
+"end": 0.86
+},
+{
+"word": "c",
+"start": 1.06,
+"end": 1.06
+},
+{
+"word": "'est",
+"start": 1.06,
+"end": 1.14
+},
+{
+"word": "que",
+"start": 1.14,
+"end": 1.2
+},
+{
+"word": "le",
+"start": 1.2,
+"end": 1.3
+},
+{
+"word": "process",
+"start": 1.3,
+"end": 1.54
+},
+{
+"word": "que",
+"start": 1.54,
+"end": 1.72
+},
+{
+"word": "je",
+"start": 1.72,
+"end": 1.84
+},
+{
+"word": "vais",
+"start": 1.84,
+"end": 1.84
+},
+{
+"word": "vous",
+"start": 1.84,
+"end": 1.94
+},
+{
+"word": "montrer",
+"start": 1.94,
+"end": 2.2
+},
+{
+"word": "ne",
+"start": 2.2,
+"end": 2.34
+},
+{
+"word": "fonctionne",
+"start": 2.34,
+"end": 2.7
+},
+{
+"word": "pas",
+"start": 2.7,
+"end": 2.9
+},
+{
+"word": "uniquement",
+"start": 2.9,
+"end": 3.62
+},
+{
+"word": "pour",
+"start": 3.62,
+"end": 3.82
+},
+{
+"word": "des",
+"start": 3.82,
+"end": 3.94
+},
+{
+"word": "livres",
+"start": 3.94,
+"end": 4.16
+},
+{
+"word": "business.",
+"start": 4.16,
+"end": 4.42
+},
+{
+"word": "Vous",
+"start": 4.66,
+"end": 4.9
+},
+{
+"word": "pouvez",
+"start": 4.9,
+"end": 5.1
+},
+{
+"word": "donner",
+"start": 5.1,
+"end": 5.28
+},
+{
+"word": "des",
+"start": 5.28,
+"end": 5.54
+},
+{
+"word": "formations,",
+"start": 5.54,
+"end": 5.98
+},
+{
+"word": "des",
+"start": 6.28,
+"end": 6.36
+},
+{
+"word": "vidéos,",
+"start": 6.36,
+"end": 6.8
+},
+{
+"word": "des",
+"start": 7.02,
+"end": 7.1
+},
+{
+"word": "Google",
+"start": 7.1,
+"end": 7.36
+},
+{
+"word": "Docs",
+"start": 7.36,
+"end": 7.8
+},
+{
+"word": "et",
+"start": 7.8,
+"end": 7.82
+},
+{
+"word": "même",
+"start": 7.82,
+"end": 8.0
+},
+{
+"word": "tous",
+"start": 8.0,
+"end": 8.24
+},
+{
+"word": "les",
+"start": 8.24,
+"end": 8.4
+},
+{
+"word": "PDF",
+"start": 8.4,
+"end": 8.64
+},
+{
+"word": "que",
+"start": 8.64,
+"end": 8.92
+},
+{
+"word": "vous",
+"start": 8.92,
+"end": 9.06
+},
+{
+"word": "auriez.",
+"start": 9.06,
+"end": 9.38
+}
+]
+},
+{
+"index": 5,
+"audio": {
+"path": "obs",
+"start": 75.579,
+"end": 83.479
+},
+"camera": {
+"path": "cam",
+"start": 74.86,
+"end": 82.76
+},
+"frames": 373,
+"text": "Aujourd'hui, je vais donc vous présenter exactement comment faire, puis les cinq livres business que j'ai mis dans Claude pour résoudre les problèmes principaux que je rencontrais quand je travaillais avec lui.",
+"words": [
+{
+"word": "Aujourd",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "'hui,",
+"start": 0.32,
+"end": 0.48
+},
+{
+"word": "je",
+"start": 0.56,
+"end": 0.58
+},
+{
+"word": "vais",
+"start": 0.58,
+"end": 0.66
+},
+{
+"word": "donc",
+"start": 0.66,
+"end": 0.74
+},
+{
+"word": "vous",
+"start": 0.74,
+"end": 0.86
+},
+{
+"word": "présenter",
+"start": 0.86,
+"end": 1.22
+},
+{
+"word": "exactement",
+"start": 1.22,
+"end": 1.72
+},
+{
+"word": "comment",
+"start": 1.72,
+"end": 2.0
+},
+{
+"word": "faire,",
+"start": 2.0,
+"end": 2.38
+},
+{
+"word": "puis",
+"start": 2.48,
+"end": 2.76
+},
+{
+"word": "les",
+"start": 2.76,
+"end": 2.96
+},
+{
+"word": "cinq",
+"start": 2.96,
+"end": 3.18
+},
+{
+"word": "livres",
+"start": 3.18,
+"end": 3.5
+},
+{
+"word": "business",
+"start": 3.5,
+"end": 3.86
+},
+{
+"word": "que",
+"start": 3.86,
+"end": 4.04
+},
+{
+"word": "j",
+"start": 4.04,
+"end": 4.16
+},
+{
+"word": "'ai",
+"start": 4.16,
+"end": 4.24
+},
+{
+"word": "mis",
+"start": 4.24,
+"end": 4.3
+},
+{
+"word": "dans",
+"start": 4.3,
+"end": 4.42
+},
+{
+"word": "Claude",
+"start": 4.42,
+"end": 4.72
+},
+{
+"word": "pour",
+"start": 4.72,
+"end": 4.92
+},
+{
+"word": "résoudre",
+"start": 4.92,
+"end": 5.26
+},
+{
+"word": "les",
+"start": 5.26,
+"end": 5.34
+},
+{
+"word": "problèmes",
+"start": 5.34,
+"end": 5.64
+},
+{
+"word": "principaux",
+"start": 5.64,
+"end": 6.18
+},
+{
+"word": "que",
+"start": 6.18,
+"end": 6.34
+},
+{
+"word": "je",
+"start": 6.34,
+"end": 6.44
+},
+{
+"word": "rencontrais",
+"start": 6.44,
+"end": 6.86
+},
+{
+"word": "quand",
+"start": 6.86,
+"end": 7.04
+},
+{
+"word": "je",
+"start": 7.04,
+"end": 7.16
+},
+{
+"word": "travaillais",
+"start": 7.16,
+"end": 7.68
+},
+{
+"word": "avec",
+"start": 7.68,
+"end": 7.84
+},
+{
+"word": "lui.",
+"start": 7.84,
+"end": 8.02
+}
+]
+},
+{
+"index": 6,
+"audio": {
+"path": "obs",
+"start": 98.059,
+"end": 103.119
+},
+"camera": {
+"path": "cam",
+"start": 97.34,
+"end": 102.4
+},
+"frames": 238,
+"text": "Mais d'abord, laissez-moi vous dire pourquoi est-ce que Claude ne peut pas le faire lui-même ? Parce que la question semble évidente.",
+"words": [
+{
+"word": "Mais",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "d",
+"start": 0.26,
+"end": 0.36
+},
+{
+"word": "'abord,",
+"start": 0.36,
+"end": 0.5
+},
+{
+"word": "laissez",
+"start": 0.8,
+"end": 1.02
+},
+{
+"word": "-moi",
+"start": 1.02,
+"end": 1.14
+},
+{
+"word": "vous",
+"start": 1.14,
+"end": 1.28
+},
+{
+"word": "dire",
+"start": 1.28,
+"end": 1.54
+},
+{
+"word": "pourquoi",
+"start": 1.54,
+"end": 2.04
+},
+{
+"word": "est",
+"start": 2.04,
+"end": 2.36
+},
+{
+"word": "-ce",
+"start": 2.36,
+"end": 2.46
+},
+{
+"word": "que",
+"start": 2.46,
+"end": 2.52
+},
+{
+"word": "Claude",
+"start": 2.52,
+"end": 2.74
+},
+{
+"word": "ne",
+"start": 2.74,
+"end": 2.82
+},
+{
+"word": "peut",
+"start": 2.82,
+"end": 2.92
+},
+{
+"word": "pas",
+"start": 2.92,
+"end": 3.1
+},
+{
+"word": "le",
+"start": 3.1,
+"end": 3.2
+},
+{
+"word": "faire",
+"start": 3.2,
+"end": 3.34
+},
+{
+"word": "lui",
+"start": 3.34,
+"end": 3.48
+},
+{
+"word": "-même",
+"start": 3.48,
+"end": 3.68
+},
+{
+"word": "?",
+"start": 3.68,
+"end": 3.8
+},
+{
+"word": "Parce",
+"start": 3.8,
+"end": 3.92
+},
+{
+"word": "que",
+"start": 3.92,
+"end": 4.06
+},
+{
+"word": "la",
+"start": 4.06,
+"end": 4.24
+},
+{
+"word": "question",
+"start": 4.24,
+"end": 4.5
+},
+{
+"word": "semble",
+"start": 4.5,
+"end": 4.74
+},
+{
+"word": "évidente.",
+"start": 4.74,
+"end": 5.08
+}
+]
+},
+{
+"index": 7,
+"audio": {
+"path": "obs",
+"start": 103.119,
+"end": 110.179
+},
+"camera": {
+"path": "cam",
+"start": 102.4,
+"end": 109.46
+},
+"frames": 333,
+"text": "Le modèle a été entraîné au départ sur tous les livres qui existent sur Terre. Alors pourquoi est-ce qu'il n'est pas capable de répondre comme il le faut quand je lui parle d'un livre ?",
+"words": [
+{
+"word": "Le",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "modèle",
+"start": 0.3,
+"end": 0.54
+},
+{
+"word": "a",
+"start": 0.54,
+"end": 0.66
+},
+{
+"word": "été",
+"start": 0.66,
+"end": 0.8
+},
+{
+"word": "entraîné",
+"start": 0.8,
+"end": 1.26
+},
+{
+"word": "au",
+"start": 1.26,
+"end": 1.58
+},
+{
+"word": "départ",
+"start": 1.58,
+"end": 1.9
+},
+{
+"word": "sur",
+"start": 1.9,
+"end": 2.12
+},
+{
+"word": "tous",
+"start": 2.12,
+"end": 2.26
+},
+{
+"word": "les",
+"start": 2.26,
+"end": 2.38
+},
+{
+"word": "livres",
+"start": 2.38,
+"end": 2.56
+},
+{
+"word": "qui",
+"start": 2.56,
+"end": 2.68
+},
+{
+"word": "existent",
+"start": 2.68,
+"end": 2.96
+},
+{
+"word": "sur",
+"start": 2.96,
+"end": 3.08
+},
+{
+"word": "Terre.",
+"start": 3.08,
+"end": 3.26
+},
+{
+"word": "Alors",
+"start": 3.48,
+"end": 3.72
+},
+{
+"word": "pourquoi",
+"start": 3.72,
+"end": 4.04
+},
+{
+"word": "est",
+"start": 4.04,
+"end": 4.18
+},
+{
+"word": "-ce",
+"start": 4.18,
+"end": 4.24
+},
+{
+"word": "qu",
+"start": 4.24,
+"end": 4.3
+},
+{
+"word": "'il",
+"start": 4.3,
+"end": 4.38
+},
+{
+"word": "n",
+"start": 4.38,
+"end": 4.38
+},
+{
+"word": "'est",
+"start": 4.38,
+"end": 4.44
+},
+{
+"word": "pas",
+"start": 4.44,
+"end": 4.54
+},
+{
+"word": "capable",
+"start": 4.54,
+"end": 5.08
+},
+{
+"word": "de",
+"start": 5.08,
+"end": 5.38
+},
+{
+"word": "répondre",
+"start": 5.38,
+"end": 5.7
+},
+{
+"word": "comme",
+"start": 5.7,
+"end": 5.88
+},
+{
+"word": "il",
+"start": 5.88,
+"end": 6.0
+},
+{
+"word": "le",
+"start": 6.0,
+"end": 6.12
+},
+{
+"word": "faut",
+"start": 6.12,
+"end": 6.24
+},
+{
+"word": "quand",
+"start": 6.24,
+"end": 6.38
+},
+{
+"word": "je",
+"start": 6.38,
+"end": 6.5
+},
+{
+"word": "lui",
+"start": 6.5,
+"end": 6.58
+},
+{
+"word": "parle",
+"start": 6.58,
+"end": 6.78
+},
+{
+"word": "d",
+"start": 6.78,
+"end": 6.86
+},
+{
+"word": "'un",
+"start": 6.86,
+"end": 6.92
+},
+{
+"word": "livre",
+"start": 6.92,
+"end": 7.14
+},
+{
+"word": "?",
+"start": 7.14,
+"end": 7.34
+}
+]
+},
+{
+"index": 8,
+"audio": {
+"path": "obs",
+"start": 112.139,
+"end": 114.859
+},
+"camera": {
+"path": "cam",
+"start": 111.42,
+"end": 114.14
+},
+"frames": 129,
+"text": "Et la réponse, c'est qu'il les connaît dans une certaine mesure.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "la",
+"start": 0.26,
+"end": 0.48
+},
+{
+"word": "réponse,",
+"start": 0.48,
+"end": 0.8
+},
+{
+"word": "c",
+"start": 1.08,
+"end": 1.12
+},
+{
+"word": "'est",
+"start": 1.12,
+"end": 1.16
+},
+{
+"word": "qu",
+"start": 1.16,
+"end": 1.26
+},
+{
+"word": "'il",
+"start": 1.26,
+"end": 1.34
+},
+{
+"word": "les",
+"start": 1.34,
+"end": 1.48
+},
+{
+"word": "connaît",
+"start": 1.48,
+"end": 1.82
+},
+{
+"word": "dans",
+"start": 1.82,
+"end": 2.06
+},
+{
+"word": "une",
+"start": 2.06,
+"end": 2.28
+},
+{
+"word": "certaine",
+"start": 2.28,
+"end": 2.66
+},
+{
+"word": "mesure.",
+"start": 2.66,
+"end": 2.84
+}
+]
+},
+{
+"index": 9,
+"audio": {
+"path": "obs",
+"start": 119.379,
+"end": 125.855
+},
+"camera": {
+"path": "cam",
+"start": 118.66,
+"end": 125.137
+},
+"frames": 305,
+"text": "Vous pouvez lui demander de vous parler d'un classique comme Harry Potter ou un livre de marketing et il vous donnera volontiers les plus grandes leçons qui sortent de ce livre.",
+"words": [
+{
+"word": "Vous",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "pouvez",
+"start": 0.24,
+"end": 0.38
+},
+{
+"word": "lui",
+"start": 0.38,
+"end": 0.46
+},
+{
+"word": "demander",
+"start": 0.46,
+"end": 0.66
+},
+{
+"word": "de",
+"start": 0.66,
+"end": 0.76
+},
+{
+"word": "vous",
+"start": 0.76,
+"end": 0.86
+},
+{
+"word": "parler",
+"start": 0.86,
+"end": 1.04
+},
+{
+"word": "d",
+"start": 1.04,
+"end": 1.14
+},
+{
+"word": "'un",
+"start": 1.14,
+"end": 1.22
+},
+{
+"word": "classique",
+"start": 1.22,
+"end": 1.72
+},
+{
+"word": "comme",
+"start": 1.72,
+"end": 2.0
+},
+{
+"word": "Harry",
+"start": 2.0,
+"end": 2.24
+},
+{
+"word": "Potter",
+"start": 2.24,
+"end": 2.5
+},
+{
+"word": "ou",
+"start": 2.5,
+"end": 2.74
+},
+{
+"word": "un",
+"start": 2.74,
+"end": 2.84
+},
+{
+"word": "livre",
+"start": 2.84,
+"end": 3.04
+},
+{
+"word": "de",
+"start": 3.04,
+"end": 3.16
+},
+{
+"word": "marketing",
+"start": 3.16,
+"end": 3.54
+},
+{
+"word": "et",
+"start": 3.54,
+"end": 3.92
+},
+{
+"word": "il",
+"start": 3.92,
+"end": 4.04
+},
+{
+"word": "vous",
+"start": 4.04,
+"end": 4.16
+},
+{
+"word": "donnera",
+"start": 4.16,
+"end": 4.4
+},
+{
+"word": "volontiers",
+"start": 4.4,
+"end": 4.8
+},
+{
+"word": "les",
+"start": 4.8,
+"end": 4.94
+},
+{
+"word": "plus",
+"start": 4.94,
+"end": 5.1
+},
+{
+"word": "grandes",
+"start": 5.1,
+"end": 5.36
+},
+{
+"word": "leçons",
+"start": 5.36,
+"end": 5.68
+},
+{
+"word": "qui",
+"start": 5.68,
+"end": 5.82
+},
+{
+"word": "sortent",
+"start": 5.82,
+"end": 6.0
+},
+{
+"word": "de",
+"start": 6.0,
+"end": 6.06
+},
+{
+"word": "ce",
+"start": 6.06,
+"end": 6.18
+},
+{
+"word": "livre.",
+"start": 6.18,
+"end": 6.34
+}
+]
+},
+{
+"index": 10,
+"audio": {
+"path": "obs",
+"start": 127.259,
+"end": 132.439
+},
+"camera": {
+"path": "cam",
+"start": 126.54,
+"end": 131.72
+},
+"frames": 245,
+"text": "Mais quand vous lui demandez de réellement l'appliquer et de par exemple rédiger une page de vente avec une formation que vous lui avez donnée,",
+"words": [
+{
+"word": "Mais",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "quand",
+"start": 0.24,
+"end": 0.36
+},
+{
+"word": "vous",
+"start": 0.36,
+"end": 0.46
+},
+{
+"word": "lui",
+"start": 0.46,
+"end": 0.54
+},
+{
+"word": "demandez",
+"start": 0.54,
+"end": 0.78
+},
+{
+"word": "de",
+"start": 0.78,
+"end": 0.9
+},
+{
+"word": "réellement",
+"start": 0.9,
+"end": 1.36
+},
+{
+"word": "l",
+"start": 1.36,
+"end": 1.54
+},
+{
+"word": "'appliquer",
+"start": 1.54,
+"end": 1.96
+},
+{
+"word": "et",
+"start": 1.96,
+"end": 2.2
+},
+{
+"word": "de",
+"start": 2.2,
+"end": 2.3
+},
+{
+"word": "par",
+"start": 2.3,
+"end": 2.4
+},
+{
+"word": "exemple",
+"start": 2.4,
+"end": 2.6
+},
+{
+"word": "rédiger",
+"start": 2.6,
+"end": 2.92
+},
+{
+"word": "une",
+"start": 2.92,
+"end": 3.08
+},
+{
+"word": "page",
+"start": 3.08,
+"end": 3.32
+},
+{
+"word": "de",
+"start": 3.32,
+"end": 3.46
+},
+{
+"word": "vente",
+"start": 3.46,
+"end": 3.62
+},
+{
+"word": "avec",
+"start": 3.62,
+"end": 3.76
+},
+{
+"word": "une",
+"start": 3.76,
+"end": 3.94
+},
+{
+"word": "formation",
+"start": 3.94,
+"end": 4.36
+},
+{
+"word": "que",
+"start": 4.36,
+"end": 4.56
+},
+{
+"word": "vous",
+"start": 4.56,
+"end": 4.62
+},
+{
+"word": "lui",
+"start": 4.62,
+"end": 4.74
+},
+{
+"word": "avez",
+"start": 4.74,
+"end": 4.88
+},
+{
+"word": "donnée,",
+"start": 4.88,
+"end": 5.2
+}
+]
+},
+{
+"index": 11,
+"audio": {
+"path": "obs",
+"start": 132.819,
+"end": 138.358
+},
+"camera": {
+"path": "cam",
+"start": 132.1,
+"end": 137.639
+},
+"frames": 261,
+"text": "il devient médiocre et vous obtenez le même texte, la même page de vente que tout le monde aurait obtenu avec le même code.",
+"words": [
+{
+"word": "il",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "devient",
+"start": 0.28,
+"end": 0.58
+},
+{
+"word": "médiocre",
+"start": 0.58,
+"end": 1.28
+},
+{
+"word": "et",
+"start": 1.28,
+"end": 1.42
+},
+{
+"word": "vous",
+"start": 1.42,
+"end": 1.48
+},
+{
+"word": "obtenez",
+"start": 1.48,
+"end": 1.86
+},
+{
+"word": "le",
+"start": 1.86,
+"end": 2.02
+},
+{
+"word": "même",
+"start": 2.02,
+"end": 2.18
+},
+{
+"word": "texte,",
+"start": 2.18,
+"end": 2.6
+},
+{
+"word": "la",
+"start": 2.62,
+"end": 2.7
+},
+{
+"word": "même",
+"start": 2.7,
+"end": 2.86
+},
+{
+"word": "page",
+"start": 2.86,
+"end": 3.04
+},
+{
+"word": "de",
+"start": 3.04,
+"end": 3.18
+},
+{
+"word": "vente",
+"start": 3.18,
+"end": 3.32
+},
+{
+"word": "que",
+"start": 3.32,
+"end": 3.44
+},
+{
+"word": "tout",
+"start": 3.44,
+"end": 3.76
+},
+{
+"word": "le",
+"start": 3.76,
+"end": 3.88
+},
+{
+"word": "monde",
+"start": 3.88,
+"end": 4.02
+},
+{
+"word": "aurait",
+"start": 4.02,
+"end": 4.2
+},
+{
+"word": "obtenu",
+"start": 4.2,
+"end": 4.6
+},
+{
+"word": "avec",
+"start": 4.6,
+"end": 4.82
+},
+{
+"word": "le",
+"start": 4.82,
+"end": 5.0
+},
+{
+"word": "même",
+"start": 5.0,
+"end": 5.14
+},
+{
+"word": "code.",
+"start": 5.14,
+"end": 5.36
+}
+]
+},
+{
+"index": 12,
+"audio": {
+"path": "obs",
+"start": 142.239,
+"end": 147.859
+},
+"camera": {
+"path": "cam",
+"start": 141.52,
+"end": 147.14
+},
+"frames": 265,
+"text": "Et la raison de ce phénomène explique justement pourquoi les skills, les compétences de Claude ou de chat GPT sont si importantes.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "la",
+"start": 0.24,
+"end": 0.46
+},
+{
+"word": "raison",
+"start": 0.46,
+"end": 0.68
+},
+{
+"word": "de",
+"start": 0.68,
+"end": 0.76
+},
+{
+"word": "ce",
+"start": 0.76,
+"end": 0.86
+},
+{
+"word": "phénomène",
+"start": 0.86,
+"end": 1.26
+},
+{
+"word": "explique",
+"start": 1.26,
+"end": 1.64
+},
+{
+"word": "justement",
+"start": 1.64,
+"end": 2.06
+},
+{
+"word": "pourquoi",
+"start": 2.06,
+"end": 2.44
+},
+{
+"word": "les",
+"start": 2.44,
+"end": 2.64
+},
+{
+"word": "skills,",
+"start": 2.64,
+"end": 3.0
+},
+{
+"word": "les",
+"start": 3.16,
+"end": 3.3
+},
+{
+"word": "compétences",
+"start": 3.3,
+"end": 3.82
+},
+{
+"word": "de",
+"start": 3.82,
+"end": 3.92
+},
+{
+"word": "Claude",
+"start": 3.92,
+"end": 4.2
+},
+{
+"word": "ou",
+"start": 4.2,
+"end": 4.3
+},
+{
+"word": "de",
+"start": 4.3,
+"end": 4.36
+},
+{
+"word": "chat",
+"start": 4.36,
+"end": 4.46
+},
+{
+"word": "GPT",
+"start": 4.46,
+"end": 4.8
+},
+{
+"word": "sont",
+"start": 4.8,
+"end": 5.04
+},
+{
+"word": "si",
+"start": 5.04,
+"end": 5.4
+},
+{
+"word": "importantes.",
+"start": 5.4,
+"end": 5.68
+}
+]
+},
+{
+"index": 13,
+"audio": {
+"path": "obs",
+"start": 171.059,
+"end": 178.589
+},
+"camera": {
+"path": "cam",
+"start": 170.34,
+"end": 177.871
+},
+"frames": 355,
+"text": "Vous voyez, les modèles d'IA sont extrêmement intelligents, mais ils ont tendance à oublier certaines parties et donc à revenir à la solution la plus probable.",
+"words": [
+{
+"word": "Vous",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "voyez,",
+"start": 0.26,
+"end": 0.5
+},
+{
+"word": "les",
+"start": 0.66,
+"end": 0.72
+},
+{
+"word": "modèles",
+"start": 0.72,
+"end": 0.96
+},
+{
+"word": "d",
+"start": 0.96,
+"end": 1.04
+},
+{
+"word": "'IA",
+"start": 1.04,
+"end": 1.14
+},
+{
+"word": "sont",
+"start": 1.14,
+"end": 1.38
+},
+{
+"word": "extrêmement",
+"start": 1.38,
+"end": 2.1
+},
+{
+"word": "intelligents,",
+"start": 2.1,
+"end": 2.62
+},
+{
+"word": "mais",
+"start": 2.7,
+"end": 2.78
+},
+{
+"word": "ils",
+"start": 2.78,
+"end": 2.88
+},
+{
+"word": "ont",
+"start": 2.88,
+"end": 2.94
+},
+{
+"word": "tendance",
+"start": 2.94,
+"end": 3.26
+},
+{
+"word": "à",
+"start": 3.26,
+"end": 3.46
+},
+{
+"word": "oublier",
+"start": 3.46,
+"end": 3.92
+},
+{
+"word": "certaines",
+"start": 3.92,
+"end": 4.4
+},
+{
+"word": "parties",
+"start": 4.4,
+"end": 4.82
+},
+{
+"word": "et",
+"start": 4.82,
+"end": 5.14
+},
+{
+"word": "donc",
+"start": 5.14,
+"end": 5.3
+},
+{
+"word": "à",
+"start": 5.3,
+"end": 5.44
+},
+{
+"word": "revenir",
+"start": 5.44,
+"end": 5.76
+},
+{
+"word": "à",
+"start": 5.76,
+"end": 5.96
+},
+{
+"word": "la",
+"start": 5.96,
+"end": 6.04
+},
+{
+"word": "solution",
+"start": 6.04,
+"end": 6.42
+},
+{
+"word": "la",
+"start": 6.42,
+"end": 6.94
+},
+{
+"word": "plus",
+"start": 6.94,
+"end": 7.12
+},
+{
+"word": "probable.",
+"start": 7.12,
+"end": 7.44
+}
+]
+},
+{
+"index": 14,
+"audio": {
+"path": "obs",
+"start": 190.139,
+"end": 197.219
+},
+"camera": {
+"path": "cam",
+"start": 189.42,
+"end": 196.5
+},
+"frames": 334,
+"text": "Et appliqué au cas d'usage professionnel dont on va parler aujourd'hui, ça veut dire que le cas d'usage le plus probable, c'est celui que tout le monde aurait eu, comme vous.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "appliqué",
+"start": 0.26,
+"end": 0.68
+},
+{
+"word": "au",
+"start": 0.68,
+"end": 0.82
+},
+{
+"word": "cas",
+"start": 0.82,
+"end": 0.96
+},
+{
+"word": "d",
+"start": 0.96,
+"end": 1.06
+},
+{
+"word": "'usage",
+"start": 1.06,
+"end": 1.4
+},
+{
+"word": "professionnel",
+"start": 1.4,
+"end": 1.94
+},
+{
+"word": "dont",
+"start": 1.94,
+"end": 2.04
+},
+{
+"word": "on",
+"start": 2.04,
+"end": 2.12
+},
+{
+"word": "va",
+"start": 2.12,
+"end": 2.2
+},
+{
+"word": "parler",
+"start": 2.2,
+"end": 2.4
+},
+{
+"word": "aujourd",
+"start": 2.4,
+"end": 2.52
+},
+{
+"word": "'hui,",
+"start": 2.52,
+"end": 2.72
+},
+{
+"word": "ça",
+"start": 3.14,
+"end": 3.18
+},
+{
+"word": "veut",
+"start": 3.18,
+"end": 3.32
+},
+{
+"word": "dire",
+"start": 3.32,
+"end": 3.46
+},
+{
+"word": "que",
+"start": 3.46,
+"end": 3.64
+},
+{
+"word": "le",
+"start": 3.64,
+"end": 3.86
+},
+{
+"word": "cas",
+"start": 3.86,
+"end": 3.98
+},
+{
+"word": "d",
+"start": 3.98,
+"end": 4.04
+},
+{
+"word": "'usage",
+"start": 4.04,
+"end": 4.22
+},
+{
+"word": "le",
+"start": 4.22,
+"end": 4.32
+},
+{
+"word": "plus",
+"start": 4.32,
+"end": 4.42
+},
+{
+"word": "probable,",
+"start": 4.42,
+"end": 4.78
+},
+{
+"word": "c",
+"start": 4.9,
+"end": 5.18
+},
+{
+"word": "'est",
+"start": 5.18,
+"end": 5.24
+},
+{
+"word": "celui",
+"start": 5.24,
+"end": 5.5
+},
+{
+"word": "que",
+"start": 5.5,
+"end": 5.7
+},
+{
+"word": "tout",
+"start": 5.7,
+"end": 6.08
+},
+{
+"word": "le",
+"start": 6.08,
+"end": 6.22
+},
+{
+"word": "monde",
+"start": 6.22,
+"end": 6.36
+},
+{
+"word": "aurait",
+"start": 6.36,
+"end": 6.6
+},
+{
+"word": "eu,",
+"start": 6.6,
+"end": 6.72
+},
+{
+"word": "comme",
+"start": 6.82,
+"end": 7.04
+},
+{
+"word": "vous.",
+"start": 7.04,
+"end": 7.2
+}
+]
+},
+{
+"index": 15,
+"audio": {
+"path": "obs",
+"start": 238.198,
+"end": 244.307
+},
+"camera": {
+"path": "cam",
+"start": 237.48,
+"end": 243.588
+},
+"frames": 288,
+"text": "Il faut donc forcer le modèle à utiliser ces techniques en utilisant les exemples et les explications qui sont détaillées dans le livre.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "faut",
+"start": 0.24,
+"end": 0.32
+},
+{
+"word": "donc",
+"start": 0.32,
+"end": 0.48
+},
+{
+"word": "forcer",
+"start": 0.48,
+"end": 1.16
+},
+{
+"word": "le",
+"start": 1.16,
+"end": 1.28
+},
+{
+"word": "modèle",
+"start": 1.28,
+"end": 1.56
+},
+{
+"word": "à",
+"start": 1.56,
+"end": 1.84
+},
+{
+"word": "utiliser",
+"start": 1.84,
+"end": 2.3
+},
+{
+"word": "ces",
+"start": 2.3,
+"end": 2.46
+},
+{
+"word": "techniques",
+"start": 2.46,
+"end": 2.78
+},
+{
+"word": "en",
+"start": 2.78,
+"end": 2.98
+},
+{
+"word": "utilisant",
+"start": 2.98,
+"end": 3.42
+},
+{
+"word": "les",
+"start": 3.42,
+"end": 3.6
+},
+{
+"word": "exemples",
+"start": 3.6,
+"end": 4.18
+},
+{
+"word": "et",
+"start": 4.18,
+"end": 4.26
+},
+{
+"word": "les",
+"start": 4.26,
+"end": 4.36
+},
+{
+"word": "explications",
+"start": 4.36,
+"end": 4.94
+},
+{
+"word": "qui",
+"start": 4.94,
+"end": 5.32
+},
+{
+"word": "sont",
+"start": 5.32,
+"end": 5.48
+},
+{
+"word": "détaillées",
+"start": 5.48,
+"end": 5.8
+},
+{
+"word": "dans",
+"start": 5.8,
+"end": 5.9
+},
+{
+"word": "le",
+"start": 5.9,
+"end": 5.98
+},
+{
+"word": "livre.",
+"start": 5.98,
+"end": 6.14
+}
+]
+},
+{
+"index": 16,
+"audio": {
+"path": "obs",
+"start": 247.138,
+"end": 251.318
+},
+"camera": {
+"path": "cam",
+"start": 246.42,
+"end": 250.6
+},
+"frames": 197,
+"text": "Et c'est exactement le problème qu'un skill, une compétence va résoudre.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "c",
+"start": 0.24,
+"end": 0.32
+},
+{
+"word": "'est",
+"start": 0.32,
+"end": 0.42
+},
+{
+"word": "exactement",
+"start": 0.42,
+"end": 1.04
+},
+{
+"word": "le",
+"start": 1.04,
+"end": 1.52
+},
+{
+"word": "problème",
+"start": 1.52,
+"end": 2.02
+},
+{
+"word": "qu",
+"start": 2.02,
+"end": 2.34
+},
+{
+"word": "'un",
+"start": 2.34,
+"end": 2.48
+},
+{
+"word": "skill,",
+"start": 2.48,
+"end": 2.76
+},
+{
+"word": "une",
+"start": 2.96,
+"end": 3.08
+},
+{
+"word": "compétence",
+"start": 3.08,
+"end": 3.72
+},
+{
+"word": "va",
+"start": 3.72,
+"end": 4.04
+},
+{
+"word": "résoudre.",
+"start": 4.04,
+"end": 4.42
+}
+]
+},
+{
+"index": 17,
+"audio": {
+"path": "obs",
+"start": 301.858,
+"end": 307.318
+},
+"camera": {
+"path": "cam",
+"start": 301.14,
+"end": 306.6
+},
+"frames": 258,
+"text": "Un skill, c'est simplement une procédure pour unir. Et en transformant ses livres en skills,",
+"words": [
+{
+"word": "Un",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "skill,",
+"start": 0.3,
+"end": 0.4
+},
+{
+"word": "c",
+"start": 0.52,
+"end": 0.52
+},
+{
+"word": "'est",
+"start": 0.52,
+"end": 0.6
+},
+{
+"word": "simplement",
+"start": 0.6,
+"end": 0.98
+},
+{
+"word": "une",
+"start": 0.98,
+"end": 1.5
+},
+{
+"word": "procédure",
+"start": 1.5,
+"end": 2.4
+},
+{
+"word": "pour",
+"start": 2.4,
+"end": 2.86
+},
+{
+"word": "unir.",
+"start": 2.86,
+"end": 3.18
+},
+{
+"word": "Et",
+"start": 3.4,
+"end": 3.64
+},
+{
+"word": "en",
+"start": 3.64,
+"end": 4.08
+},
+{
+"word": "transformant",
+"start": 4.08,
+"end": 4.5
+},
+{
+"word": "ses",
+"start": 4.5,
+"end": 4.62
+},
+{
+"word": "livres",
+"start": 4.62,
+"end": 4.96
+},
+{
+"word": "en",
+"start": 4.96,
+"end": 5.06
+},
+{
+"word": "skills,",
+"start": 5.06,
+"end": 5.32
+}
+]
+},
+{
+"index": 18,
+"audio": {
+"path": "obs",
+"start": 307.438,
+"end": 315.278
+},
+"camera": {
+"path": "cam",
+"start": 306.72,
+"end": 314.56
+},
+"frames": 370,
+"text": "On donne essentiellement à Claude une procédure étape par étape de ce qu'il va falloir faire pour arriver au résultat souhaité et à la technique qui est donnée dans le livre.",
+"words": [
+{
+"word": "On",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "donne",
+"start": 0.22,
+"end": 0.36
+},
+{
+"word": "essentiellement",
+"start": 0.36,
+"end": 0.86
+},
+{
+"word": "à",
+"start": 0.86,
+"end": 1.04
+},
+{
+"word": "Claude",
+"start": 1.04,
+"end": 1.32
+},
+{
+"word": "une",
+"start": 1.32,
+"end": 1.58
+},
+{
+"word": "procédure",
+"start": 1.58,
+"end": 2.2
+},
+{
+"word": "étape",
+"start": 2.2,
+"end": 2.72
+},
+{
+"word": "par",
+"start": 2.72,
+"end": 2.86
+},
+{
+"word": "étape",
+"start": 2.86,
+"end": 3.22
+},
+{
+"word": "de",
+"start": 3.22,
+"end": 3.66
+},
+{
+"word": "ce",
+"start": 3.66,
+"end": 3.78
+},
+{
+"word": "qu",
+"start": 3.78,
+"end": 3.82
+},
+{
+"word": "'il",
+"start": 3.82,
+"end": 3.9
+},
+{
+"word": "va",
+"start": 3.9,
+"end": 3.98
+},
+{
+"word": "falloir",
+"start": 3.98,
+"end": 4.24
+},
+{
+"word": "faire",
+"start": 4.24,
+"end": 4.46
+},
+{
+"word": "pour",
+"start": 4.46,
+"end": 4.82
+},
+{
+"word": "arriver",
+"start": 4.82,
+"end": 5.4
+},
+{
+"word": "au",
+"start": 5.4,
+"end": 5.64
+},
+{
+"word": "résultat",
+"start": 5.64,
+"end": 5.98
+},
+{
+"word": "souhaité",
+"start": 5.98,
+"end": 6.34
+},
+{
+"word": "et",
+"start": 6.34,
+"end": 6.52
+},
+{
+"word": "à",
+"start": 6.52,
+"end": 6.6
+},
+{
+"word": "la",
+"start": 6.6,
+"end": 6.68
+},
+{
+"word": "technique",
+"start": 6.68,
+"end": 7.18
+},
+{
+"word": "qui",
+"start": 7.18,
+"end": 7.42
+},
+{
+"word": "est",
+"start": 7.42,
+"end": 7.5
+},
+{
+"word": "donnée",
+"start": 7.5,
+"end": 7.68
+},
+{
+"word": "dans",
+"start": 7.68,
+"end": 7.78
+},
+{
+"word": "le",
+"start": 7.78,
+"end": 7.86
+},
+{
+"word": "livre.",
+"start": 7.86,
+"end": 8.02
+}
+]
+},
+{
+"index": 19,
+"audio": {
+"path": "obs",
+"start": 323.318,
+"end": 330.818
+},
+"camera": {
+"path": "cam",
+"start": 322.6,
+"end": 330.1
+},
+"frames": 354,
+"text": "Et la structure même du skill est en réalité très simple, c'est juste un dossier à l'intérieur duquel il y a un fichier qui s'appelle le fichier skill.md.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "la",
+"start": 0.22,
+"end": 0.32
+},
+{
+"word": "structure",
+"start": 0.32,
+"end": 0.62
+},
+{
+"word": "même",
+"start": 0.62,
+"end": 0.88
+},
+{
+"word": "du",
+"start": 0.88,
+"end": 1.02
+},
+{
+"word": "skill",
+"start": 1.02,
+"end": 1.22
+},
+{
+"word": "est",
+"start": 1.22,
+"end": 1.46
+},
+{
+"word": "en",
+"start": 1.46,
+"end": 1.48
+},
+{
+"word": "réalité",
+"start": 1.48,
+"end": 1.72
+},
+{
+"word": "très",
+"start": 1.72,
+"end": 1.96
+},
+{
+"word": "simple,",
+"start": 1.96,
+"end": 2.3
+},
+{
+"word": "c",
+"start": 2.5,
+"end": 2.52
+},
+{
+"word": "'est",
+"start": 2.52,
+"end": 2.6
+},
+{
+"word": "juste",
+"start": 2.6,
+"end": 2.76
+},
+{
+"word": "un",
+"start": 2.76,
+"end": 2.94
+},
+{
+"word": "dossier",
+"start": 2.94,
+"end": 3.44
+},
+{
+"word": "à",
+"start": 3.44,
+"end": 3.58
+},
+{
+"word": "l",
+"start": 3.58,
+"end": 3.68
+},
+{
+"word": "'intérieur",
+"start": 3.68,
+"end": 3.92
+},
+{
+"word": "duquel",
+"start": 3.92,
+"end": 4.36
+},
+{
+"word": "il",
+"start": 4.36,
+"end": 4.66
+},
+{
+"word": "y",
+"start": 4.66,
+"end": 4.66
+},
+{
+"word": "a",
+"start": 4.66,
+"end": 4.72
+},
+{
+"word": "un",
+"start": 4.72,
+"end": 4.78
+},
+{
+"word": "fichier",
+"start": 4.78,
+"end": 5.12
+},
+{
+"word": "qui",
+"start": 5.12,
+"end": 5.2
+},
+{
+"word": "s",
+"start": 5.2,
+"end": 5.3
+},
+{
+"word": "'appelle",
+"start": 5.3,
+"end": 5.44
+},
+{
+"word": "le",
+"start": 5.44,
+"end": 5.54
+},
+{
+"word": "fichier",
+"start": 5.54,
+"end": 5.92
+},
+{
+"word": "skill",
+"start": 5.92,
+"end": 6.62
+},
+{
+"word": ".md.",
+"start": 6.62,
+"end": 7.6
+}
+]
+},
+{
+"index": 20,
+"audio": {
+"path": "obs",
+"start": 337.578,
+"end": 342.217
+},
+"camera": {
+"path": "cam",
+"start": 336.86,
+"end": 341.499
+},
+"frames": 218,
+"text": "Et vous devez juste savoir que ce fichier donne à Claude les instructions pour appliquer le livre.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "vous",
+"start": 0.2,
+"end": 0.28
+},
+{
+"word": "devez",
+"start": 0.28,
+"end": 0.46
+},
+{
+"word": "juste",
+"start": 0.46,
+"end": 0.64
+},
+{
+"word": "savoir",
+"start": 0.64,
+"end": 0.96
+},
+{
+"word": "que",
+"start": 0.96,
+"end": 1.2
+},
+{
+"word": "ce",
+"start": 1.2,
+"end": 1.42
+},
+{
+"word": "fichier",
+"start": 1.42,
+"end": 1.86
+},
+{
+"word": "donne",
+"start": 1.86,
+"end": 2.14
+},
+{
+"word": "à",
+"start": 2.14,
+"end": 2.28
+},
+{
+"word": "Claude",
+"start": 2.28,
+"end": 2.46
+},
+{
+"word": "les",
+"start": 2.46,
+"end": 2.62
+},
+{
+"word": "instructions",
+"start": 2.62,
+"end": 3.02
+},
+{
+"word": "pour",
+"start": 3.02,
+"end": 3.46
+},
+{
+"word": "appliquer",
+"start": 3.46,
+"end": 4.14
+},
+{
+"word": "le",
+"start": 4.14,
+"end": 4.28
+},
+{
+"word": "livre.",
+"start": 4.28,
+"end": 4.5
+}
+]
+},
+{
+"index": 21,
+"audio": {
+"path": "obs",
+"start": 356.798,
+"end": 362.778
+},
+"camera": {
+"path": "cam",
+"start": 356.08,
+"end": 362.06
+},
+"frames": 282,
+"text": "Et si ça fonctionne si bien avec les livres, c'est parce que les skills, eux aussi, sont rangés dans des sortes de bibliothèques.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "si",
+"start": 0.24,
+"end": 0.36
+},
+{
+"word": "ça",
+"start": 0.36,
+"end": 0.48
+},
+{
+"word": "fonctionne",
+"start": 0.48,
+"end": 0.9
+},
+{
+"word": "si",
+"start": 0.9,
+"end": 1.26
+},
+{
+"word": "bien",
+"start": 1.26,
+"end": 1.46
+},
+{
+"word": "avec",
+"start": 1.46,
+"end": 1.72
+},
+{
+"word": "les",
+"start": 1.72,
+"end": 1.88
+},
+{
+"word": "livres,",
+"start": 1.88,
+"end": 2.12
+},
+{
+"word": "c",
+"start": 2.28,
+"end": 2.54
+},
+{
+"word": "'est",
+"start": 2.54,
+"end": 2.62
+},
+{
+"word": "parce",
+"start": 2.62,
+"end": 2.72
+},
+{
+"word": "que",
+"start": 2.72,
+"end": 2.82
+},
+{
+"word": "les",
+"start": 2.82,
+"end": 2.96
+},
+{
+"word": "skills,",
+"start": 2.96,
+"end": 3.34
+},
+{
+"word": "eux",
+"start": 3.38,
+"end": 3.76
+},
+{
+"word": "aussi,",
+"start": 3.76,
+"end": 4.08
+},
+{
+"word": "sont",
+"start": 4.26,
+"end": 4.52
+},
+{
+"word": "rangés",
+"start": 4.52,
+"end": 4.82
+},
+{
+"word": "dans",
+"start": 4.82,
+"end": 4.92
+},
+{
+"word": "des",
+"start": 4.92,
+"end": 5.04
+},
+{
+"word": "sortes",
+"start": 5.04,
+"end": 5.32
+},
+{
+"word": "de",
+"start": 5.32,
+"end": 5.46
+},
+{
+"word": "bibliothèques.",
+"start": 5.46,
+"end": 6.2
+}
+]
+},
+{
+"index": 22,
+"audio": {
+"path": "obs",
+"start": 371.598,
+"end": 380.978
+},
+"camera": {
+"path": "cam",
+"start": 370.88,
+"end": 380.26
+},
+"frames": 443,
+"text": "Ce qui va se passer, c'est qu'au début de chacune de vos conversations, Claude va uniquement charger la couverture de votre skill, donc littéralement son nom et une seule ligne qui explique comment l'utiliser.",
+"words": [
+{
+"word": "Ce",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "qui",
+"start": 0.2,
+"end": 0.28
+},
+{
+"word": "va",
+"start": 0.28,
+"end": 0.38
+},
+{
+"word": "se",
+"start": 0.38,
+"end": 0.48
+},
+{
+"word": "passer,",
+"start": 0.48,
+"end": 0.7
+},
+{
+"word": "c",
+"start": 0.82,
+"end": 0.82
+},
+{
+"word": "'est",
+"start": 0.82,
+"end": 0.9
+},
+{
+"word": "qu",
+"start": 0.9,
+"end": 0.96
+},
+{
+"word": "'au",
+"start": 0.96,
+"end": 1.18
+},
+{
+"word": "début",
+"start": 1.18,
+"end": 1.42
+},
+{
+"word": "de",
+"start": 1.42,
+"end": 1.6
+},
+{
+"word": "chacune",
+"start": 1.6,
+"end": 1.96
+},
+{
+"word": "de",
+"start": 1.96,
+"end": 2.06
+},
+{
+"word": "vos",
+"start": 2.06,
+"end": 2.22
+},
+{
+"word": "conversations,",
+"start": 2.22,
+"end": 2.8
+},
+{
+"word": "Claude",
+"start": 3.04,
+"end": 3.18
+},
+{
+"word": "va",
+"start": 3.18,
+"end": 3.32
+},
+{
+"word": "uniquement",
+"start": 3.32,
+"end": 3.72
+},
+{
+"word": "charger",
+"start": 3.72,
+"end": 3.98
+},
+{
+"word": "la",
+"start": 3.98,
+"end": 4.48
+},
+{
+"word": "couverture",
+"start": 4.48,
+"end": 5.14
+},
+{
+"word": "de",
+"start": 5.14,
+"end": 5.24
+},
+{
+"word": "votre",
+"start": 5.24,
+"end": 5.4
+},
+{
+"word": "skill,",
+"start": 5.4,
+"end": 5.6
+},
+{
+"word": "donc",
+"start": 5.92,
+"end": 6.04
+},
+{
+"word": "littéralement",
+"start": 6.04,
+"end": 6.68
+},
+{
+"word": "son",
+"start": 6.68,
+"end": 6.96
+},
+{
+"word": "nom",
+"start": 6.96,
+"end": 7.2
+},
+{
+"word": "et",
+"start": 7.2,
+"end": 7.46
+},
+{
+"word": "une",
+"start": 7.46,
+"end": 7.7
+},
+{
+"word": "seule",
+"start": 7.7,
+"end": 7.92
+},
+{
+"word": "ligne",
+"start": 7.92,
+"end": 8.18
+},
+{
+"word": "qui",
+"start": 8.18,
+"end": 8.38
+},
+{
+"word": "explique",
+"start": 8.38,
+"end": 8.76
+},
+{
+"word": "comment",
+"start": 8.76,
+"end": 9.04
+},
+{
+"word": "l",
+"start": 9.04,
+"end": 9.16
+},
+{
+"word": "'utiliser.",
+"start": 9.16,
+"end": 9.5
+}
+]
+},
+{
+"index": 23,
+"audio": {
+"path": "obs",
+"start": 391.158,
+"end": 397.438
+},
+"camera": {
+"path": "cam",
+"start": 390.44,
+"end": 396.72
+},
+"frames": 296,
+"text": "Tout le reste, le contenu et les procédures extrêmement détaillées du skill, ça va rester sur l'étagère jusqu'à ce qu'il en ait réellement besoin.",
+"words": [
+{
+"word": "Tout",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "le",
+"start": 0.26,
+"end": 0.42
+},
+{
+"word": "reste,",
+"start": 0.42,
+"end": 0.6
+},
+{
+"word": "le",
+"start": 0.72,
+"end": 0.78
+},
+{
+"word": "contenu",
+"start": 0.78,
+"end": 1.1
+},
+{
+"word": "et",
+"start": 1.1,
+"end": 1.18
+},
+{
+"word": "les",
+"start": 1.18,
+"end": 1.26
+},
+{
+"word": "procédures",
+"start": 1.26,
+"end": 1.78
+},
+{
+"word": "extrêmement",
+"start": 1.78,
+"end": 2.16
+},
+{
+"word": "détaillées",
+"start": 2.16,
+"end": 2.58
+},
+{
+"word": "du",
+"start": 2.58,
+"end": 2.68
+},
+{
+"word": "skill,",
+"start": 2.68,
+"end": 2.9
+},
+{
+"word": "ça",
+"start": 3.18,
+"end": 3.22
+},
+{
+"word": "va",
+"start": 3.22,
+"end": 3.4
+},
+{
+"word": "rester",
+"start": 3.4,
+"end": 4.0
+},
+{
+"word": "sur",
+"start": 4.0,
+"end": 4.2
+},
+{
+"word": "l",
+"start": 4.2,
+"end": 4.28
+},
+{
+"word": "'étagère",
+"start": 4.28,
+"end": 4.7
+},
+{
+"word": "jusqu",
+"start": 4.7,
+"end": 5.04
+},
+{
+"word": "'à",
+"start": 5.04,
+"end": 5.22
+},
+{
+"word": "ce",
+"start": 5.22,
+"end": 5.3
+},
+{
+"word": "qu",
+"start": 5.3,
+"end": 5.36
+},
+{
+"word": "'il",
+"start": 5.36,
+"end": 5.42
+},
+{
+"word": "en",
+"start": 5.42,
+"end": 5.5
+},
+{
+"word": "ait",
+"start": 5.5,
+"end": 5.6
+},
+{
+"word": "réellement",
+"start": 5.6,
+"end": 6.14
+},
+{
+"word": "besoin.",
+"start": 6.14,
+"end": 6.38
+}
+]
+},
+{
+"index": 24,
+"audio": {
+"path": "obs",
+"start": 405.638,
+"end": 412.438
+},
+"camera": {
+"path": "cam",
+"start": 404.92,
+"end": 411.72
+},
+"frames": 321,
+"text": "Puis lorsque vous lui demandez de générer une page de vente, il va aller chercher le bon livre, le bon skill et il va l'utiliser à ce moment-là.",
+"words": [
+{
+"word": "Puis",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "lorsque",
+"start": 0.24,
+"end": 0.48
+},
+{
+"word": "vous",
+"start": 0.48,
+"end": 0.62
+},
+{
+"word": "lui",
+"start": 0.62,
+"end": 0.74
+},
+{
+"word": "demandez",
+"start": 0.74,
+"end": 1.02
+},
+{
+"word": "de",
+"start": 1.02,
+"end": 1.16
+},
+{
+"word": "générer",
+"start": 1.16,
+"end": 1.5
+},
+{
+"word": "une",
+"start": 1.5,
+"end": 2.06
+},
+{
+"word": "page",
+"start": 2.06,
+"end": 2.32
+},
+{
+"word": "de",
+"start": 2.32,
+"end": 2.46
+},
+{
+"word": "vente,",
+"start": 2.46,
+"end": 2.7
+},
+{
+"word": "il",
+"start": 2.9,
+"end": 2.94
+},
+{
+"word": "va",
+"start": 2.94,
+"end": 3.06
+},
+{
+"word": "aller",
+"start": 3.06,
+"end": 3.16
+},
+{
+"word": "chercher",
+"start": 3.16,
+"end": 3.42
+},
+{
+"word": "le",
+"start": 3.42,
+"end": 3.7
+},
+{
+"word": "bon",
+"start": 3.7,
+"end": 3.86
+},
+{
+"word": "livre,",
+"start": 3.86,
+"end": 4.22
+},
+{
+"word": "le",
+"start": 4.52,
+"end": 4.58
+},
+{
+"word": "bon",
+"start": 4.58,
+"end": 4.74
+},
+{
+"word": "skill",
+"start": 4.74,
+"end": 5.08
+},
+{
+"word": "et",
+"start": 5.08,
+"end": 5.52
+},
+{
+"word": "il",
+"start": 5.52,
+"end": 5.66
+},
+{
+"word": "va",
+"start": 5.66,
+"end": 5.74
+},
+{
+"word": "l",
+"start": 5.74,
+"end": 5.84
+},
+{
+"word": "'utiliser",
+"start": 5.84,
+"end": 6.24
+},
+{
+"word": "à",
+"start": 6.24,
+"end": 6.46
+},
+{
+"word": "ce",
+"start": 6.46,
+"end": 6.58
+},
+{
+"word": "moment",
+"start": 6.58,
+"end": 6.78
+},
+{
+"word": "-là.",
+"start": 6.78,
+"end": 6.92
+}
+]
+},
+{
+"index": 25,
+"audio": {
+"path": "obs",
+"start": 419.498,
+"end": 425.018
+},
+"camera": {
+"path": "cam",
+"start": 418.78,
+"end": 424.3
+},
+"frames": 260,
+"text": "Et c'est exactement comme vous utiliseriez un livre, vous, en tant qu'humain. Quand vous voulez rédiger une publicité, vous n'allez pas...",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "c",
+"start": 0.24,
+"end": 0.32
+},
+{
+"word": "'est",
+"start": 0.32,
+"end": 0.44
+},
+{
+"word": "exactement",
+"start": 0.44,
+"end": 0.82
+},
+{
+"word": "comme",
+"start": 0.82,
+"end": 1.1
+},
+{
+"word": "vous",
+"start": 1.1,
+"end": 1.26
+},
+{
+"word": "utiliseriez",
+"start": 1.26,
+"end": 1.96
+},
+{
+"word": "un",
+"start": 1.96,
+"end": 2.18
+},
+{
+"word": "livre,",
+"start": 2.18,
+"end": 2.5
+},
+{
+"word": "vous,",
+"start": 2.5,
+"end": 2.82
+},
+{
+"word": "en",
+"start": 2.92,
+"end": 3.08
+},
+{
+"word": "tant",
+"start": 3.08,
+"end": 3.18
+},
+{
+"word": "qu",
+"start": 3.18,
+"end": 3.32
+},
+{
+"word": "'humain.",
+"start": 3.32,
+"end": 3.48
+},
+{
+"word": "Quand",
+"start": 3.6,
+"end": 3.88
+},
+{
+"word": "vous",
+"start": 3.88,
+"end": 4.0
+},
+{
+"word": "voulez",
+"start": 4.0,
+"end": 4.14
+},
+{
+"word": "rédiger",
+"start": 4.14,
+"end": 4.46
+},
+{
+"word": "une",
+"start": 4.46,
+"end": 4.74
+},
+{
+"word": "publicité,",
+"start": 4.74,
+"end": 5.22
+},
+{
+"word": "vous",
+"start": 5.3,
+"end": 5.38
+},
+{
+"word": "n",
+"start": 5.38,
+"end": 5.46
+},
+{
+"word": "'allez",
+"start": 5.46,
+"end": 5.54
+},
+{
+"word": "pas...",
+"start": 5.54,
+"end": 5.8
+}
+]
+},
+{
+"index": 26,
+"audio": {
+"path": "obs",
+"start": 425.018,
+"end": 430.658
+},
+"camera": {
+"path": "cam",
+"start": 424.3,
+"end": 429.94
+},
+"frames": 266,
+"text": "pas lire tout le livre et appliquer tout le livre. Vous allez lire certaines pages, appliquer certaines pages, prendre des notes peut-être.",
+"words": [
+{
+"word": "pas",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "lire",
+"start": 0.2,
+"end": 0.7
+},
+{
+"word": "tout",
+"start": 0.7,
+"end": 0.86
+},
+{
+"word": "le",
+"start": 0.86,
+"end": 1.0
+},
+{
+"word": "livre",
+"start": 1.0,
+"end": 1.26
+},
+{
+"word": "et",
+"start": 1.26,
+"end": 1.36
+},
+{
+"word": "appliquer",
+"start": 1.36,
+"end": 1.7
+},
+{
+"word": "tout",
+"start": 1.7,
+"end": 1.96
+},
+{
+"word": "le",
+"start": 1.96,
+"end": 2.08
+},
+{
+"word": "livre.",
+"start": 2.08,
+"end": 2.3
+},
+{
+"word": "Vous",
+"start": 2.44,
+"end": 2.64
+},
+{
+"word": "allez",
+"start": 2.64,
+"end": 2.82
+},
+{
+"word": "lire",
+"start": 2.82,
+"end": 3.04
+},
+{
+"word": "certaines",
+"start": 3.04,
+"end": 3.36
+},
+{
+"word": "pages,",
+"start": 3.36,
+"end": 3.72
+},
+{
+"word": "appliquer",
+"start": 3.94,
+"end": 4.18
+},
+{
+"word": "certaines",
+"start": 4.18,
+"end": 4.38
+},
+{
+"word": "pages,",
+"start": 4.38,
+"end": 4.64
+},
+{
+"word": "prendre",
+"start": 4.78,
+"end": 4.9
+},
+{
+"word": "des",
+"start": 4.9,
+"end": 5.08
+},
+{
+"word": "notes",
+"start": 5.08,
+"end": 5.36
+},
+{
+"word": "peut",
+"start": 5.36,
+"end": 5.56
+},
+{
+"word": "-être.",
+"start": 5.56,
+"end": 5.72
+}
+]
+},
+{
+"index": 27,
+"audio": {
+"path": "obs",
+"start": 432.938,
+"end": 435.958
+},
+"camera": {
+"path": "cam",
+"start": 432.22,
+"end": 435.24
+},
+"frames": 143,
+"text": "mais vous ouvrez simplement les pages utiles au moment du besoin.",
+"words": [
+{
+"word": "mais",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "vous",
+"start": 0.3,
+"end": 0.42
+},
+{
+"word": "ouvrez",
+"start": 0.42,
+"end": 0.78
+},
+{
+"word": "simplement",
+"start": 0.78,
+"end": 1.22
+},
+{
+"word": "les",
+"start": 1.22,
+"end": 1.46
+},
+{
+"word": "pages",
+"start": 1.46,
+"end": 1.74
+},
+{
+"word": "utiles",
+"start": 1.74,
+"end": 2.4
+},
+{
+"word": "au",
+"start": 2.4,
+"end": 2.6
+},
+{
+"word": "moment",
+"start": 2.6,
+"end": 2.8
+},
+{
+"word": "du",
+"start": 2.8,
+"end": 2.92
+},
+{
+"word": "besoin.",
+"start": 2.92,
+"end": 3.14
+}
+]
+},
+{
+"index": 28,
+"audio": {
+"path": "obs",
+"start": 447.278,
+"end": 451.258
+},
+"camera": {
+"path": "cam",
+"start": 446.56,
+"end": 450.54
+},
+"frames": 187,
+"text": "Il existe même un skill gratuit pour transformer ses livres en skill.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "existe",
+"start": 0.28,
+"end": 1.3
+},
+{
+"word": "même",
+"start": 1.3,
+"end": 1.5
+},
+{
+"word": "un",
+"start": 1.5,
+"end": 1.82
+},
+{
+"word": "skill",
+"start": 1.82,
+"end": 2.1
+},
+{
+"word": "gratuit",
+"start": 2.1,
+"end": 2.46
+},
+{
+"word": "pour",
+"start": 2.46,
+"end": 2.8
+},
+{
+"word": "transformer",
+"start": 2.8,
+"end": 3.36
+},
+{
+"word": "ses",
+"start": 3.36,
+"end": 3.56
+},
+{
+"word": "livres",
+"start": 3.56,
+"end": 3.8
+},
+{
+"word": "en",
+"start": 3.8,
+"end": 3.9
+},
+{
+"word": "skill.",
+"start": 3.9,
+"end": 4.06
+}
+]
+},
+{
+"index": 29,
+"audio": {
+"path": "obs",
+"start": 464.238,
+"end": 472.498
+},
+"camera": {
+"path": "cam",
+"start": 463.52,
+"end": 471.78
+},
+"frames": 390,
+"text": "C'est une procédure qui va dire comment prendre les livres en entier et comment les transformer directement en skills utilisables par votre IA. Ça s'appelle Book to Skill.",
+"words": [
+{
+"word": "C",
+"start": 0.0,
+"end": 0.18
+},
+{
+"word": "'est",
+"start": 0.18,
+"end": 0.22
+},
+{
+"word": "une",
+"start": 0.22,
+"end": 0.3
+},
+{
+"word": "procédure",
+"start": 0.3,
+"end": 0.78
+},
+{
+"word": "qui",
+"start": 0.78,
+"end": 0.92
+},
+{
+"word": "va",
+"start": 0.92,
+"end": 1.06
+},
+{
+"word": "dire",
+"start": 1.06,
+"end": 1.32
+},
+{
+"word": "comment",
+"start": 1.32,
+"end": 1.88
+},
+{
+"word": "prendre",
+"start": 1.88,
+"end": 2.36
+},
+{
+"word": "les",
+"start": 2.36,
+"end": 2.68
+},
+{
+"word": "livres",
+"start": 2.68,
+"end": 2.94
+},
+{
+"word": "en",
+"start": 2.94,
+"end": 3.04
+},
+{
+"word": "entier",
+"start": 3.04,
+"end": 3.42
+},
+{
+"word": "et",
+"start": 3.42,
+"end": 3.7
+},
+{
+"word": "comment",
+"start": 3.7,
+"end": 3.86
+},
+{
+"word": "les",
+"start": 3.86,
+"end": 4.04
+},
+{
+"word": "transformer",
+"start": 4.04,
+"end": 4.6
+},
+{
+"word": "directement",
+"start": 4.6,
+"end": 5.08
+},
+{
+"word": "en",
+"start": 5.08,
+"end": 5.34
+},
+{
+"word": "skills",
+"start": 5.34,
+"end": 5.46
+},
+{
+"word": "utilisables",
+"start": 5.46,
+"end": 6.04
+},
+{
+"word": "par",
+"start": 6.04,
+"end": 6.44
+},
+{
+"word": "votre",
+"start": 6.44,
+"end": 6.72
+},
+{
+"word": "IA.",
+"start": 6.72,
+"end": 6.88
+},
+{
+"word": "Ça",
+"start": 7.04,
+"end": 7.12
+},
+{
+"word": "s",
+"start": 7.12,
+"end": 7.24
+},
+{
+"word": "'appelle",
+"start": 7.24,
+"end": 7.44
+},
+{
+"word": "Book",
+"start": 7.44,
+"end": 7.88
+},
+{
+"word": "to",
+"start": 7.88,
+"end": 8.08
+},
+{
+"word": "Skill.",
+"start": 8.08,
+"end": 8.3
+}
+]
+},
+{
+"index": 30,
+"audio": {
+"path": "obs",
+"start": 496.338,
+"end": 505.128
+},
+"camera": {
+"path": "cam",
+"start": 495.62,
+"end": 504.41
+},
+"frames": 415,
+"text": "Vous donnez un PDF et il s'occupe de tout le reste. Et selon le document que vous allez lui envoyer, il va détecter automatiquement quelle est la méthode d'extraction du texte la plus appropriée.",
+"words": [
+{
+"word": "Vous",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "donnez",
+"start": 0.2,
+"end": 0.44
+},
+{
+"word": "un",
+"start": 0.44,
+"end": 0.52
+},
+{
+"word": "PDF",
+"start": 0.52,
+"end": 0.82
+},
+{
+"word": "et",
+"start": 0.82,
+"end": 1.24
+},
+{
+"word": "il",
+"start": 1.24,
+"end": 1.3
+},
+{
+"word": "s",
+"start": 1.3,
+"end": 1.38
+},
+{
+"word": "'occupe",
+"start": 1.38,
+"end": 1.66
+},
+{
+"word": "de",
+"start": 1.66,
+"end": 1.84
+},
+{
+"word": "tout",
+"start": 1.84,
+"end": 2.14
+},
+{
+"word": "le",
+"start": 2.14,
+"end": 2.24
+},
+{
+"word": "reste.",
+"start": 2.24,
+"end": 2.44
+},
+{
+"word": "Et",
+"start": 2.56,
+"end": 2.56
+},
+{
+"word": "selon",
+"start": 2.56,
+"end": 2.76
+},
+{
+"word": "le",
+"start": 2.76,
+"end": 2.96
+},
+{
+"word": "document",
+"start": 2.96,
+"end": 3.26
+},
+{
+"word": "que",
+"start": 3.26,
+"end": 3.38
+},
+{
+"word": "vous",
+"start": 3.38,
+"end": 3.48
+},
+{
+"word": "allez",
+"start": 3.48,
+"end": 3.6
+},
+{
+"word": "lui",
+"start": 3.6,
+"end": 3.76
+},
+{
+"word": "envoyer,",
+"start": 3.76,
+"end": 4.12
+},
+{
+"word": "il",
+"start": 4.22,
+"end": 4.24
+},
+{
+"word": "va",
+"start": 4.24,
+"end": 4.32
+},
+{
+"word": "détecter",
+"start": 4.32,
+"end": 4.72
+},
+{
+"word": "automatiquement",
+"start": 4.72,
+"end": 5.48
+},
+{
+"word": "quelle",
+"start": 5.48,
+"end": 5.9
+},
+{
+"word": "est",
+"start": 5.9,
+"end": 6.0
+},
+{
+"word": "la",
+"start": 6.0,
+"end": 6.1
+},
+{
+"word": "méthode",
+"start": 6.1,
+"end": 6.52
+},
+{
+"word": "d",
+"start": 6.52,
+"end": 6.62
+},
+{
+"word": "'extraction",
+"start": 6.62,
+"end": 7.06
+},
+{
+"word": "du",
+"start": 7.06,
+"end": 7.2
+},
+{
+"word": "texte",
+"start": 7.2,
+"end": 7.54
+},
+{
+"word": "la",
+"start": 7.54,
+"end": 7.58
+},
+{
+"word": "plus",
+"start": 7.58,
+"end": 7.78
+},
+{
+"word": "appropriée.",
+"start": 7.78,
+"end": 8.42
+}
+]
+},
+{
+"index": 31,
+"audio": {
+"path": "obs",
+"start": 526.978,
+"end": 534.675
+},
+"camera": {
+"path": "cam",
+"start": 526.26,
+"end": 533.957
+},
+"frames": 363,
+"text": "Et quand on lui donne des livres qui sont plus classiques avec notamment des tableaux et des bullet points ou des structures qui changent littéralement la manière dont on doit lire le texte.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "quand",
+"start": 0.24,
+"end": 0.4
+},
+{
+"word": "on",
+"start": 0.4,
+"end": 0.5
+},
+{
+"word": "lui",
+"start": 0.5,
+"end": 0.6
+},
+{
+"word": "donne",
+"start": 0.6,
+"end": 0.72
+},
+{
+"word": "des",
+"start": 0.72,
+"end": 0.84
+},
+{
+"word": "livres",
+"start": 0.84,
+"end": 1.12
+},
+{
+"word": "qui",
+"start": 1.12,
+"end": 1.24
+},
+{
+"word": "sont",
+"start": 1.24,
+"end": 1.36
+},
+{
+"word": "plus",
+"start": 1.36,
+"end": 1.52
+},
+{
+"word": "classiques",
+"start": 1.52,
+"end": 1.94
+},
+{
+"word": "avec",
+"start": 1.94,
+"end": 2.12
+},
+{
+"word": "notamment",
+"start": 2.12,
+"end": 2.42
+},
+{
+"word": "des",
+"start": 2.42,
+"end": 2.72
+},
+{
+"word": "tableaux",
+"start": 2.72,
+"end": 3.3
+},
+{
+"word": "et",
+"start": 3.3,
+"end": 3.46
+},
+{
+"word": "des",
+"start": 3.46,
+"end": 3.58
+},
+{
+"word": "bullet",
+"start": 3.58,
+"end": 3.82
+},
+{
+"word": "points",
+"start": 3.82,
+"end": 4.2
+},
+{
+"word": "ou",
+"start": 4.2,
+"end": 4.44
+},
+{
+"word": "des",
+"start": 4.44,
+"end": 4.64
+},
+{
+"word": "structures",
+"start": 4.64,
+"end": 5.0
+},
+{
+"word": "qui",
+"start": 5.0,
+"end": 5.32
+},
+{
+"word": "changent",
+"start": 5.32,
+"end": 5.68
+},
+{
+"word": "littéralement",
+"start": 5.68,
+"end": 6.12
+},
+{
+"word": "la",
+"start": 6.12,
+"end": 6.24
+},
+{
+"word": "manière",
+"start": 6.24,
+"end": 6.46
+},
+{
+"word": "dont",
+"start": 6.46,
+"end": 6.64
+},
+{
+"word": "on",
+"start": 6.64,
+"end": 6.78
+},
+{
+"word": "doit",
+"start": 6.78,
+"end": 6.86
+},
+{
+"word": "lire",
+"start": 6.86,
+"end": 7.1
+},
+{
+"word": "le",
+"start": 7.1,
+"end": 7.24
+},
+{
+"word": "texte.",
+"start": 7.24,
+"end": 7.64
+}
+]
+},
+{
+"index": 32,
+"audio": {
+"path": "obs",
+"start": 534.818,
+"end": 535.938
+},
+"camera": {
+"path": "cam",
+"start": 534.1,
+"end": 535.22
+},
+"frames": 53,
+"text": "ça change radicalement la donne.",
+"words": [
+{
+"word": "ça",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "change",
+"start": 0.28,
+"end": 0.48
+},
+{
+"word": "radicalement",
+"start": 0.48,
+"end": 0.98
+},
+{
+"word": "la",
+"start": 0.98,
+"end": 1.1
+},
+{
+"word": "donne.",
+"start": 1.1,
+"end": 1.22
+}
+]
+},
+{
+"index": 33,
+"audio": {
+"path": "obs",
+"start": 548.238,
+"end": 550.918
+},
+"camera": {
+"path": "cam",
+"start": 547.52,
+"end": 550.2
+},
+"frames": 126,
+"text": "En fait, ce qui va se passer, c'est que Claude va littéralement parcourir...",
+"words": [
+{
+"word": "En",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "fait,",
+"start": 0.24,
+"end": 0.34
+},
+{
+"word": "ce",
+"start": 0.44,
+"end": 0.44
+},
+{
+"word": "qui",
+"start": 0.44,
+"end": 0.52
+},
+{
+"word": "va",
+"start": 0.52,
+"end": 0.6
+},
+{
+"word": "se",
+"start": 0.6,
+"end": 0.68
+},
+{
+"word": "passer,",
+"start": 0.68,
+"end": 0.94
+},
+{
+"word": "c",
+"start": 1.1,
+"end": 1.12
+},
+{
+"word": "'est",
+"start": 1.12,
+"end": 1.18
+},
+{
+"word": "que",
+"start": 1.18,
+"end": 1.28
+},
+{
+"word": "Claude",
+"start": 1.28,
+"end": 1.48
+},
+{
+"word": "va",
+"start": 1.48,
+"end": 1.62
+},
+{
+"word": "littéralement",
+"start": 1.62,
+"end": 2.1
+},
+{
+"word": "parcourir...",
+"start": 2.1,
+"end": 2.74
+}
+]
+},
+{
+"index": 34,
+"audio": {
+"path": "obs",
+"start": 551.018,
+"end": 552.598
+},
+"camera": {
+"path": "cam",
+"start": 550.3,
+"end": 551.88
+},
+"frames": 75,
+"text": "chacun des chapitres en un.",
+"words": [
+{
+"word": "chacun",
+"start": 0.0,
+"end": 0.52
+},
+{
+"word": "des",
+"start": 0.52,
+"end": 0.84
+},
+{
+"word": "chapitres",
+"start": 0.84,
+"end": 1.32
+},
+{
+"word": "en",
+"start": 1.32,
+"end": 1.58
+},
+{
+"word": "un.",
+"start": 1.58,
+"end": 1.7
+}
+]
+},
+{
+"index": 35,
+"audio": {
+"path": "obs",
+"start": 561.738,
+"end": 565.738
+},
+"camera": {
+"path": "cam",
+"start": 561.02,
+"end": 565.02
+},
+"frames": 188,
+"text": "Ils vont extraire les méthodes, les règles de décision et les erreurs que l'auteur recommande d'éviter.",
+"words": [
+{
+"word": "Ils",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "vont",
+"start": 0.24,
+"end": 0.34
+},
+{
+"word": "extraire",
+"start": 0.34,
+"end": 0.8
+},
+{
+"word": "les",
+"start": 0.8,
+"end": 0.94
+},
+{
+"word": "méthodes,",
+"start": 0.94,
+"end": 1.36
+},
+{
+"word": "les",
+"start": 1.48,
+"end": 1.52
+},
+{
+"word": "règles",
+"start": 1.52,
+"end": 1.74
+},
+{
+"word": "de",
+"start": 1.74,
+"end": 1.82
+},
+{
+"word": "décision",
+"start": 1.82,
+"end": 2.26
+},
+{
+"word": "et",
+"start": 2.26,
+"end": 2.4
+},
+{
+"word": "les",
+"start": 2.4,
+"end": 2.54
+},
+{
+"word": "erreurs",
+"start": 2.54,
+"end": 2.9
+},
+{
+"word": "que",
+"start": 2.9,
+"end": 3.04
+},
+{
+"word": "l",
+"start": 3.04,
+"end": 3.12
+},
+{
+"word": "'auteur",
+"start": 3.12,
+"end": 3.3
+},
+{
+"word": "recommande",
+"start": 3.3,
+"end": 3.7
+},
+{
+"word": "d",
+"start": 3.7,
+"end": 3.8
+},
+{
+"word": "'éviter.",
+"start": 3.8,
+"end": 4.04
+}
+]
+},
+{
+"index": 36,
+"audio": {
+"path": "obs",
+"start": 575.858,
+"end": 579.098
+},
+"camera": {
+"path": "cam",
+"start": 575.14,
+"end": 578.38
+},
+"frames": 153,
+"text": "Il va alors créer un style qui ressemble exactement à ceci.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "va",
+"start": 0.28,
+"end": 0.4
+},
+{
+"word": "alors",
+"start": 0.4,
+"end": 0.62
+},
+{
+"word": "créer",
+"start": 0.62,
+"end": 0.88
+},
+{
+"word": "un",
+"start": 0.88,
+"end": 1.04
+},
+{
+"word": "style",
+"start": 1.04,
+"end": 1.28
+},
+{
+"word": "qui",
+"start": 1.28,
+"end": 1.5
+},
+{
+"word": "ressemble",
+"start": 1.5,
+"end": 1.92
+},
+{
+"word": "exactement",
+"start": 1.92,
+"end": 2.38
+},
+{
+"word": "à",
+"start": 2.38,
+"end": 2.78
+},
+{
+"word": "ceci.",
+"start": 2.78,
+"end": 3.38
+}
+]
+},
+{
+"index": 37,
+"audio": {
+"path": "obs",
+"start": 583.498,
+"end": 590.331
+},
+"camera": {
+"path": "cam",
+"start": 582.78,
+"end": 589.613
+},
+"frames": 322,
+"text": "Un fichier skill.md qui va regrouper toutes les idées centrales ainsi qu'un index.md qui va les répertorier tous les chapitres.",
+"words": [
+{
+"word": "Un",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "fichier",
+"start": 0.28,
+"end": 0.7
+},
+{
+"word": "skill",
+"start": 0.7,
+"end": 0.9
+},
+{
+"word": ".md",
+"start": 0.9,
+"end": 1.4
+},
+{
+"word": "qui",
+"start": 1.4,
+"end": 1.64
+},
+{
+"word": "va",
+"start": 1.64,
+"end": 1.8
+},
+{
+"word": "regrouper",
+"start": 1.8,
+"end": 2.14
+},
+{
+"word": "toutes",
+"start": 2.14,
+"end": 2.34
+},
+{
+"word": "les",
+"start": 2.34,
+"end": 2.56
+},
+{
+"word": "idées",
+"start": 2.56,
+"end": 3.02
+},
+{
+"word": "centrales",
+"start": 3.02,
+"end": 3.62
+},
+{
+"word": "ainsi",
+"start": 3.62,
+"end": 3.74
+},
+{
+"word": "qu",
+"start": 3.74,
+"end": 3.9
+},
+{
+"word": "'un",
+"start": 3.9,
+"end": 4.04
+},
+{
+"word": "index",
+"start": 4.04,
+"end": 4.38
+},
+{
+"word": ".md",
+"start": 4.38,
+"end": 4.88
+},
+{
+"word": "qui",
+"start": 4.88,
+"end": 5.06
+},
+{
+"word": "va",
+"start": 5.06,
+"end": 5.18
+},
+{
+"word": "les",
+"start": 5.18,
+"end": 5.28
+},
+{
+"word": "répertorier",
+"start": 5.28,
+"end": 5.8
+},
+{
+"word": "tous",
+"start": 5.8,
+"end": 6.34
+},
+{
+"word": "les",
+"start": 6.34,
+"end": 6.46
+},
+{
+"word": "chapitres.",
+"start": 6.46,
+"end": 6.9
+}
+]
+},
+{
+"index": 38,
+"audio": {
+"path": "obs",
+"start": 599.918,
+"end": 606.198
+},
+"camera": {
+"path": "cam",
+"start": 599.2,
+"end": 605.48
+},
+"frames": 297,
+"text": "Il va ensuite y avoir un fichier hyper détaillé pour chacun des chapitres avec notamment un glossaire de tous les termes employés par l'auteur.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "va",
+"start": 0.24,
+"end": 0.34
+},
+{
+"word": "ensuite",
+"start": 0.34,
+"end": 0.5
+},
+{
+"word": "y",
+"start": 0.5,
+"end": 0.66
+},
+{
+"word": "avoir",
+"start": 0.66,
+"end": 0.86
+},
+{
+"word": "un",
+"start": 0.86,
+"end": 1.22
+},
+{
+"word": "fichier",
+"start": 1.22,
+"end": 1.62
+},
+{
+"word": "hyper",
+"start": 1.62,
+"end": 2.0
+},
+{
+"word": "détaillé",
+"start": 2.0,
+"end": 2.44
+},
+{
+"word": "pour",
+"start": 2.44,
+"end": 2.6
+},
+{
+"word": "chacun",
+"start": 2.6,
+"end": 2.9
+},
+{
+"word": "des",
+"start": 2.9,
+"end": 3.04
+},
+{
+"word": "chapitres",
+"start": 3.04,
+"end": 3.42
+},
+{
+"word": "avec",
+"start": 3.42,
+"end": 3.56
+},
+{
+"word": "notamment",
+"start": 3.56,
+"end": 3.84
+},
+{
+"word": "un",
+"start": 3.84,
+"end": 4.18
+},
+{
+"word": "glossaire",
+"start": 4.18,
+"end": 4.66
+},
+{
+"word": "de",
+"start": 4.66,
+"end": 4.78
+},
+{
+"word": "tous",
+"start": 4.78,
+"end": 4.88
+},
+{
+"word": "les",
+"start": 4.88,
+"end": 4.98
+},
+{
+"word": "termes",
+"start": 4.98,
+"end": 5.24
+},
+{
+"word": "employés",
+"start": 5.24,
+"end": 5.52
+},
+{
+"word": "par",
+"start": 5.52,
+"end": 5.72
+},
+{
+"word": "l",
+"start": 5.72,
+"end": 6.06
+},
+{
+"word": "'auteur.",
+"start": 6.06,
+"end": 6.3
+}
+]
+},
+{
+"index": 39,
+"audio": {
+"path": "obs",
+"start": 616.238,
+"end": 622.358
+},
+"camera": {
+"path": "cam",
+"start": 615.52,
+"end": 621.64
+},
+"frames": 288,
+"text": "mais aussi un fichier pattern qui va répertorier toutes les techniques qui sont enseignées dans le livre, ainsi qu'une fiche récapitulative qui explique...",
+"words": [
+{
+"word": "mais",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "aussi",
+"start": 0.26,
+"end": 0.38
+},
+{
+"word": "un",
+"start": 0.38,
+"end": 0.46
+},
+{
+"word": "fichier",
+"start": 0.46,
+"end": 0.7
+},
+{
+"word": "pattern",
+"start": 0.7,
+"end": 0.96
+},
+{
+"word": "qui",
+"start": 0.96,
+"end": 1.2
+},
+{
+"word": "va",
+"start": 1.2,
+"end": 1.32
+},
+{
+"word": "répertorier",
+"start": 1.32,
+"end": 1.72
+},
+{
+"word": "toutes",
+"start": 1.72,
+"end": 1.96
+},
+{
+"word": "les",
+"start": 1.96,
+"end": 2.1
+},
+{
+"word": "techniques",
+"start": 2.1,
+"end": 2.56
+},
+{
+"word": "qui",
+"start": 2.56,
+"end": 2.9
+},
+{
+"word": "sont",
+"start": 2.9,
+"end": 3.1
+},
+{
+"word": "enseignées",
+"start": 3.1,
+"end": 3.52
+},
+{
+"word": "dans",
+"start": 3.52,
+"end": 3.6
+},
+{
+"word": "le",
+"start": 3.6,
+"end": 3.7
+},
+{
+"word": "livre,",
+"start": 3.7,
+"end": 4.0
+},
+{
+"word": "ainsi",
+"start": 4.22,
+"end": 4.38
+},
+{
+"word": "qu",
+"start": 4.38,
+"end": 4.52
+},
+{
+"word": "'une",
+"start": 4.52,
+"end": 4.64
+},
+{
+"word": "fiche",
+"start": 4.64,
+"end": 4.92
+},
+{
+"word": "récapitulative",
+"start": 4.92,
+"end": 5.54
+},
+{
+"word": "qui",
+"start": 5.54,
+"end": 5.74
+},
+{
+"word": "explique...",
+"start": 5.74,
+"end": 6.2
+}
+]
+},
+{
+"index": 40,
+"audio": {
+"path": "obs",
+"start": 622.498,
+"end": 626.338
+},
+"camera": {
+"path": "cam",
+"start": 621.78,
+"end": 625.62
+},
+"frames": 181,
+"text": "quelles sont les règles de décision qu'on peut clairement utiliser grâce à ce skill.",
+"words": [
+{
+"word": "quelles",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "sont",
+"start": 0.32,
+"end": 0.44
+},
+{
+"word": "les",
+"start": 0.44,
+"end": 0.58
+},
+{
+"word": "règles",
+"start": 0.58,
+"end": 0.8
+},
+{
+"word": "de",
+"start": 0.8,
+"end": 0.88
+},
+{
+"word": "décision",
+"start": 0.88,
+"end": 1.24
+},
+{
+"word": "qu",
+"start": 1.24,
+"end": 1.36
+},
+{
+"word": "'on",
+"start": 1.36,
+"end": 1.42
+},
+{
+"word": "peut",
+"start": 1.42,
+"end": 1.6
+},
+{
+"word": "clairement",
+"start": 1.6,
+"end": 2.18
+},
+{
+"word": "utiliser",
+"start": 2.18,
+"end": 3.0
+},
+{
+"word": "grâce",
+"start": 3.0,
+"end": 3.34
+},
+{
+"word": "à",
+"start": 3.34,
+"end": 3.5
+},
+{
+"word": "ce",
+"start": 3.5,
+"end": 3.66
+},
+{
+"word": "skill.",
+"start": 3.66,
+"end": 3.88
+}
+]
+},
+{
+"index": 41,
+"audio": {
+"path": "obs",
+"start": 634.698,
+"end": 642.957
+},
+"camera": {
+"path": "cam",
+"start": 633.98,
+"end": 642.24
+},
+"frames": 390,
+"text": "Et dorénavant, vous pouvez maintenant utiliser ce skill partout. Donc load normal, load co-work, load code. Vous pouvez même le transférer vers ChatGPT si vous utilisez ChatGPT.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "dorénavant,",
+"start": 0.24,
+"end": 0.74
+},
+{
+"word": "vous",
+"start": 1.0,
+"end": 1.02
+},
+{
+"word": "pouvez",
+"start": 1.02,
+"end": 1.24
+},
+{
+"word": "maintenant",
+"start": 1.24,
+"end": 1.46
+},
+{
+"word": "utiliser",
+"start": 1.46,
+"end": 1.76
+},
+{
+"word": "ce",
+"start": 1.76,
+"end": 1.92
+},
+{
+"word": "skill",
+"start": 1.92,
+"end": 2.14
+},
+{
+"word": "partout.",
+"start": 2.14,
+"end": 2.7
+},
+{
+"word": "Donc",
+"start": 3.02,
+"end": 3.06
+},
+{
+"word": "load",
+"start": 3.06,
+"end": 3.28
+},
+{
+"word": "normal,",
+"start": 3.28,
+"end": 3.54
+},
+{
+"word": "load",
+"start": 3.86,
+"end": 4.0
+},
+{
+"word": "co",
+"start": 4.0,
+"end": 4.14
+},
+{
+"word": "-work,",
+"start": 4.14,
+"end": 4.46
+},
+{
+"word": "load",
+"start": 4.64,
+"end": 4.84
+},
+{
+"word": "code.",
+"start": 4.84,
+"end": 5.06
+},
+{
+"word": "Vous",
+"start": 5.2,
+"end": 5.42
+},
+{
+"word": "pouvez",
+"start": 5.42,
+"end": 5.58
+},
+{
+"word": "même",
+"start": 5.58,
+"end": 5.72
+},
+{
+"word": "le",
+"start": 5.72,
+"end": 5.82
+},
+{
+"word": "transférer",
+"start": 5.82,
+"end": 6.34
+},
+{
+"word": "vers",
+"start": 6.34,
+"end": 6.52
+},
+{
+"word": "ChatGPT",
+"start": 6.52,
+"end": 7.06
+},
+{
+"word": "si",
+"start": 7.06,
+"end": 7.22
+},
+{
+"word": "vous",
+"start": 7.22,
+"end": 7.38
+},
+{
+"word": "utilisez",
+"start": 7.38,
+"end": 7.78
+},
+{
+"word": "ChatGPT.",
+"start": 7.78,
+"end": 8.28
+}
+]
+},
+{
+"index": 42,
+"audio": {
+"path": "obs",
+"start": 674.577,
+"end": 676.177
+},
+"camera": {
+"path": "cam",
+"start": 673.86,
+"end": 675.46
+},
+"frames": 76,
+"text": "Vous savez tout, on va maintenant en créer.",
+"words": [
+{
+"word": "Vous",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "savez",
+"start": 0.26,
+"end": 0.48
+},
+{
+"word": "tout,",
+"start": 0.48,
+"end": 0.64
+},
+{
+"word": "on",
+"start": 0.84,
+"end": 0.88
+},
+{
+"word": "va",
+"start": 0.88,
+"end": 0.98
+},
+{
+"word": "maintenant",
+"start": 0.98,
+"end": 1.22
+},
+{
+"word": "en",
+"start": 1.22,
+"end": 1.42
+},
+{
+"word": "créer.",
+"start": 1.42,
+"end": 1.62
+}
+]
+},
+{
+"index": 43,
+"audio": {
+"path": "obs",
+"start": 685.697,
+"end": 692.666
+},
+"camera": {
+"path": "cam",
+"start": 684.98,
+"end": 691.948
+},
+"frames": 328,
+"text": "La configuration prend littéralement deux minutes. Vous allez dans Cloud et vous demandez simplement d'installer le skill Book2Skill en lui donnant cette URL.",
+"words": [
+{
+"word": "La",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "configuration",
+"start": 0.3,
+"end": 0.74
+},
+{
+"word": "prend",
+"start": 0.74,
+"end": 1.2
+},
+{
+"word": "littéralement",
+"start": 1.2,
+"end": 1.76
+},
+{
+"word": "deux",
+"start": 1.76,
+"end": 1.94
+},
+{
+"word": "minutes.",
+"start": 1.94,
+"end": 2.22
+},
+{
+"word": "Vous",
+"start": 2.42,
+"end": 2.5
+},
+{
+"word": "allez",
+"start": 2.5,
+"end": 2.66
+},
+{
+"word": "dans",
+"start": 2.66,
+"end": 2.76
+},
+{
+"word": "Cloud",
+"start": 2.76,
+"end": 2.94
+},
+{
+"word": "et",
+"start": 2.94,
+"end": 3.06
+},
+{
+"word": "vous",
+"start": 3.06,
+"end": 3.12
+},
+{
+"word": "demandez",
+"start": 3.12,
+"end": 3.44
+},
+{
+"word": "simplement",
+"start": 3.44,
+"end": 3.76
+},
+{
+"word": "d",
+"start": 3.76,
+"end": 4.0
+},
+{
+"word": "'installer",
+"start": 4.0,
+"end": 4.24
+},
+{
+"word": "le",
+"start": 4.24,
+"end": 4.4
+},
+{
+"word": "skill",
+"start": 4.4,
+"end": 4.62
+},
+{
+"word": "Book2Skill",
+"start": 4.62,
+"end": 5.76
+},
+{
+"word": "en",
+"start": 5.76,
+"end": 5.96
+},
+{
+"word": "lui",
+"start": 5.96,
+"end": 6.08
+},
+{
+"word": "donnant",
+"start": 6.08,
+"end": 6.4
+},
+{
+"word": "cette",
+"start": 6.4,
+"end": 6.62
+},
+{
+"word": "URL.",
+"start": 6.62,
+"end": 6.88
+}
+]
+},
+{
+"index": 44,
+"audio": {
+"path": "obs",
+"start": 701.257,
+"end": 710.057
+},
+"camera": {
+"path": "cam",
+"start": 700.54,
+"end": 709.34
+},
+"frames": 415,
+"text": "Au passage, si vous voulez un guide d'installation beaucoup plus détaillé ainsi que tous les livres que je vous conseille pour transformer votre entreprise, je mettrai un lien dans la description avec le skill que je vais littéralement utiliser.",
+"words": [
+{
+"word": "Au",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "passage,",
+"start": 0.24,
+"end": 0.5
+},
+{
+"word": "si",
+"start": 0.64,
+"end": 0.66
+},
+{
+"word": "vous",
+"start": 0.66,
+"end": 0.76
+},
+{
+"word": "voulez",
+"start": 0.76,
+"end": 0.88
+},
+{
+"word": "un",
+"start": 0.88,
+"end": 0.96
+},
+{
+"word": "guide",
+"start": 0.96,
+"end": 1.12
+},
+{
+"word": "d",
+"start": 1.12,
+"end": 1.22
+},
+{
+"word": "'installation",
+"start": 1.22,
+"end": 1.6
+},
+{
+"word": "beaucoup",
+"start": 1.6,
+"end": 1.92
+},
+{
+"word": "plus",
+"start": 1.92,
+"end": 2.12
+},
+{
+"word": "détaillé",
+"start": 2.12,
+"end": 2.46
+},
+{
+"word": "ainsi",
+"start": 2.46,
+"end": 2.66
+},
+{
+"word": "que",
+"start": 2.66,
+"end": 2.86
+},
+{
+"word": "tous",
+"start": 2.86,
+"end": 3.1
+},
+{
+"word": "les",
+"start": 3.1,
+"end": 3.22
+},
+{
+"word": "livres",
+"start": 3.22,
+"end": 3.44
+},
+{
+"word": "que",
+"start": 3.44,
+"end": 3.58
+},
+{
+"word": "je",
+"start": 3.58,
+"end": 3.68
+},
+{
+"word": "vous",
+"start": 3.68,
+"end": 3.76
+},
+{
+"word": "conseille",
+"start": 3.76,
+"end": 4.08
+},
+{
+"word": "pour",
+"start": 4.08,
+"end": 4.22
+},
+{
+"word": "transformer",
+"start": 4.22,
+"end": 4.64
+},
+{
+"word": "votre",
+"start": 4.64,
+"end": 4.86
+},
+{
+"word": "entreprise,",
+"start": 4.86,
+"end": 5.34
+},
+{
+"word": "je",
+"start": 5.56,
+"end": 5.78
+},
+{
+"word": "mettrai",
+"start": 5.78,
+"end": 6.08
+},
+{
+"word": "un",
+"start": 6.08,
+"end": 6.16
+},
+{
+"word": "lien",
+"start": 6.16,
+"end": 6.26
+},
+{
+"word": "dans",
+"start": 6.26,
+"end": 6.36
+},
+{
+"word": "la",
+"start": 6.36,
+"end": 6.44
+},
+{
+"word": "description",
+"start": 6.44,
+"end": 6.78
+},
+{
+"word": "avec",
+"start": 6.78,
+"end": 7.22
+},
+{
+"word": "le",
+"start": 7.22,
+"end": 7.54
+},
+{
+"word": "skill",
+"start": 7.54,
+"end": 7.78
+},
+{
+"word": "que",
+"start": 7.78,
+"end": 7.9
+},
+{
+"word": "je",
+"start": 7.9,
+"end": 7.98
+},
+{
+"word": "vais",
+"start": 7.98,
+"end": 8.06
+},
+{
+"word": "littéralement",
+"start": 8.06,
+"end": 8.56
+},
+{
+"word": "utiliser.",
+"start": 8.56,
+"end": 8.84
+}
+]
+},
+{
+"index": 45,
+"audio": {
+"path": "obs",
+"start": 725.477,
+"end": 733.737
+},
+"camera": {
+"path": "cam",
+"start": 724.76,
+"end": 733.02
+},
+"frames": 390,
+"text": "Et c'est littéralement tout. Maintenant, quand j'ai une copie numérique d'un livre, lorsque j'ouvre CloudCode, il me suffit juste de taper « slash booktoskill » et de lui indiquer le fichier.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "c",
+"start": 0.26,
+"end": 0.4
+},
+{
+"word": "'est",
+"start": 0.4,
+"end": 0.5
+},
+{
+"word": "littéralement",
+"start": 0.5,
+"end": 0.9
+},
+{
+"word": "tout.",
+"start": 0.9,
+"end": 1.06
+},
+{
+"word": "Maintenant,",
+"start": 1.26,
+"end": 1.56
+},
+{
+"word": "quand",
+"start": 1.62,
+"end": 1.76
+},
+{
+"word": "j",
+"start": 1.76,
+"end": 1.84
+},
+{
+"word": "'ai",
+"start": 1.84,
+"end": 1.9
+},
+{
+"word": "une",
+"start": 1.9,
+"end": 1.98
+},
+{
+"word": "copie",
+"start": 1.98,
+"end": 2.22
+},
+{
+"word": "numérique",
+"start": 2.22,
+"end": 2.58
+},
+{
+"word": "d",
+"start": 2.58,
+"end": 2.68
+},
+{
+"word": "'un",
+"start": 2.68,
+"end": 2.76
+},
+{
+"word": "livre,",
+"start": 2.76,
+"end": 3.04
+},
+{
+"word": "lorsque",
+"start": 3.42,
+"end": 3.62
+},
+{
+"word": "j",
+"start": 3.62,
+"end": 3.86
+},
+{
+"word": "'ouvre",
+"start": 3.86,
+"end": 4.04
+},
+{
+"word": "CloudCode,",
+"start": 4.04,
+"end": 4.48
+},
+{
+"word": "il",
+"start": 4.64,
+"end": 4.66
+},
+{
+"word": "me",
+"start": 4.66,
+"end": 4.74
+},
+{
+"word": "suffit",
+"start": 4.74,
+"end": 4.96
+},
+{
+"word": "juste",
+"start": 4.96,
+"end": 5.22
+},
+{
+"word": "de",
+"start": 5.22,
+"end": 5.52
+},
+{
+"word": "taper",
+"start": 5.52,
+"end": 5.78
+},
+{
+"word": "«",
+"start": 5.78,
+"end": 6.22
+},
+{
+"word": "slash",
+"start": 6.22,
+"end": 6.46
+},
+{
+"word": "booktoskill",
+"start": 6.46,
+"end": 7.36
+},
+{
+"word": "»",
+"start": 7.36,
+"end": 7.52
+},
+{
+"word": "et",
+"start": 7.52,
+"end": 7.64
+},
+{
+"word": "de",
+"start": 7.64,
+"end": 7.72
+},
+{
+"word": "lui",
+"start": 7.72,
+"end": 7.8
+},
+{
+"word": "indiquer",
+"start": 7.8,
+"end": 8.06
+},
+{
+"word": "le",
+"start": 8.06,
+"end": 8.14
+},
+{
+"word": "fichier.",
+"start": 8.14,
+"end": 8.4
+}
+]
+},
+{
+"index": 46,
+"audio": {
+"path": "obs",
+"start": 752.737,
+"end": 757.526
+},
+"camera": {
+"path": "cam",
+"start": 752.02,
+"end": 756.808
+},
+"frames": 226,
+"text": "Il va littéralement faire tout le travail pour vous, il va parcourir chacun des chapitres un à un et vous créez le skill parfait.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "va",
+"start": 0.22,
+"end": 0.3
+},
+{
+"word": "littéralement",
+"start": 0.3,
+"end": 0.66
+},
+{
+"word": "faire",
+"start": 0.66,
+"end": 0.8
+},
+{
+"word": "tout",
+"start": 0.8,
+"end": 0.94
+},
+{
+"word": "le",
+"start": 0.94,
+"end": 1.0
+},
+{
+"word": "travail",
+"start": 1.0,
+"end": 1.2
+},
+{
+"word": "pour",
+"start": 1.2,
+"end": 1.34
+},
+{
+"word": "vous,",
+"start": 1.34,
+"end": 1.48
+},
+{
+"word": "il",
+"start": 1.6,
+"end": 1.6
+},
+{
+"word": "va",
+"start": 1.6,
+"end": 1.7
+},
+{
+"word": "parcourir",
+"start": 1.7,
+"end": 2.1
+},
+{
+"word": "chacun",
+"start": 2.1,
+"end": 2.36
+},
+{
+"word": "des",
+"start": 2.36,
+"end": 2.52
+},
+{
+"word": "chapitres",
+"start": 2.52,
+"end": 2.92
+},
+{
+"word": "un",
+"start": 2.92,
+"end": 3.08
+},
+{
+"word": "à",
+"start": 3.08,
+"end": 3.22
+},
+{
+"word": "un",
+"start": 3.22,
+"end": 3.38
+},
+{
+"word": "et",
+"start": 3.38,
+"end": 3.6
+},
+{
+"word": "vous",
+"start": 3.6,
+"end": 3.76
+},
+{
+"word": "créez",
+"start": 3.76,
+"end": 4.06
+},
+{
+"word": "le",
+"start": 4.06,
+"end": 4.14
+},
+{
+"word": "skill",
+"start": 4.14,
+"end": 4.34
+},
+{
+"word": "parfait.",
+"start": 4.34,
+"end": 4.84
+}
+]
+},
+{
+"index": 47,
+"audio": {
+"path": "obs",
+"start": 765.797,
+"end": 771.557
+},
+"camera": {
+"path": "cam",
+"start": 765.08,
+"end": 770.84
+},
+"frames": 271,
+"text": "Une fois terminé, les chapitres, la fiche récapitulative et le glossaire se trouvent maintenant dans mon fichier de skill et sont directement exploitables.",
+"words": [
+{
+"word": "Une",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "fois",
+"start": 0.28,
+"end": 0.4
+},
+{
+"word": "terminé,",
+"start": 0.4,
+"end": 0.88
+},
+{
+"word": "les",
+"start": 1.08,
+"end": 1.12
+},
+{
+"word": "chapitres,",
+"start": 1.12,
+"end": 1.8
+},
+{
+"word": "la",
+"start": 1.86,
+"end": 1.94
+},
+{
+"word": "fiche",
+"start": 1.94,
+"end": 2.14
+},
+{
+"word": "récapitulative",
+"start": 2.14,
+"end": 2.72
+},
+{
+"word": "et",
+"start": 2.72,
+"end": 2.98
+},
+{
+"word": "le",
+"start": 2.98,
+"end": 3.1
+},
+{
+"word": "glossaire",
+"start": 3.1,
+"end": 3.52
+},
+{
+"word": "se",
+"start": 3.52,
+"end": 3.64
+},
+{
+"word": "trouvent",
+"start": 3.64,
+"end": 3.84
+},
+{
+"word": "maintenant",
+"start": 3.84,
+"end": 3.98
+},
+{
+"word": "dans",
+"start": 3.98,
+"end": 4.1
+},
+{
+"word": "mon",
+"start": 4.1,
+"end": 4.26
+},
+{
+"word": "fichier",
+"start": 4.26,
+"end": 4.52
+},
+{
+"word": "de",
+"start": 4.52,
+"end": 4.6
+},
+{
+"word": "skill",
+"start": 4.6,
+"end": 4.8
+},
+{
+"word": "et",
+"start": 4.8,
+"end": 4.96
+},
+{
+"word": "sont",
+"start": 4.96,
+"end": 5.12
+},
+{
+"word": "directement",
+"start": 5.12,
+"end": 5.52
+},
+{
+"word": "exploitables.",
+"start": 5.52,
+"end": 5.94
+}
+]
+},
+{
+"index": 48,
+"audio": {
+"path": "obs",
+"start": 774.597,
+"end": 779.117
+},
+"camera": {
+"path": "cam",
+"start": 773.88,
+"end": 778.4
+},
+"frames": 214,
+"text": "Vous savez maintenant comment transformer n'importe quel livre en skill directement utilisable par Cloud.",
+"words": [
+{
+"word": "Vous",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "savez",
+"start": 0.3,
+"end": 0.52
+},
+{
+"word": "maintenant",
+"start": 0.52,
+"end": 0.72
+},
+{
+"word": "comment",
+"start": 0.72,
+"end": 0.92
+},
+{
+"word": "transformer",
+"start": 0.92,
+"end": 1.34
+},
+{
+"word": "n",
+"start": 1.34,
+"end": 1.64
+},
+{
+"word": "'importe",
+"start": 1.64,
+"end": 2.0
+},
+{
+"word": "quel",
+"start": 2.0,
+"end": 2.3
+},
+{
+"word": "livre",
+"start": 2.3,
+"end": 2.62
+},
+{
+"word": "en",
+"start": 2.62,
+"end": 2.94
+},
+{
+"word": "skill",
+"start": 2.94,
+"end": 3.14
+},
+{
+"word": "directement",
+"start": 3.14,
+"end": 3.66
+},
+{
+"word": "utilisable",
+"start": 3.66,
+"end": 4.18
+},
+{
+"word": "par",
+"start": 4.18,
+"end": 4.38
+},
+{
+"word": "Cloud.",
+"start": 4.38,
+"end": 4.52
+}
+]
+},
+{
+"index": 49,
+"audio": {
+"path": "obs",
+"start": 789.177,
+"end": 797.097
+},
+"camera": {
+"path": "cam",
+"start": 788.46,
+"end": 796.38
+},
+"frames": 373,
+"text": "Passons maintenant aux cinq premiers livres vers lesquels je me suis tourné et que j'ai donné à Claude pour résoudre tous les problèmes que je rencontrais en discutant avec l'IA et en tant que fondateur.",
+"words": [
+{
+"word": "Passons",
+"start": 0.0,
+"end": 0.4
+},
+{
+"word": "maintenant",
+"start": 0.4,
+"end": 0.66
+},
+{
+"word": "aux",
+"start": 0.66,
+"end": 1.02
+},
+{
+"word": "cinq",
+"start": 1.02,
+"end": 1.28
+},
+{
+"word": "premiers",
+"start": 1.28,
+"end": 1.62
+},
+{
+"word": "livres",
+"start": 1.62,
+"end": 1.92
+},
+{
+"word": "vers",
+"start": 1.92,
+"end": 2.08
+},
+{
+"word": "lesquels",
+"start": 2.08,
+"end": 2.32
+},
+{
+"word": "je",
+"start": 2.32,
+"end": 2.44
+},
+{
+"word": "me",
+"start": 2.44,
+"end": 2.56
+},
+{
+"word": "suis",
+"start": 2.56,
+"end": 2.7
+},
+{
+"word": "tourné",
+"start": 2.7,
+"end": 3.02
+},
+{
+"word": "et",
+"start": 3.02,
+"end": 3.3
+},
+{
+"word": "que",
+"start": 3.3,
+"end": 3.38
+},
+{
+"word": "j",
+"start": 3.38,
+"end": 3.42
+},
+{
+"word": "'ai",
+"start": 3.42,
+"end": 3.48
+},
+{
+"word": "donné",
+"start": 3.48,
+"end": 3.62
+},
+{
+"word": "à",
+"start": 3.62,
+"end": 3.84
+},
+{
+"word": "Claude",
+"start": 3.84,
+"end": 4.08
+},
+{
+"word": "pour",
+"start": 4.08,
+"end": 4.24
+},
+{
+"word": "résoudre",
+"start": 4.24,
+"end": 4.64
+},
+{
+"word": "tous",
+"start": 4.64,
+"end": 4.78
+},
+{
+"word": "les",
+"start": 4.78,
+"end": 4.92
+},
+{
+"word": "problèmes",
+"start": 4.92,
+"end": 5.34
+},
+{
+"word": "que",
+"start": 5.34,
+"end": 5.52
+},
+{
+"word": "je",
+"start": 5.52,
+"end": 5.64
+},
+{
+"word": "rencontrais",
+"start": 5.64,
+"end": 6.08
+},
+{
+"word": "en",
+"start": 6.08,
+"end": 6.44
+},
+{
+"word": "discutant",
+"start": 6.44,
+"end": 6.9
+},
+{
+"word": "avec",
+"start": 6.9,
+"end": 7.08
+},
+{
+"word": "l",
+"start": 7.08,
+"end": 7.22
+},
+{
+"word": "'IA",
+"start": 7.22,
+"end": 7.34
+},
+{
+"word": "et",
+"start": 7.34,
+"end": 7.46
+},
+{
+"word": "en",
+"start": 7.46,
+"end": 7.58
+},
+{
+"word": "tant",
+"start": 7.58,
+"end": 7.66
+},
+{
+"word": "que",
+"start": 7.66,
+"end": 7.78
+},
+{
+"word": "fondateur.",
+"start": 7.78,
+"end": 8.04
+}
+]
+},
+{
+"index": 50,
+"audio": {
+"path": "obs",
+"start": 818.657,
+"end": 825.765
+},
+"camera": {
+"path": "cam",
+"start": 817.94,
+"end": 825.048
+},
+"frames": 336,
+"text": "Le premier concerne une difficulté que beaucoup d'entre vous connaissent, obtenir de Claude un bon texte pour une bonne page de vente ou pour une publicité.",
+"words": [
+{
+"word": "Le",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "premier",
+"start": 0.28,
+"end": 0.5
+},
+{
+"word": "concerne",
+"start": 0.5,
+"end": 0.82
+},
+{
+"word": "une",
+"start": 0.82,
+"end": 0.92
+},
+{
+"word": "difficulté",
+"start": 0.92,
+"end": 1.38
+},
+{
+"word": "que",
+"start": 1.38,
+"end": 1.6
+},
+{
+"word": "beaucoup",
+"start": 1.6,
+"end": 2.06
+},
+{
+"word": "d",
+"start": 2.06,
+"end": 2.2
+},
+{
+"word": "'entre",
+"start": 2.2,
+"end": 2.3
+},
+{
+"word": "vous",
+"start": 2.3,
+"end": 2.48
+},
+{
+"word": "connaissent,",
+"start": 2.48,
+"end": 2.84
+},
+{
+"word": "obtenir",
+"start": 3.0,
+"end": 3.62
+},
+{
+"word": "de",
+"start": 3.62,
+"end": 3.74
+},
+{
+"word": "Claude",
+"start": 3.74,
+"end": 4.12
+},
+{
+"word": "un",
+"start": 4.12,
+"end": 4.36
+},
+{
+"word": "bon",
+"start": 4.36,
+"end": 4.54
+},
+{
+"word": "texte",
+"start": 4.54,
+"end": 4.98
+},
+{
+"word": "pour",
+"start": 4.98,
+"end": 5.1
+},
+{
+"word": "une",
+"start": 5.1,
+"end": 5.24
+},
+{
+"word": "bonne",
+"start": 5.24,
+"end": 5.42
+},
+{
+"word": "page",
+"start": 5.42,
+"end": 5.66
+},
+{
+"word": "de",
+"start": 5.66,
+"end": 5.82
+},
+{
+"word": "vente",
+"start": 5.82,
+"end": 6.12
+},
+{
+"word": "ou",
+"start": 6.12,
+"end": 6.36
+},
+{
+"word": "pour",
+"start": 6.36,
+"end": 6.52
+},
+{
+"word": "une",
+"start": 6.52,
+"end": 6.66
+},
+{
+"word": "publicité.",
+"start": 6.66,
+"end": 7.12
+}
+]
+},
+{
+"index": 51,
+"audio": {
+"path": "obs",
+"start": 830.457,
+"end": 836.41
+},
+"camera": {
+"path": "cam",
+"start": 829.74,
+"end": 835.693
+},
+"frames": 280,
+"text": "Pour cela, je suis revenu à l'un des plus grands classiques du marketing qui s'appelle Breakthrough Advertising de Gene Schwartz.",
+"words": [
+{
+"word": "Pour",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "cela,",
+"start": 0.26,
+"end": 0.52
+},
+{
+"word": "je",
+"start": 0.78,
+"end": 0.8
+},
+{
+"word": "suis",
+"start": 0.8,
+"end": 0.96
+},
+{
+"word": "revenu",
+"start": 0.96,
+"end": 1.22
+},
+{
+"word": "à",
+"start": 1.22,
+"end": 1.34
+},
+{
+"word": "l",
+"start": 1.34,
+"end": 1.36
+},
+{
+"word": "'un",
+"start": 1.36,
+"end": 1.44
+},
+{
+"word": "des",
+"start": 1.44,
+"end": 1.56
+},
+{
+"word": "plus",
+"start": 1.56,
+"end": 1.76
+},
+{
+"word": "grands",
+"start": 1.76,
+"end": 2.08
+},
+{
+"word": "classiques",
+"start": 2.08,
+"end": 2.5
+},
+{
+"word": "du",
+"start": 2.5,
+"end": 2.6
+},
+{
+"word": "marketing",
+"start": 2.6,
+"end": 2.96
+},
+{
+"word": "qui",
+"start": 2.96,
+"end": 3.24
+},
+{
+"word": "s",
+"start": 3.24,
+"end": 3.34
+},
+{
+"word": "'appelle",
+"start": 3.34,
+"end": 3.56
+},
+{
+"word": "Breakthrough",
+"start": 3.56,
+"end": 4.32
+},
+{
+"word": "Advertising",
+"start": 4.32,
+"end": 5.2
+},
+{
+"word": "de",
+"start": 5.2,
+"end": 5.52
+},
+{
+"word": "Gene",
+"start": 5.52,
+"end": 5.66
+},
+{
+"word": "Schwartz.",
+"start": 5.66,
+"end": 5.98
+}
+]
+},
+{
+"index": 52,
+"audio": {
+"path": "obs",
+"start": 845.617,
+"end": 848.357
+},
+"camera": {
+"path": "cam",
+"start": 844.9,
+"end": 847.64
+},
+"frames": 130,
+"text": "Même s'il est extrêmement difficile à se procurer.",
+"words": [
+{
+"word": "Même",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "s",
+"start": 0.32,
+"end": 0.44
+},
+{
+"word": "'il",
+"start": 0.44,
+"end": 0.54
+},
+{
+"word": "est",
+"start": 0.54,
+"end": 0.66
+},
+{
+"word": "extrêmement",
+"start": 0.66,
+"end": 1.22
+},
+{
+"word": "difficile",
+"start": 1.22,
+"end": 1.74
+},
+{
+"word": "à",
+"start": 1.74,
+"end": 2.16
+},
+{
+"word": "se",
+"start": 2.16,
+"end": 2.3
+},
+{
+"word": "procurer.",
+"start": 2.3,
+"end": 2.68
+}
+]
+},
+{
+"index": 53,
+"audio": {
+"path": "obs",
+"start": 848.937,
+"end": 853.077
+},
+"camera": {
+"path": "cam",
+"start": 848.22,
+"end": 852.36
+},
+"frames": 195,
+"text": "Toute personne qui l'a lu sait à quel point c'est le meilleur livre qui a jamais été écrit dans ce domaine.",
+"words": [
+{
+"word": "Toute",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "personne",
+"start": 0.3,
+"end": 0.66
+},
+{
+"word": "qui",
+"start": 0.66,
+"end": 0.84
+},
+{
+"word": "l",
+"start": 0.84,
+"end": 0.94
+},
+{
+"word": "'a",
+"start": 0.94,
+"end": 1.04
+},
+{
+"word": "lu",
+"start": 1.04,
+"end": 1.14
+},
+{
+"word": "sait",
+"start": 1.14,
+"end": 1.64
+},
+{
+"word": "à",
+"start": 1.64,
+"end": 1.84
+},
+{
+"word": "quel",
+"start": 1.84,
+"end": 1.98
+},
+{
+"word": "point",
+"start": 1.98,
+"end": 2.12
+},
+{
+"word": "c",
+"start": 2.12,
+"end": 2.24
+},
+{
+"word": "'est",
+"start": 2.24,
+"end": 2.3
+},
+{
+"word": "le",
+"start": 2.3,
+"end": 2.4
+},
+{
+"word": "meilleur",
+"start": 2.4,
+"end": 2.74
+},
+{
+"word": "livre",
+"start": 2.74,
+"end": 2.98
+},
+{
+"word": "qui",
+"start": 2.98,
+"end": 3.1
+},
+{
+"word": "a",
+"start": 3.1,
+"end": 3.2
+},
+{
+"word": "jamais",
+"start": 3.2,
+"end": 3.5
+},
+{
+"word": "été",
+"start": 3.5,
+"end": 3.66
+},
+{
+"word": "écrit",
+"start": 3.66,
+"end": 3.88
+},
+{
+"word": "dans",
+"start": 3.88,
+"end": 3.98
+},
+{
+"word": "ce",
+"start": 3.98,
+"end": 4.1
+},
+{
+"word": "domaine.",
+"start": 4.1,
+"end": 4.26
+}
+]
+},
+{
+"index": 54,
+"audio": {
+"path": "obs",
+"start": 854.857,
+"end": 858.537
+},
+"camera": {
+"path": "cam",
+"start": 854.14,
+"end": 857.82
+},
+"frames": 174,
+"text": "J'ai pris mon exemplaire, je l'ai fait passer directement dans mon processus de book to skill.",
+"words": [
+{
+"word": "J",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "'ai",
+"start": 0.28,
+"end": 0.34
+},
+{
+"word": "pris",
+"start": 0.34,
+"end": 0.48
+},
+{
+"word": "mon",
+"start": 0.48,
+"end": 0.62
+},
+{
+"word": "exemplaire,",
+"start": 0.62,
+"end": 1.14
+},
+{
+"word": "je",
+"start": 1.24,
+"end": 1.28
+},
+{
+"word": "l",
+"start": 1.28,
+"end": 1.34
+},
+{
+"word": "'ai",
+"start": 1.34,
+"end": 1.36
+},
+{
+"word": "fait",
+"start": 1.36,
+"end": 1.44
+},
+{
+"word": "passer",
+"start": 1.44,
+"end": 1.62
+},
+{
+"word": "directement",
+"start": 1.62,
+"end": 1.96
+},
+{
+"word": "dans",
+"start": 1.96,
+"end": 2.16
+},
+{
+"word": "mon",
+"start": 2.16,
+"end": 2.3
+},
+{
+"word": "processus",
+"start": 2.3,
+"end": 2.92
+},
+{
+"word": "de",
+"start": 2.92,
+"end": 3.04
+},
+{
+"word": "book",
+"start": 3.04,
+"end": 3.3
+},
+{
+"word": "to",
+"start": 3.3,
+"end": 3.4
+},
+{
+"word": "skill.",
+"start": 3.4,
+"end": 3.64
+}
+]
+},
+{
+"index": 55,
+"audio": {
+"path": "obs",
+"start": 860.977,
+"end": 862.857
+},
+"camera": {
+"path": "cam",
+"start": 860.26,
+"end": 862.14
+},
+"frames": 88,
+"text": "Et j'ai laissé Claude travailler sur ma page de vente.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "j",
+"start": 0.26,
+"end": 0.38
+},
+{
+"word": "'ai",
+"start": 0.38,
+"end": 0.44
+},
+{
+"word": "laissé",
+"start": 0.44,
+"end": 0.7
+},
+{
+"word": "Claude",
+"start": 0.7,
+"end": 0.92
+},
+{
+"word": "travailler",
+"start": 0.92,
+"end": 1.4
+},
+{
+"word": "sur",
+"start": 1.4,
+"end": 1.58
+},
+{
+"word": "ma",
+"start": 1.58,
+"end": 1.68
+},
+{
+"word": "page",
+"start": 1.68,
+"end": 1.82
+},
+{
+"word": "de",
+"start": 1.82,
+"end": 1.94
+},
+{
+"word": "vente.",
+"start": 1.94,
+"end": 2.08
+}
+]
+},
+{
+"index": 56,
+"audio": {
+"path": "obs",
+"start": 869.677,
+"end": 874.737
+},
+"camera": {
+"path": "cam",
+"start": 868.96,
+"end": 874.02
+},
+"frames": 239,
+"text": "Il a suivi toutes les techniques du livre, il a déterminé précisément qui allait lire la page de vente.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "a",
+"start": 0.26,
+"end": 0.38
+},
+{
+"word": "suivi",
+"start": 0.38,
+"end": 0.74
+},
+{
+"word": "toutes",
+"start": 0.74,
+"end": 1.14
+},
+{
+"word": "les",
+"start": 1.14,
+"end": 1.3
+},
+{
+"word": "techniques",
+"start": 1.3,
+"end": 1.6
+},
+{
+"word": "du",
+"start": 1.6,
+"end": 1.8
+},
+{
+"word": "livre,",
+"start": 1.8,
+"end": 2.24
+},
+{
+"word": "il",
+"start": 2.42,
+"end": 2.44
+},
+{
+"word": "a",
+"start": 2.44,
+"end": 2.54
+},
+{
+"word": "déterminé",
+"start": 2.54,
+"end": 3.0
+},
+{
+"word": "précisément",
+"start": 3.0,
+"end": 3.6
+},
+{
+"word": "qui",
+"start": 3.6,
+"end": 4.0
+},
+{
+"word": "allait",
+"start": 4.0,
+"end": 4.24
+},
+{
+"word": "lire",
+"start": 4.24,
+"end": 4.42
+},
+{
+"word": "la",
+"start": 4.42,
+"end": 4.58
+},
+{
+"word": "page",
+"start": 4.58,
+"end": 4.82
+},
+{
+"word": "de",
+"start": 4.82,
+"end": 4.96
+},
+{
+"word": "vente.",
+"start": 4.96,
+"end": 5.14
+}
+]
+},
+{
+"index": 57,
+"audio": {
+"path": "obs",
+"start": 876.677,
+"end": 881.197
+},
+"camera": {
+"path": "cam",
+"start": 875.96,
+"end": 880.48
+},
+"frames": 213,
+"text": "Ce que ces personnes savaient déjà et combien de fois elles avaient déjà entendu cet argumentaire que je disais auparavant.",
+"words": [
+{
+"word": "Ce",
+"start": 0.0,
+"end": 0.16
+},
+{
+"word": "que",
+"start": 0.16,
+"end": 0.24
+},
+{
+"word": "ces",
+"start": 0.24,
+"end": 0.36
+},
+{
+"word": "personnes",
+"start": 0.36,
+"end": 0.7
+},
+{
+"word": "savaient",
+"start": 0.7,
+"end": 0.98
+},
+{
+"word": "déjà",
+"start": 0.98,
+"end": 1.18
+},
+{
+"word": "et",
+"start": 1.18,
+"end": 1.36
+},
+{
+"word": "combien",
+"start": 1.36,
+"end": 1.6
+},
+{
+"word": "de",
+"start": 1.6,
+"end": 1.72
+},
+{
+"word": "fois",
+"start": 1.72,
+"end": 1.84
+},
+{
+"word": "elles",
+"start": 1.84,
+"end": 1.96
+},
+{
+"word": "avaient",
+"start": 1.96,
+"end": 2.18
+},
+{
+"word": "déjà",
+"start": 2.18,
+"end": 2.5
+},
+{
+"word": "entendu",
+"start": 2.5,
+"end": 2.78
+},
+{
+"word": "cet",
+"start": 2.78,
+"end": 3.02
+},
+{
+"word": "argumentaire",
+"start": 3.02,
+"end": 3.6
+},
+{
+"word": "que",
+"start": 3.6,
+"end": 3.7
+},
+{
+"word": "je",
+"start": 3.7,
+"end": 3.82
+},
+{
+"word": "disais",
+"start": 3.82,
+"end": 4.04
+},
+{
+"word": "auparavant.",
+"start": 4.04,
+"end": 4.52
+}
+]
+},
+{
+"index": 58,
+"audio": {
+"path": "obs",
+"start": 884.577,
+"end": 890.817
+},
+"camera": {
+"path": "cam",
+"start": 883.86,
+"end": 890.1
+},
+"frames": 294,
+"text": "Et il a ensuite rédigé un texte spécialement pour elle en s'appuyant directement sur toutes les techniques qui étaient employées dans le livre.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "il",
+"start": 0.28,
+"end": 0.52
+},
+{
+"word": "a",
+"start": 0.52,
+"end": 0.62
+},
+{
+"word": "ensuite",
+"start": 0.62,
+"end": 0.82
+},
+{
+"word": "rédigé",
+"start": 0.82,
+"end": 1.34
+},
+{
+"word": "un",
+"start": 1.34,
+"end": 1.66
+},
+{
+"word": "texte",
+"start": 1.66,
+"end": 2.34
+},
+{
+"word": "spécialement",
+"start": 2.34,
+"end": 2.86
+},
+{
+"word": "pour",
+"start": 2.86,
+"end": 3.08
+},
+{
+"word": "elle",
+"start": 3.08,
+"end": 3.22
+},
+{
+"word": "en",
+"start": 3.22,
+"end": 3.68
+},
+{
+"word": "s",
+"start": 3.68,
+"end": 3.8
+},
+{
+"word": "'appuyant",
+"start": 3.8,
+"end": 4.06
+},
+{
+"word": "directement",
+"start": 4.06,
+"end": 4.36
+},
+{
+"word": "sur",
+"start": 4.36,
+"end": 4.66
+},
+{
+"word": "toutes",
+"start": 4.66,
+"end": 4.88
+},
+{
+"word": "les",
+"start": 4.88,
+"end": 4.98
+},
+{
+"word": "techniques",
+"start": 4.98,
+"end": 5.24
+},
+{
+"word": "qui",
+"start": 5.24,
+"end": 5.4
+},
+{
+"word": "étaient",
+"start": 5.4,
+"end": 5.54
+},
+{
+"word": "employées",
+"start": 5.54,
+"end": 6.0
+},
+{
+"word": "dans",
+"start": 6.0,
+"end": 6.08
+},
+{
+"word": "le",
+"start": 6.08,
+"end": 6.16
+},
+{
+"word": "livre.",
+"start": 6.16,
+"end": 6.3
+}
+]
+},
+{
+"index": 59,
+"audio": {
+"path": "obs",
+"start": 891.237,
+"end": 894.337
+},
+"camera": {
+"path": "cam",
+"start": 890.52,
+"end": 893.62
+},
+"frames": 147,
+"text": "Et il a commencé à écrire beaucoup mieux que ce que j'avais rencontré avant avec Claude.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "il",
+"start": 0.22,
+"end": 0.32
+},
+{
+"word": "a",
+"start": 0.32,
+"end": 0.4
+},
+{
+"word": "commencé",
+"start": 0.4,
+"end": 0.7
+},
+{
+"word": "à",
+"start": 0.7,
+"end": 0.84
+},
+{
+"word": "écrire",
+"start": 0.84,
+"end": 1.08
+},
+{
+"word": "beaucoup",
+"start": 1.08,
+"end": 1.52
+},
+{
+"word": "mieux",
+"start": 1.52,
+"end": 1.8
+},
+{
+"word": "que",
+"start": 1.8,
+"end": 1.92
+},
+{
+"word": "ce",
+"start": 1.92,
+"end": 2.02
+},
+{
+"word": "que",
+"start": 2.02,
+"end": 2.08
+},
+{
+"word": "j",
+"start": 2.08,
+"end": 2.16
+},
+{
+"word": "'avais",
+"start": 2.16,
+"end": 2.28
+},
+{
+"word": "rencontré",
+"start": 2.28,
+"end": 2.7
+},
+{
+"word": "avant",
+"start": 2.7,
+"end": 2.86
+},
+{
+"word": "avec",
+"start": 2.86,
+"end": 3.06
+},
+{
+"word": "Claude.",
+"start": 3.06,
+"end": 3.28
+}
+]
+},
+{
+"index": 60,
+"audio": {
+"path": "obs",
+"start": 896.937,
+"end": 899.397
+},
+"camera": {
+"path": "cam",
+"start": 896.22,
+"end": 898.68
+},
+"frames": 116,
+"text": "J'avais littéralement l'impression de parler à Eugene Schwartz.",
+"words": [
+{
+"word": "J",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "'avais",
+"start": 0.2,
+"end": 0.38
+},
+{
+"word": "littéralement",
+"start": 0.38,
+"end": 1.3
+},
+{
+"word": "l",
+"start": 1.3,
+"end": 1.66
+},
+{
+"word": "'impression",
+"start": 1.66,
+"end": 1.92
+},
+{
+"word": "de",
+"start": 1.92,
+"end": 2.06
+},
+{
+"word": "parler",
+"start": 2.06,
+"end": 2.26
+},
+{
+"word": "à",
+"start": 2.26,
+"end": 2.4
+},
+{
+"word": "Eugene",
+"start": 2.4,
+"end": 2.5
+},
+{
+"word": "Schwartz.",
+"start": 2.5,
+"end": 2.74
+}
+]
+},
+{
+"index": 61,
+"audio": {
+"path": "obs",
+"start": 903.097,
+"end": 907.436
+},
+"camera": {
+"path": "cam",
+"start": 902.38,
+"end": 906.719
+},
+"frames": 204,
+"text": "Une deuxième chose avec laquelle Claude a énormément de mal, c'est la conception de bonnes offres.",
+"words": [
+{
+"word": "Une",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "deuxième",
+"start": 0.28,
+"end": 0.46
+},
+{
+"word": "chose",
+"start": 0.46,
+"end": 0.68
+},
+{
+"word": "avec",
+"start": 0.68,
+"end": 0.86
+},
+{
+"word": "laquelle",
+"start": 0.86,
+"end": 1.14
+},
+{
+"word": "Claude",
+"start": 1.14,
+"end": 1.46
+},
+{
+"word": "a",
+"start": 1.46,
+"end": 1.76
+},
+{
+"word": "énormément",
+"start": 1.76,
+"end": 2.12
+},
+{
+"word": "de",
+"start": 2.12,
+"end": 2.34
+},
+{
+"word": "mal,",
+"start": 2.34,
+"end": 2.52
+},
+{
+"word": "c",
+"start": 2.64,
+"end": 2.88
+},
+{
+"word": "'est",
+"start": 2.88,
+"end": 2.94
+},
+{
+"word": "la",
+"start": 2.94,
+"end": 3.04
+},
+{
+"word": "conception",
+"start": 3.04,
+"end": 3.46
+},
+{
+"word": "de",
+"start": 3.46,
+"end": 3.72
+},
+{
+"word": "bonnes",
+"start": 3.72,
+"end": 4.06
+},
+{
+"word": "offres.",
+"start": 4.06,
+"end": 4.32
+}
+]
+},
+{
+"index": 62,
+"audio": {
+"path": "obs",
+"start": 909.857,
+"end": 916.017
+},
+"camera": {
+"path": "cam",
+"start": 909.14,
+"end": 915.3
+},
+"frames": 291,
+"text": "J'ai donc pris un autre classique qui s'appelle 100 million dollars de Alex Ormozy, qui est un très gros marketeur des Etats-Unis.",
+"words": [
+{
+"word": "J",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "'ai",
+"start": 0.24,
+"end": 0.32
+},
+{
+"word": "donc",
+"start": 0.32,
+"end": 0.4
+},
+{
+"word": "pris",
+"start": 0.4,
+"end": 0.58
+},
+{
+"word": "un",
+"start": 0.58,
+"end": 0.72
+},
+{
+"word": "autre",
+"start": 0.72,
+"end": 0.88
+},
+{
+"word": "classique",
+"start": 0.88,
+"end": 1.26
+},
+{
+"word": "qui",
+"start": 1.26,
+"end": 1.36
+},
+{
+"word": "s",
+"start": 1.36,
+"end": 1.46
+},
+{
+"word": "'appelle",
+"start": 1.46,
+"end": 1.66
+},
+{
+"word": "100",
+"start": 1.66,
+"end": 2.26
+},
+{
+"word": "million",
+"start": 2.26,
+"end": 2.72
+},
+{
+"word": "dollars",
+"start": 2.72,
+"end": 3.12
+},
+{
+"word": "de",
+"start": 3.12,
+"end": 3.48
+},
+{
+"word": "Alex",
+"start": 3.48,
+"end": 3.92
+},
+{
+"word": "Ormozy,",
+"start": 3.92,
+"end": 4.36
+},
+{
+"word": "qui",
+"start": 4.46,
+"end": 4.52
+},
+{
+"word": "est",
+"start": 4.52,
+"end": 4.62
+},
+{
+"word": "un",
+"start": 4.62,
+"end": 4.7
+},
+{
+"word": "très",
+"start": 4.7,
+"end": 4.92
+},
+{
+"word": "gros",
+"start": 4.92,
+"end": 5.12
+},
+{
+"word": "marketeur",
+"start": 5.12,
+"end": 5.56
+},
+{
+"word": "des",
+"start": 5.56,
+"end": 5.72
+},
+{
+"word": "Etats",
+"start": 5.72,
+"end": 5.98
+},
+{
+"word": "-Unis.",
+"start": 5.98,
+"end": 6.14
+}
+]
+},
+{
+"index": 63,
+"audio": {
+"path": "obs",
+"start": 919.377,
+"end": 920.977
+},
+"camera": {
+"path": "cam",
+"start": 918.66,
+"end": 920.26
+},
+"frames": 75,
+"text": "Et je l'ai également transformé en skill.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "je",
+"start": 0.26,
+"end": 0.4
+},
+{
+"word": "l",
+"start": 0.4,
+"end": 0.5
+},
+{
+"word": "'ai",
+"start": 0.5,
+"end": 0.6
+},
+{
+"word": "également",
+"start": 0.6,
+"end": 1.0
+},
+{
+"word": "transformé",
+"start": 1.0,
+"end": 1.5
+},
+{
+"word": "en",
+"start": 1.5,
+"end": 1.58
+},
+{
+"word": "skill.",
+"start": 1.58,
+"end": 1.7
+}
+]
+},
+{
+"index": 64,
+"audio": {
+"path": "obs",
+"start": 926.877,
+"end": 934.417
+},
+"camera": {
+"path": "cam",
+"start": 926.16,
+"end": 933.7
+},
+"frames": 356,
+"text": "Claude en a littéralement extrait le process en cinq étapes seulement pour créer une super offre. Il m'a littéralement créé une procédure que je peux répliquer à chaque fois.",
+"words": [
+{
+"word": "Claude",
+"start": 0.0,
+"end": 0.34
+},
+{
+"word": "en",
+"start": 0.34,
+"end": 0.46
+},
+{
+"word": "a",
+"start": 0.46,
+"end": 0.56
+},
+{
+"word": "littéralement",
+"start": 0.56,
+"end": 1.08
+},
+{
+"word": "extrait",
+"start": 1.08,
+"end": 1.4
+},
+{
+"word": "le",
+"start": 1.4,
+"end": 1.52
+},
+{
+"word": "process",
+"start": 1.52,
+"end": 1.84
+},
+{
+"word": "en",
+"start": 1.84,
+"end": 2.24
+},
+{
+"word": "cinq",
+"start": 2.24,
+"end": 2.48
+},
+{
+"word": "étapes",
+"start": 2.48,
+"end": 2.82
+},
+{
+"word": "seulement",
+"start": 2.82,
+"end": 2.98
+},
+{
+"word": "pour",
+"start": 2.98,
+"end": 3.32
+},
+{
+"word": "créer",
+"start": 3.32,
+"end": 3.7
+},
+{
+"word": "une",
+"start": 3.7,
+"end": 4.06
+},
+{
+"word": "super",
+"start": 4.06,
+"end": 4.42
+},
+{
+"word": "offre.",
+"start": 4.42,
+"end": 4.98
+},
+{
+"word": "Il",
+"start": 5.1,
+"end": 5.14
+},
+{
+"word": "m",
+"start": 5.14,
+"end": 5.2
+},
+{
+"word": "'a",
+"start": 5.2,
+"end": 5.28
+},
+{
+"word": "littéralement",
+"start": 5.28,
+"end": 5.6
+},
+{
+"word": "créé",
+"start": 5.6,
+"end": 6.0
+},
+{
+"word": "une",
+"start": 6.0,
+"end": 6.3
+},
+{
+"word": "procédure",
+"start": 6.3,
+"end": 6.78
+},
+{
+"word": "que",
+"start": 6.78,
+"end": 6.88
+},
+{
+"word": "je",
+"start": 6.88,
+"end": 6.96
+},
+{
+"word": "peux",
+"start": 6.96,
+"end": 7.04
+},
+{
+"word": "répliquer",
+"start": 7.04,
+"end": 7.38
+},
+{
+"word": "à",
+"start": 7.38,
+"end": 7.48
+},
+{
+"word": "chaque",
+"start": 7.48,
+"end": 7.6
+},
+{
+"word": "fois.",
+"start": 7.6,
+"end": 7.74
+}
+]
+},
+{
+"index": 65,
+"audio": {
+"path": "obs",
+"start": 939.977,
+"end": 945.037
+},
+"camera": {
+"path": "cam",
+"start": 939.26,
+"end": 944.32
+},
+"frames": 239,
+"text": "Maintenant comment ça se passe quand je veux développer une nouvelle offre, je lui donne simplement une idée approximative de ce que je veux faire.",
+"words": [
+{
+"word": "Maintenant",
+"start": 0.0,
+"end": 0.46
+},
+{
+"word": "comment",
+"start": 0.46,
+"end": 0.74
+},
+{
+"word": "ça",
+"start": 0.74,
+"end": 0.88
+},
+{
+"word": "se",
+"start": 0.88,
+"end": 1.0
+},
+{
+"word": "passe",
+"start": 1.0,
+"end": 1.1
+},
+{
+"word": "quand",
+"start": 1.1,
+"end": 1.24
+},
+{
+"word": "je",
+"start": 1.24,
+"end": 1.36
+},
+{
+"word": "veux",
+"start": 1.36,
+"end": 1.48
+},
+{
+"word": "développer",
+"start": 1.48,
+"end": 1.8
+},
+{
+"word": "une",
+"start": 1.8,
+"end": 1.9
+},
+{
+"word": "nouvelle",
+"start": 1.9,
+"end": 2.04
+},
+{
+"word": "offre,",
+"start": 2.04,
+"end": 2.36
+},
+{
+"word": "je",
+"start": 2.4,
+"end": 2.42
+},
+{
+"word": "lui",
+"start": 2.42,
+"end": 2.5
+},
+{
+"word": "donne",
+"start": 2.5,
+"end": 2.6
+},
+{
+"word": "simplement",
+"start": 2.6,
+"end": 2.86
+},
+{
+"word": "une",
+"start": 2.86,
+"end": 3.02
+},
+{
+"word": "idée",
+"start": 3.02,
+"end": 3.18
+},
+{
+"word": "approximative",
+"start": 3.18,
+"end": 4.18
+},
+{
+"word": "de",
+"start": 4.18,
+"end": 4.58
+},
+{
+"word": "ce",
+"start": 4.58,
+"end": 4.66
+},
+{
+"word": "que",
+"start": 4.66,
+"end": 4.74
+},
+{
+"word": "je",
+"start": 4.74,
+"end": 4.84
+},
+{
+"word": "veux",
+"start": 4.84,
+"end": 4.92
+},
+{
+"word": "faire.",
+"start": 4.92,
+"end": 5.08
+}
+]
+},
+{
+"index": 66,
+"audio": {
+"path": "obs",
+"start": 948.297,
+"end": 955.377
+},
+"camera": {
+"path": "cam",
+"start": 947.58,
+"end": 954.66
+},
+"frames": 334,
+"text": "Et il va me guider tout au long du reste du processus. Il va évaluer la qualité exacte de chacun des éléments de l'équation de la valeur.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "il",
+"start": 0.28,
+"end": 0.48
+},
+{
+"word": "va",
+"start": 0.48,
+"end": 0.58
+},
+{
+"word": "me",
+"start": 0.58,
+"end": 0.7
+},
+{
+"word": "guider",
+"start": 0.7,
+"end": 0.94
+},
+{
+"word": "tout",
+"start": 0.94,
+"end": 1.38
+},
+{
+"word": "au",
+"start": 1.38,
+"end": 1.66
+},
+{
+"word": "long",
+"start": 1.66,
+"end": 1.8
+},
+{
+"word": "du",
+"start": 1.8,
+"end": 2.08
+},
+{
+"word": "reste",
+"start": 2.08,
+"end": 2.28
+},
+{
+"word": "du",
+"start": 2.28,
+"end": 2.44
+},
+{
+"word": "processus.",
+"start": 2.44,
+"end": 2.98
+},
+{
+"word": "Il",
+"start": 3.08,
+"end": 3.12
+},
+{
+"word": "va",
+"start": 3.12,
+"end": 3.24
+},
+{
+"word": "évaluer",
+"start": 3.24,
+"end": 3.62
+},
+{
+"word": "la",
+"start": 3.62,
+"end": 3.74
+},
+{
+"word": "qualité",
+"start": 3.74,
+"end": 4.1
+},
+{
+"word": "exacte",
+"start": 4.1,
+"end": 4.88
+},
+{
+"word": "de",
+"start": 4.88,
+"end": 4.98
+},
+{
+"word": "chacun",
+"start": 4.98,
+"end": 5.24
+},
+{
+"word": "des",
+"start": 5.24,
+"end": 5.38
+},
+{
+"word": "éléments",
+"start": 5.38,
+"end": 5.74
+},
+{
+"word": "de",
+"start": 5.74,
+"end": 6.0
+},
+{
+"word": "l",
+"start": 6.0,
+"end": 6.22
+},
+{
+"word": "'équation",
+"start": 6.22,
+"end": 6.64
+},
+{
+"word": "de",
+"start": 6.64,
+"end": 6.74
+},
+{
+"word": "la",
+"start": 6.74,
+"end": 6.82
+},
+{
+"word": "valeur.",
+"start": 6.82,
+"end": 7.08
+}
+]
+},
+{
+"index": 67,
+"audio": {
+"path": "obs",
+"start": 957.397,
+"end": 959.537
+},
+"camera": {
+"path": "cam",
+"start": 956.68,
+"end": 958.82
+},
+"frames": 101,
+"text": "ajouter des bonus, ajouter une garantie.",
+"words": [
+{
+"word": "ajouter",
+"start": 0.0,
+"end": 0.54
+},
+{
+"word": "des",
+"start": 0.54,
+"end": 0.76
+},
+{
+"word": "bonus,",
+"start": 0.76,
+"end": 1.04
+},
+{
+"word": "ajouter",
+"start": 1.3,
+"end": 1.52
+},
+{
+"word": "une",
+"start": 1.52,
+"end": 1.66
+},
+{
+"word": "garantie.",
+"start": 1.66,
+"end": 2.22
+}
+]
+},
+{
+"index": 68,
+"audio": {
+"path": "obs",
+"start": 961.937,
+"end": 966.754
+},
+"camera": {
+"path": "cam",
+"start": 961.22,
+"end": 966.037
+},
+"frames": 227,
+"text": "Et tant que j'y étais, j'ai même fait la même chose avec la série 100 millions de dollars playbook.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "tant",
+"start": 0.24,
+"end": 0.32
+},
+{
+"word": "que",
+"start": 0.32,
+"end": 0.44
+},
+{
+"word": "j",
+"start": 0.44,
+"end": 0.48
+},
+{
+"word": "'y",
+"start": 0.48,
+"end": 0.56
+},
+{
+"word": "étais,",
+"start": 0.56,
+"end": 0.76
+},
+{
+"word": "j",
+"start": 0.8,
+"end": 0.86
+},
+{
+"word": "'ai",
+"start": 0.86,
+"end": 0.96
+},
+{
+"word": "même",
+"start": 0.96,
+"end": 1.1
+},
+{
+"word": "fait",
+"start": 1.1,
+"end": 1.3
+},
+{
+"word": "la",
+"start": 1.3,
+"end": 1.46
+},
+{
+"word": "même",
+"start": 1.46,
+"end": 1.6
+},
+{
+"word": "chose",
+"start": 1.6,
+"end": 1.78
+},
+{
+"word": "avec",
+"start": 1.78,
+"end": 2.08
+},
+{
+"word": "la",
+"start": 2.08,
+"end": 2.34
+},
+{
+"word": "série",
+"start": 2.34,
+"end": 2.7
+},
+{
+"word": "100",
+"start": 2.7,
+"end": 3.36
+},
+{
+"word": "millions",
+"start": 3.36,
+"end": 3.72
+},
+{
+"word": "de",
+"start": 3.72,
+"end": 3.88
+},
+{
+"word": "dollars",
+"start": 3.88,
+"end": 4.04
+},
+{
+"word": "playbook.",
+"start": 4.04,
+"end": 4.62
+}
+]
+},
+{
+"index": 69,
+"audio": {
+"path": "obs",
+"start": 973.857,
+"end": 979.857
+},
+"camera": {
+"path": "cam",
+"start": 973.14,
+"end": 979.14
+},
+"frames": 283,
+"text": "qui sont en fait des petits guides pratiques sur comment augmenter ses prises sans perdre des clients, organiser des offres à durée limitée qui vont maximiser l'achat.",
+"words": [
+{
+"word": "qui",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "sont",
+"start": 0.2,
+"end": 0.32
+},
+{
+"word": "en",
+"start": 0.32,
+"end": 0.34
+},
+{
+"word": "fait",
+"start": 0.34,
+"end": 0.42
+},
+{
+"word": "des",
+"start": 0.42,
+"end": 0.56
+},
+{
+"word": "petits",
+"start": 0.56,
+"end": 0.7
+},
+{
+"word": "guides",
+"start": 0.7,
+"end": 0.84
+},
+{
+"word": "pratiques",
+"start": 0.84,
+"end": 1.16
+},
+{
+"word": "sur",
+"start": 1.16,
+"end": 1.34
+},
+{
+"word": "comment",
+"start": 1.34,
+"end": 1.66
+},
+{
+"word": "augmenter",
+"start": 1.66,
+"end": 2.0
+},
+{
+"word": "ses",
+"start": 2.0,
+"end": 2.12
+},
+{
+"word": "prises",
+"start": 2.12,
+"end": 2.34
+},
+{
+"word": "sans",
+"start": 2.34,
+"end": 2.48
+},
+{
+"word": "perdre",
+"start": 2.48,
+"end": 2.68
+},
+{
+"word": "des",
+"start": 2.68,
+"end": 2.8
+},
+{
+"word": "clients,",
+"start": 2.8,
+"end": 3.08
+},
+{
+"word": "organiser",
+"start": 3.26,
+"end": 3.66
+},
+{
+"word": "des",
+"start": 3.66,
+"end": 3.8
+},
+{
+"word": "offres",
+"start": 3.8,
+"end": 4.08
+},
+{
+"word": "à",
+"start": 4.08,
+"end": 4.16
+},
+{
+"word": "durée",
+"start": 4.16,
+"end": 4.44
+},
+{
+"word": "limitée",
+"start": 4.44,
+"end": 4.78
+},
+{
+"word": "qui",
+"start": 4.78,
+"end": 4.96
+},
+{
+"word": "vont",
+"start": 4.96,
+"end": 5.1
+},
+{
+"word": "maximiser",
+"start": 5.1,
+"end": 5.72
+},
+{
+"word": "l",
+"start": 5.72,
+"end": 5.82
+},
+{
+"word": "'achat.",
+"start": 5.82,
+"end": 6.04
+}
+]
+},
+{
+"index": 70,
+"audio": {
+"path": "obs",
+"start": 980.597,
+"end": 981.697
+},
+"camera": {
+"path": "cam",
+"start": 979.88,
+"end": 980.98
+},
+"frames": 52,
+"text": "ou relancer des prospects.",
+"words": [
+{
+"word": "ou",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "relancer",
+"start": 0.32,
+"end": 0.76
+},
+{
+"word": "des",
+"start": 0.76,
+"end": 0.9
+},
+{
+"word": "prospects.",
+"start": 0.9,
+"end": 1.18
+}
+]
+},
+{
+"index": 71,
+"audio": {
+"path": "obs",
+"start": 987.957,
+"end": 990.437
+},
+"camera": {
+"path": "cam",
+"start": 987.24,
+"end": 989.72
+},
+"frames": 117,
+"text": "Tous sont eux aussi devenus des skills que Claude peut appeler « des... »",
+"words": [
+{
+"word": "Tous",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "sont",
+"start": 0.28,
+"end": 0.5
+},
+{
+"word": "eux",
+"start": 0.5,
+"end": 0.68
+},
+{
+"word": "aussi",
+"start": 0.68,
+"end": 0.92
+},
+{
+"word": "devenus",
+"start": 0.92,
+"end": 1.28
+},
+{
+"word": "des",
+"start": 1.28,
+"end": 1.38
+},
+{
+"word": "skills",
+"start": 1.38,
+"end": 1.62
+},
+{
+"word": "que",
+"start": 1.62,
+"end": 1.82
+},
+{
+"word": "Claude",
+"start": 1.82,
+"end": 2.0
+},
+{
+"word": "peut",
+"start": 2.0,
+"end": 2.1
+},
+{
+"word": "appeler",
+"start": 2.1,
+"end": 2.36
+},
+{
+"word": "«",
+"start": 2.36,
+"end": 2.5
+},
+{
+"word": "des...",
+"start": 2.5,
+"end": 2.5
+},
+{
+"word": "»",
+"start": 2.5,
+"end": 2.76
+}
+]
+},
+{
+"index": 72,
+"audio": {
+"path": "obs",
+"start": 990.517,
+"end": 994.942
+},
+"camera": {
+"path": "cam",
+"start": 989.8,
+"end": 994.225
+},
+"frames": 208,
+"text": "dès qu'il en a besoin et qu'il va même pouvoir lui utiliser pour aller faire de la prospection à ma place.",
+"words": [
+{
+"word": "dès",
+"start": 0.0,
+"end": 0.42
+},
+{
+"word": "qu",
+"start": 0.42,
+"end": 0.56
+},
+{
+"word": "'il",
+"start": 0.56,
+"end": 0.62
+},
+{
+"word": "en",
+"start": 0.62,
+"end": 0.74
+},
+{
+"word": "a",
+"start": 0.74,
+"end": 0.82
+},
+{
+"word": "besoin",
+"start": 0.82,
+"end": 1.1
+},
+{
+"word": "et",
+"start": 1.1,
+"end": 1.36
+},
+{
+"word": "qu",
+"start": 1.36,
+"end": 1.46
+},
+{
+"word": "'il",
+"start": 1.46,
+"end": 1.52
+},
+{
+"word": "va",
+"start": 1.52,
+"end": 1.64
+},
+{
+"word": "même",
+"start": 1.64,
+"end": 1.74
+},
+{
+"word": "pouvoir",
+"start": 1.74,
+"end": 1.94
+},
+{
+"word": "lui",
+"start": 1.94,
+"end": 2.16
+},
+{
+"word": "utiliser",
+"start": 2.16,
+"end": 2.58
+},
+{
+"word": "pour",
+"start": 2.58,
+"end": 2.8
+},
+{
+"word": "aller",
+"start": 2.8,
+"end": 2.9
+},
+{
+"word": "faire",
+"start": 2.9,
+"end": 3.04
+},
+{
+"word": "de",
+"start": 3.04,
+"end": 3.12
+},
+{
+"word": "la",
+"start": 3.12,
+"end": 3.24
+},
+{
+"word": "prospection",
+"start": 3.24,
+"end": 3.76
+},
+{
+"word": "à",
+"start": 3.76,
+"end": 3.9
+},
+{
+"word": "ma",
+"start": 3.9,
+"end": 4.0
+},
+{
+"word": "place.",
+"start": 4.0,
+"end": 4.16
+}
+]
+},
+{
+"index": 73,
+"audio": {
+"path": "obs",
+"start": 997.297,
+"end": 1001.377
+},
+"camera": {
+"path": "cam",
+"start": 996.58,
+"end": 1000.66
+},
+"frames": 193,
+"text": "Pour le troisième livre, j'ai donné à Claude The Challenger Cell de Brains Adamson.",
+"words": [
+{
+"word": "Pour",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "le",
+"start": 0.22,
+"end": 0.34
+},
+{
+"word": "troisième",
+"start": 0.34,
+"end": 0.54
+},
+{
+"word": "livre,",
+"start": 0.54,
+"end": 0.98
+},
+{
+"word": "j",
+"start": 1.16,
+"end": 1.18
+},
+{
+"word": "'ai",
+"start": 1.18,
+"end": 1.24
+},
+{
+"word": "donné",
+"start": 1.24,
+"end": 1.4
+},
+{
+"word": "à",
+"start": 1.4,
+"end": 1.58
+},
+{
+"word": "Claude",
+"start": 1.58,
+"end": 1.9
+},
+{
+"word": "The",
+"start": 1.9,
+"end": 2.2
+},
+{
+"word": "Challenger",
+"start": 2.2,
+"end": 2.64
+},
+{
+"word": "Cell",
+"start": 2.64,
+"end": 2.9
+},
+{
+"word": "de",
+"start": 2.9,
+"end": 3.14
+},
+{
+"word": "Brains",
+"start": 3.14,
+"end": 3.68
+},
+{
+"word": "Adamson.",
+"start": 3.68,
+"end": 4.22
+}
+]
+},
+{
+"index": 74,
+"audio": {
+"path": "obs",
+"start": 1004.597,
+"end": 1007.277
+},
+"camera": {
+"path": "cam",
+"start": 1003.88,
+"end": 1006.56
+},
+"frames": 126,
+"text": "Ça, c'était vraiment pour qu'il m'aide à améliorer mes compétences commerciales.",
+"words": [
+{
+"word": "Ça,",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "c",
+"start": 0.34,
+"end": 0.34
+},
+{
+"word": "'était",
+"start": 0.34,
+"end": 0.42
+},
+{
+"word": "vraiment",
+"start": 0.42,
+"end": 0.64
+},
+{
+"word": "pour",
+"start": 0.64,
+"end": 0.82
+},
+{
+"word": "qu",
+"start": 0.82,
+"end": 0.9
+},
+{
+"word": "'il",
+"start": 0.9,
+"end": 0.98
+},
+{
+"word": "m",
+"start": 0.98,
+"end": 1.12
+},
+{
+"word": "'aide",
+"start": 1.12,
+"end": 1.22
+},
+{
+"word": "à",
+"start": 1.22,
+"end": 1.3
+},
+{
+"word": "améliorer",
+"start": 1.3,
+"end": 1.64
+},
+{
+"word": "mes",
+"start": 1.64,
+"end": 1.78
+},
+{
+"word": "compétences",
+"start": 1.78,
+"end": 2.24
+},
+{
+"word": "commerciales.",
+"start": 2.24,
+"end": 2.88
+}
+]
+},
+{
+"index": 75,
+"audio": {
+"path": "obs",
+"start": 1029.417,
+"end": 1037.657
+},
+"camera": {
+"path": "cam",
+"start": 1028.7,
+"end": 1036.94
+},
+"frames": 389,
+"text": "Maintenant, avant chaque appel de vente, je lui donne simplement quelques informations sur mon prospect. Il va me rédiger toute la préparation de mon rendez-vous avec la méthode en 6 étapes qui est expliquée dans le livre.",
+"words": [
+{
+"word": "Maintenant,",
+"start": 0.0,
+"end": 0.4
+},
+{
+"word": "avant",
+"start": 0.5,
+"end": 0.6
+},
+{
+"word": "chaque",
+"start": 0.6,
+"end": 0.8
+},
+{
+"word": "appel",
+"start": 0.8,
+"end": 1.06
+},
+{
+"word": "de",
+"start": 1.06,
+"end": 1.18
+},
+{
+"word": "vente,",
+"start": 1.18,
+"end": 1.3
+},
+{
+"word": "je",
+"start": 1.38,
+"end": 1.38
+},
+{
+"word": "lui",
+"start": 1.38,
+"end": 1.44
+},
+{
+"word": "donne",
+"start": 1.44,
+"end": 1.64
+},
+{
+"word": "simplement",
+"start": 1.64,
+"end": 2.22
+},
+{
+"word": "quelques",
+"start": 2.22,
+"end": 2.5
+},
+{
+"word": "informations",
+"start": 2.5,
+"end": 2.88
+},
+{
+"word": "sur",
+"start": 2.88,
+"end": 3.16
+},
+{
+"word": "mon",
+"start": 3.16,
+"end": 3.3
+},
+{
+"word": "prospect.",
+"start": 3.3,
+"end": 3.62
+},
+{
+"word": "Il",
+"start": 3.84,
+"end": 4.02
+},
+{
+"word": "va",
+"start": 4.02,
+"end": 4.14
+},
+{
+"word": "me",
+"start": 4.14,
+"end": 4.24
+},
+{
+"word": "rédiger",
+"start": 4.24,
+"end": 4.66
+},
+{
+"word": "toute",
+"start": 4.66,
+"end": 5.12
+},
+{
+"word": "la",
+"start": 5.12,
+"end": 5.26
+},
+{
+"word": "préparation",
+"start": 5.26,
+"end": 5.66
+},
+{
+"word": "de",
+"start": 5.66,
+"end": 5.76
+},
+{
+"word": "mon",
+"start": 5.76,
+"end": 5.84
+},
+{
+"word": "rendez",
+"start": 5.84,
+"end": 6.0
+},
+{
+"word": "-vous",
+"start": 6.0,
+"end": 6.22
+},
+{
+"word": "avec",
+"start": 6.22,
+"end": 6.72
+},
+{
+"word": "la",
+"start": 6.72,
+"end": 6.86
+},
+{
+"word": "méthode",
+"start": 6.86,
+"end": 7.1
+},
+{
+"word": "en",
+"start": 7.1,
+"end": 7.18
+},
+{
+"word": "6",
+"start": 7.18,
+"end": 7.32
+},
+{
+"word": "étapes",
+"start": 7.32,
+"end": 7.64
+},
+{
+"word": "qui",
+"start": 7.64,
+"end": 7.74
+},
+{
+"word": "est",
+"start": 7.74,
+"end": 7.8
+},
+{
+"word": "expliquée",
+"start": 7.8,
+"end": 8.12
+},
+{
+"word": "dans",
+"start": 8.12,
+"end": 8.2
+},
+{
+"word": "le",
+"start": 8.2,
+"end": 8.28
+},
+{
+"word": "livre.",
+"start": 8.28,
+"end": 8.42
+}
+]
+},
+{
+"index": 76,
+"audio": {
+"path": "obs",
+"start": 1041.377,
+"end": 1048.677
+},
+"camera": {
+"path": "cam",
+"start": 1040.66,
+"end": 1047.96
+},
+"frames": 344,
+"text": "Après l'appel, je lui transmets l'enregistrement de la conversation qu'on a eue et il va m'évaluer de manière très critique. Il faut avoir l'estomac bien attaché.",
+"words": [
+{
+"word": "Après",
+"start": 0.0,
+"end": 0.36
+},
+{
+"word": "l",
+"start": 0.36,
+"end": 0.48
+},
+{
+"word": "'appel,",
+"start": 0.48,
+"end": 0.72
+},
+{
+"word": "je",
+"start": 0.84,
+"end": 0.84
+},
+{
+"word": "lui",
+"start": 0.84,
+"end": 0.92
+},
+{
+"word": "transmets",
+"start": 0.92,
+"end": 1.26
+},
+{
+"word": "l",
+"start": 1.26,
+"end": 1.4
+},
+{
+"word": "'enregistrement",
+"start": 1.4,
+"end": 2.14
+},
+{
+"word": "de",
+"start": 2.14,
+"end": 2.32
+},
+{
+"word": "la",
+"start": 2.32,
+"end": 2.44
+},
+{
+"word": "conversation",
+"start": 2.44,
+"end": 2.86
+},
+{
+"word": "qu",
+"start": 2.86,
+"end": 3.02
+},
+{
+"word": "'on",
+"start": 3.02,
+"end": 3.06
+},
+{
+"word": "a",
+"start": 3.06,
+"end": 3.14
+},
+{
+"word": "eue",
+"start": 3.14,
+"end": 3.3
+},
+{
+"word": "et",
+"start": 3.3,
+"end": 3.52
+},
+{
+"word": "il",
+"start": 3.52,
+"end": 3.66
+},
+{
+"word": "va",
+"start": 3.66,
+"end": 3.78
+},
+{
+"word": "m",
+"start": 3.78,
+"end": 4.02
+},
+{
+"word": "'évaluer",
+"start": 4.02,
+"end": 4.5
+},
+{
+"word": "de",
+"start": 4.5,
+"end": 4.68
+},
+{
+"word": "manière",
+"start": 4.68,
+"end": 4.9
+},
+{
+"word": "très",
+"start": 4.9,
+"end": 5.44
+},
+{
+"word": "critique.",
+"start": 5.44,
+"end": 5.88
+},
+{
+"word": "Il",
+"start": 6.12,
+"end": 6.18
+},
+{
+"word": "faut",
+"start": 6.18,
+"end": 6.24
+},
+{
+"word": "avoir",
+"start": 6.24,
+"end": 6.38
+},
+{
+"word": "l",
+"start": 6.38,
+"end": 6.46
+},
+{
+"word": "'estomac",
+"start": 6.46,
+"end": 6.76
+},
+{
+"word": "bien",
+"start": 6.76,
+"end": 6.9
+},
+{
+"word": "attaché.",
+"start": 6.9,
+"end": 7.32
+}
+]
+},
+{
+"index": 77,
+"audio": {
+"path": "obs",
+"start": 1051.057,
+"end": 1055.577
+},
+"camera": {
+"path": "cam",
+"start": 1050.34,
+"end": 1054.86
+},
+"frames": 214,
+"text": "au regard des six étapes qui sont enseignées dans le livre, notamment sur le moment où j'ai commencé à présenter mon offre et à faire mon pitch.",
+"words": [
+{
+"word": "au",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "regard",
+"start": 0.28,
+"end": 0.48
+},
+{
+"word": "des",
+"start": 0.48,
+"end": 0.62
+},
+{
+"word": "six",
+"start": 0.62,
+"end": 0.76
+},
+{
+"word": "étapes",
+"start": 0.76,
+"end": 1.08
+},
+{
+"word": "qui",
+"start": 1.08,
+"end": 1.16
+},
+{
+"word": "sont",
+"start": 1.16,
+"end": 1.32
+},
+{
+"word": "enseignées",
+"start": 1.32,
+"end": 1.68
+},
+{
+"word": "dans",
+"start": 1.68,
+"end": 1.76
+},
+{
+"word": "le",
+"start": 1.76,
+"end": 1.84
+},
+{
+"word": "livre,",
+"start": 1.84,
+"end": 1.98
+},
+{
+"word": "notamment",
+"start": 2.06,
+"end": 2.22
+},
+{
+"word": "sur",
+"start": 2.22,
+"end": 2.4
+},
+{
+"word": "le",
+"start": 2.4,
+"end": 2.48
+},
+{
+"word": "moment",
+"start": 2.48,
+"end": 2.66
+},
+{
+"word": "où",
+"start": 2.66,
+"end": 2.78
+},
+{
+"word": "j",
+"start": 2.78,
+"end": 2.86
+},
+{
+"word": "'ai",
+"start": 2.86,
+"end": 2.92
+},
+{
+"word": "commencé",
+"start": 2.92,
+"end": 3.16
+},
+{
+"word": "à",
+"start": 3.16,
+"end": 3.34
+},
+{
+"word": "présenter",
+"start": 3.34,
+"end": 3.78
+},
+{
+"word": "mon",
+"start": 3.78,
+"end": 3.92
+},
+{
+"word": "offre",
+"start": 3.92,
+"end": 4.22
+},
+{
+"word": "et",
+"start": 4.22,
+"end": 4.26
+},
+{
+"word": "à",
+"start": 4.26,
+"end": 4.32
+},
+{
+"word": "faire",
+"start": 4.32,
+"end": 4.44
+},
+{
+"word": "mon",
+"start": 4.44,
+"end": 4.62
+},
+{
+"word": "pitch.",
+"start": 4.62,
+"end": 4.76
+}
+]
+},
+{
+"index": 78,
+"audio": {
+"path": "obs",
+"start": 1057.997,
+"end": 1062.237
+},
+"camera": {
+"path": "cam",
+"start": 1057.28,
+"end": 1061.52
+},
+"frames": 200,
+"text": "Et ça, ça crée vraiment une boucle d'itération et d'optimisation qui me permettra de m'améliorer au fil du temps.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "ça,",
+"start": 0.28,
+"end": 0.4
+},
+{
+"word": "ça",
+"start": 0.52,
+"end": 0.6
+},
+{
+"word": "crée",
+"start": 0.6,
+"end": 0.78
+},
+{
+"word": "vraiment",
+"start": 0.78,
+"end": 0.94
+},
+{
+"word": "une",
+"start": 0.94,
+"end": 1.12
+},
+{
+"word": "boucle",
+"start": 1.12,
+"end": 1.46
+},
+{
+"word": "d",
+"start": 1.46,
+"end": 1.8
+},
+{
+"word": "'itération",
+"start": 1.8,
+"end": 2.14
+},
+{
+"word": "et",
+"start": 2.14,
+"end": 2.26
+},
+{
+"word": "d",
+"start": 2.26,
+"end": 2.28
+},
+{
+"word": "'optimisation",
+"start": 2.28,
+"end": 2.66
+},
+{
+"word": "qui",
+"start": 2.66,
+"end": 2.84
+},
+{
+"word": "me",
+"start": 2.84,
+"end": 2.98
+},
+{
+"word": "permettra",
+"start": 2.98,
+"end": 3.3
+},
+{
+"word": "de",
+"start": 3.3,
+"end": 3.44
+},
+{
+"word": "m",
+"start": 3.44,
+"end": 3.58
+},
+{
+"word": "'améliorer",
+"start": 3.58,
+"end": 3.92
+},
+{
+"word": "au",
+"start": 3.92,
+"end": 4.0
+},
+{
+"word": "fil",
+"start": 4.0,
+"end": 4.1
+},
+{
+"word": "du",
+"start": 4.1,
+"end": 4.24
+},
+{
+"word": "temps.",
+"start": 4.24,
+"end": 4.32
+}
+]
+},
+{
+"index": 79,
+"audio": {
+"path": "obs",
+"start": 1083.096,
+"end": 1085.647
+},
+"camera": {
+"path": "cam",
+"start": 1082.38,
+"end": 1084.931
+},
+"frames": 120,
+"text": "Le quatrième, il s'appelle Pricing Creativity.",
+"words": [
+{
+"word": "Le",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "quatrième,",
+"start": 0.28,
+"end": 0.86
+},
+{
+"word": "il",
+"start": 0.9,
+"end": 1.02
+},
+{
+"word": "s",
+"start": 1.02,
+"end": 1.14
+},
+{
+"word": "'appelle",
+"start": 1.14,
+"end": 1.32
+},
+{
+"word": "Pricing",
+"start": 1.32,
+"end": 1.98
+},
+{
+"word": "Creativity.",
+"start": 1.98,
+"end": 2.48
+}
+]
+},
+{
+"index": 80,
+"audio": {
+"path": "obs",
+"start": 1098.556,
+"end": 1104.776
+},
+"camera": {
+"path": "cam",
+"start": 1097.84,
+"end": 1104.06
+},
+"frames": 293,
+"text": "Quand vous demandez à Claude de vous aider à fixer le prix d'un projet que vous voulez mettre en place, il va vous proposer des montants qui sont complètement forfelus.",
+"words": [
+{
+"word": "Quand",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "vous",
+"start": 0.24,
+"end": 0.32
+},
+{
+"word": "demandez",
+"start": 0.32,
+"end": 0.58
+},
+{
+"word": "à",
+"start": 0.58,
+"end": 0.62
+},
+{
+"word": "Claude",
+"start": 0.62,
+"end": 0.82
+},
+{
+"word": "de",
+"start": 0.82,
+"end": 0.9
+},
+{
+"word": "vous",
+"start": 0.9,
+"end": 0.98
+},
+{
+"word": "aider",
+"start": 0.98,
+"end": 1.14
+},
+{
+"word": "à",
+"start": 1.14,
+"end": 1.26
+},
+{
+"word": "fixer",
+"start": 1.26,
+"end": 1.58
+},
+{
+"word": "le",
+"start": 1.58,
+"end": 1.64
+},
+{
+"word": "prix",
+"start": 1.64,
+"end": 1.82
+},
+{
+"word": "d",
+"start": 1.82,
+"end": 1.94
+},
+{
+"word": "'un",
+"start": 1.94,
+"end": 2.02
+},
+{
+"word": "projet",
+"start": 2.02,
+"end": 2.36
+},
+{
+"word": "que",
+"start": 2.36,
+"end": 2.48
+},
+{
+"word": "vous",
+"start": 2.48,
+"end": 2.58
+},
+{
+"word": "voulez",
+"start": 2.58,
+"end": 2.76
+},
+{
+"word": "mettre",
+"start": 2.76,
+"end": 2.92
+},
+{
+"word": "en",
+"start": 2.92,
+"end": 3.08
+},
+{
+"word": "place,",
+"start": 3.08,
+"end": 3.34
+},
+{
+"word": "il",
+"start": 3.64,
+"end": 3.64
+},
+{
+"word": "va",
+"start": 3.64,
+"end": 3.76
+},
+{
+"word": "vous",
+"start": 3.76,
+"end": 3.86
+},
+{
+"word": "proposer",
+"start": 3.86,
+"end": 4.24
+},
+{
+"word": "des",
+"start": 4.24,
+"end": 4.36
+},
+{
+"word": "montants",
+"start": 4.36,
+"end": 4.7
+},
+{
+"word": "qui",
+"start": 4.7,
+"end": 4.86
+},
+{
+"word": "sont",
+"start": 4.86,
+"end": 5.08
+},
+{
+"word": "complètement",
+"start": 5.08,
+"end": 5.8
+},
+{
+"word": "forfelus.",
+"start": 5.8,
+"end": 6.38
+}
+]
+},
+{
+"index": 81,
+"audio": {
+"path": "obs",
+"start": 1106.376,
+"end": 1109.016
+},
+"camera": {
+"path": "cam",
+"start": 1105.66,
+"end": 1108.3
+},
+"frames": 125,
+"text": "C'est littéralement incohérent et inutilisable.",
+"words": [
+{
+"word": "C",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "'est",
+"start": 0.2,
+"end": 0.28
+},
+{
+"word": "littéralement",
+"start": 0.28,
+"end": 0.8
+},
+{
+"word": "incohérent",
+"start": 0.8,
+"end": 1.44
+},
+{
+"word": "et",
+"start": 1.44,
+"end": 1.78
+},
+{
+"word": "inutilisable.",
+"start": 1.78,
+"end": 2.72
+}
+]
+},
+{
+"index": 82,
+"audio": {
+"path": "obs",
+"start": 1117.336,
+"end": 1127.036
+},
+"camera": {
+"path": "cam",
+"start": 1116.62,
+"end": 1126.32
+},
+"frames": 457,
+"text": "Les méthodes qui sont signées dans ce livre ont fait littéralement des règles que Claude peut appliquer plutôt qu'un état d'esprit qui vague. C'est vraiment des consignes qui sont précises que Claude peut littéralement suivre étape par étape.",
+"words": [
+{
+"word": "Les",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "méthodes",
+"start": 0.32,
+"end": 0.68
+},
+{
+"word": "qui",
+"start": 0.68,
+"end": 0.76
+},
+{
+"word": "sont",
+"start": 0.76,
+"end": 0.9
+},
+{
+"word": "signées",
+"start": 0.9,
+"end": 1.14
+},
+{
+"word": "dans",
+"start": 1.14,
+"end": 1.2
+},
+{
+"word": "ce",
+"start": 1.2,
+"end": 1.3
+},
+{
+"word": "livre",
+"start": 1.3,
+"end": 1.52
+},
+{
+"word": "ont",
+"start": 1.52,
+"end": 1.68
+},
+{
+"word": "fait",
+"start": 1.68,
+"end": 1.82
+},
+{
+"word": "littéralement",
+"start": 1.82,
+"end": 2.3
+},
+{
+"word": "des",
+"start": 2.3,
+"end": 2.4
+},
+{
+"word": "règles",
+"start": 2.4,
+"end": 2.7
+},
+{
+"word": "que",
+"start": 2.7,
+"end": 3.02
+},
+{
+"word": "Claude",
+"start": 3.02,
+"end": 3.3
+},
+{
+"word": "peut",
+"start": 3.3,
+"end": 3.5
+},
+{
+"word": "appliquer",
+"start": 3.5,
+"end": 4.08
+},
+{
+"word": "plutôt",
+"start": 4.08,
+"end": 4.48
+},
+{
+"word": "qu",
+"start": 4.48,
+"end": 4.66
+},
+{
+"word": "'un",
+"start": 4.66,
+"end": 5.06
+},
+{
+"word": "état",
+"start": 5.06,
+"end": 5.26
+},
+{
+"word": "d",
+"start": 5.26,
+"end": 5.32
+},
+{
+"word": "'esprit",
+"start": 5.32,
+"end": 5.54
+},
+{
+"word": "qui",
+"start": 5.54,
+"end": 5.72
+},
+{
+"word": "vague.",
+"start": 5.72,
+"end": 6.08
+},
+{
+"word": "C",
+"start": 6.24,
+"end": 6.3
+},
+{
+"word": "'est",
+"start": 6.3,
+"end": 6.4
+},
+{
+"word": "vraiment",
+"start": 6.4,
+"end": 6.56
+},
+{
+"word": "des",
+"start": 6.56,
+"end": 6.7
+},
+{
+"word": "consignes",
+"start": 6.7,
+"end": 7.04
+},
+{
+"word": "qui",
+"start": 7.04,
+"end": 7.12
+},
+{
+"word": "sont",
+"start": 7.12,
+"end": 7.3
+},
+{
+"word": "précises",
+"start": 7.3,
+"end": 7.84
+},
+{
+"word": "que",
+"start": 7.84,
+"end": 7.96
+},
+{
+"word": "Claude",
+"start": 7.96,
+"end": 8.2
+},
+{
+"word": "peut",
+"start": 8.2,
+"end": 8.3
+},
+{
+"word": "littéralement",
+"start": 8.3,
+"end": 8.78
+},
+{
+"word": "suivre",
+"start": 8.78,
+"end": 9.32
+},
+{
+"word": "étape",
+"start": 9.32,
+"end": 9.62
+},
+{
+"word": "par",
+"start": 9.62,
+"end": 9.74
+},
+{
+"word": "étape.",
+"start": 9.74,
+"end": 9.98
+}
+]
+},
+{
+"index": 83,
+"audio": {
+"path": "obs",
+"start": 1130.716,
+"end": 1135.836
+},
+"camera": {
+"path": "cam",
+"start": 1130.0,
+"end": 1135.12
+},
+"frames": 242,
+"text": "Sous forme de skill, ça empêche donc complètement Claude de deviner l'option la plus probable pour un prix.",
+"words": [
+{
+"word": "Sous",
+"start": 0.0,
+"end": 0.3
+},
+{
+"word": "forme",
+"start": 0.3,
+"end": 0.46
+},
+{
+"word": "de",
+"start": 0.46,
+"end": 0.56
+},
+{
+"word": "skill,",
+"start": 0.56,
+"end": 0.82
+},
+{
+"word": "ça",
+"start": 1.02,
+"end": 1.02
+},
+{
+"word": "empêche",
+"start": 1.02,
+"end": 1.36
+},
+{
+"word": "donc",
+"start": 1.36,
+"end": 1.52
+},
+{
+"word": "complètement",
+"start": 1.52,
+"end": 2.36
+},
+{
+"word": "Claude",
+"start": 2.36,
+"end": 2.78
+},
+{
+"word": "de",
+"start": 2.78,
+"end": 3.0
+},
+{
+"word": "deviner",
+"start": 3.0,
+"end": 3.52
+},
+{
+"word": "l",
+"start": 3.52,
+"end": 3.62
+},
+{
+"word": "'option",
+"start": 3.62,
+"end": 3.88
+},
+{
+"word": "la",
+"start": 3.88,
+"end": 4.0
+},
+{
+"word": "plus",
+"start": 4.0,
+"end": 4.14
+},
+{
+"word": "probable",
+"start": 4.14,
+"end": 4.44
+},
+{
+"word": "pour",
+"start": 4.44,
+"end": 4.66
+},
+{
+"word": "un",
+"start": 4.66,
+"end": 4.78
+},
+{
+"word": "prix.",
+"start": 4.78,
+"end": 4.96
+}
+]
+},
+{
+"index": 84,
+"audio": {
+"path": "obs",
+"start": 1137.456,
+"end": 1141.516
+},
+"camera": {
+"path": "cam",
+"start": 1136.74,
+"end": 1140.8
+},
+"frames": 191,
+"text": "il va me donner quelque chose dont il est réellement certain qui est basé sur de l'information et de la data réelle.",
+"words": [
+{
+"word": "il",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "va",
+"start": 0.22,
+"end": 0.3
+},
+{
+"word": "me",
+"start": 0.3,
+"end": 0.4
+},
+{
+"word": "donner",
+"start": 0.4,
+"end": 0.54
+},
+{
+"word": "quelque",
+"start": 0.54,
+"end": 0.7
+},
+{
+"word": "chose",
+"start": 0.7,
+"end": 0.84
+},
+{
+"word": "dont",
+"start": 0.84,
+"end": 0.94
+},
+{
+"word": "il",
+"start": 0.94,
+"end": 1.1
+},
+{
+"word": "est",
+"start": 1.1,
+"end": 1.24
+},
+{
+"word": "réellement",
+"start": 1.24,
+"end": 1.58
+},
+{
+"word": "certain",
+"start": 1.58,
+"end": 1.98
+},
+{
+"word": "qui",
+"start": 1.98,
+"end": 2.2
+},
+{
+"word": "est",
+"start": 2.2,
+"end": 2.3
+},
+{
+"word": "basé",
+"start": 2.3,
+"end": 2.52
+},
+{
+"word": "sur",
+"start": 2.52,
+"end": 2.7
+},
+{
+"word": "de",
+"start": 2.7,
+"end": 2.8
+},
+{
+"word": "l",
+"start": 2.8,
+"end": 2.92
+},
+{
+"word": "'information",
+"start": 2.92,
+"end": 3.26
+},
+{
+"word": "et",
+"start": 3.26,
+"end": 3.6
+},
+{
+"word": "de",
+"start": 3.6,
+"end": 3.64
+},
+{
+"word": "la",
+"start": 3.64,
+"end": 3.7
+},
+{
+"word": "data",
+"start": 3.7,
+"end": 3.88
+},
+{
+"word": "réelle.",
+"start": 3.88,
+"end": 4.16
+}
+]
+},
+{
+"index": 85,
+"audio": {
+"path": "obs",
+"start": 1146.676,
+"end": 1152.916
+},
+"camera": {
+"path": "cam",
+"start": 1145.96,
+"end": 1152.2
+},
+"frames": 295,
+"text": "Pourquoi ? Parce qu'il va littéralement lire toutes les transcriptions de mes appels de vente, va relever la valeur que le client peut attribuer à ce résultat-là.",
+"words": [
+{
+"word": "Pourquoi",
+"start": 0.0,
+"end": 0.36
+},
+{
+"word": "?",
+"start": 0.36,
+"end": 0.56
+},
+{
+"word": "Parce",
+"start": 0.56,
+"end": 0.68
+},
+{
+"word": "qu",
+"start": 0.68,
+"end": 0.74
+},
+{
+"word": "'il",
+"start": 0.74,
+"end": 0.84
+},
+{
+"word": "va",
+"start": 0.84,
+"end": 0.92
+},
+{
+"word": "littéralement",
+"start": 0.92,
+"end": 1.32
+},
+{
+"word": "lire",
+"start": 1.32,
+"end": 1.52
+},
+{
+"word": "toutes",
+"start": 1.52,
+"end": 1.82
+},
+{
+"word": "les",
+"start": 1.82,
+"end": 1.98
+},
+{
+"word": "transcriptions",
+"start": 1.98,
+"end": 2.56
+},
+{
+"word": "de",
+"start": 2.56,
+"end": 2.7
+},
+{
+"word": "mes",
+"start": 2.7,
+"end": 2.9
+},
+{
+"word": "appels",
+"start": 2.9,
+"end": 3.22
+},
+{
+"word": "de",
+"start": 3.22,
+"end": 3.38
+},
+{
+"word": "vente,",
+"start": 3.38,
+"end": 3.6
+},
+{
+"word": "va",
+"start": 3.7,
+"end": 3.78
+},
+{
+"word": "relever",
+"start": 3.78,
+"end": 4.04
+},
+{
+"word": "la",
+"start": 4.04,
+"end": 4.16
+},
+{
+"word": "valeur",
+"start": 4.16,
+"end": 4.5
+},
+{
+"word": "que",
+"start": 4.5,
+"end": 4.64
+},
+{
+"word": "le",
+"start": 4.64,
+"end": 4.72
+},
+{
+"word": "client",
+"start": 4.72,
+"end": 4.9
+},
+{
+"word": "peut",
+"start": 4.9,
+"end": 5.06
+},
+{
+"word": "attribuer",
+"start": 5.06,
+"end": 5.62
+},
+{
+"word": "à",
+"start": 5.62,
+"end": 5.7
+},
+{
+"word": "ce",
+"start": 5.7,
+"end": 5.8
+},
+{
+"word": "résultat",
+"start": 5.8,
+"end": 6.16
+},
+{
+"word": "-là.",
+"start": 6.16,
+"end": 6.26
+}
+]
+},
+{
+"index": 86,
+"audio": {
+"path": "obs",
+"start": 1165.516,
+"end": 1172.516
+},
+"camera": {
+"path": "cam",
+"start": 1164.8,
+"end": 1171.8
+},
+"frames": 330,
+"text": "Voici comparé avec le budget disponible du client. Il va mettre en relation tous ces chiffres-là pour me faire quelque chose de réellement cohérent plutôt que quelque chose qu'il aurait inventé de zéro.",
+"words": [
+{
+"word": "Voici",
+"start": 0.0,
+"end": 0.36
+},
+{
+"word": "comparé",
+"start": 0.36,
+"end": 0.7
+},
+{
+"word": "avec",
+"start": 0.7,
+"end": 0.82
+},
+{
+"word": "le",
+"start": 0.82,
+"end": 0.96
+},
+{
+"word": "budget",
+"start": 0.96,
+"end": 1.22
+},
+{
+"word": "disponible",
+"start": 1.22,
+"end": 1.56
+},
+{
+"word": "du",
+"start": 1.56,
+"end": 1.66
+},
+{
+"word": "client.",
+"start": 1.66,
+"end": 1.94
+},
+{
+"word": "Il",
+"start": 2.12,
+"end": 2.3
+},
+{
+"word": "va",
+"start": 2.3,
+"end": 2.42
+},
+{
+"word": "mettre",
+"start": 2.42,
+"end": 2.62
+},
+{
+"word": "en",
+"start": 2.62,
+"end": 2.74
+},
+{
+"word": "relation",
+"start": 2.74,
+"end": 3.04
+},
+{
+"word": "tous",
+"start": 3.04,
+"end": 3.4
+},
+{
+"word": "ces",
+"start": 3.4,
+"end": 3.6
+},
+{
+"word": "chiffres",
+"start": 3.6,
+"end": 4.0
+},
+{
+"word": "-là",
+"start": 4.0,
+"end": 4.12
+},
+{
+"word": "pour",
+"start": 4.12,
+"end": 4.36
+},
+{
+"word": "me",
+"start": 4.36,
+"end": 4.46
+},
+{
+"word": "faire",
+"start": 4.46,
+"end": 4.58
+},
+{
+"word": "quelque",
+"start": 4.58,
+"end": 4.7
+},
+{
+"word": "chose",
+"start": 4.7,
+"end": 4.84
+},
+{
+"word": "de",
+"start": 4.84,
+"end": 4.98
+},
+{
+"word": "réellement",
+"start": 4.98,
+"end": 5.38
+},
+{
+"word": "cohérent",
+"start": 5.38,
+"end": 5.7
+},
+{
+"word": "plutôt",
+"start": 5.7,
+"end": 5.88
+},
+{
+"word": "que",
+"start": 5.88,
+"end": 5.98
+},
+{
+"word": "quelque",
+"start": 5.98,
+"end": 6.08
+},
+{
+"word": "chose",
+"start": 6.08,
+"end": 6.2
+},
+{
+"word": "qu",
+"start": 6.2,
+"end": 6.26
+},
+{
+"word": "'il",
+"start": 6.26,
+"end": 6.32
+},
+{
+"word": "aurait",
+"start": 6.32,
+"end": 6.46
+},
+{
+"word": "inventé",
+"start": 6.46,
+"end": 6.94
+},
+{
+"word": "de",
+"start": 6.94,
+"end": 7.02
+},
+{
+"word": "zéro.",
+"start": 7.02,
+"end": 7.18
+}
+]
+},
+{
+"index": 87,
+"audio": {
+"path": "obs",
+"start": 1176.756,
+"end": 1182.056
+},
+"camera": {
+"path": "cam",
+"start": 1176.04,
+"end": 1181.34
+},
+"frames": 250,
+"text": "Il est même capable, avec ce skill, de rédiger toute la proposition commerciale qui s'en suit, comme le livre va l'enseigner.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "est",
+"start": 0.26,
+"end": 0.36
+},
+{
+"word": "même",
+"start": 0.36,
+"end": 0.46
+},
+{
+"word": "capable,",
+"start": 0.46,
+"end": 0.84
+},
+{
+"word": "avec",
+"start": 0.92,
+"end": 1.18
+},
+{
+"word": "ce",
+"start": 1.18,
+"end": 1.32
+},
+{
+"word": "skill,",
+"start": 1.32,
+"end": 1.54
+},
+{
+"word": "de",
+"start": 1.8,
+"end": 1.86
+},
+{
+"word": "rédiger",
+"start": 1.86,
+"end": 2.12
+},
+{
+"word": "toute",
+"start": 2.12,
+"end": 2.28
+},
+{
+"word": "la",
+"start": 2.28,
+"end": 2.4
+},
+{
+"word": "proposition",
+"start": 2.4,
+"end": 2.92
+},
+{
+"word": "commerciale",
+"start": 2.92,
+"end": 3.44
+},
+{
+"word": "qui",
+"start": 3.44,
+"end": 3.5
+},
+{
+"word": "s",
+"start": 3.5,
+"end": 3.62
+},
+{
+"word": "'en",
+"start": 3.62,
+"end": 3.68
+},
+{
+"word": "suit,",
+"start": 3.68,
+"end": 3.94
+},
+{
+"word": "comme",
+"start": 4.08,
+"end": 4.34
+},
+{
+"word": "le",
+"start": 4.34,
+"end": 4.48
+},
+{
+"word": "livre",
+"start": 4.48,
+"end": 4.68
+},
+{
+"word": "va",
+"start": 4.68,
+"end": 4.84
+},
+{
+"word": "l",
+"start": 4.84,
+"end": 4.92
+},
+{
+"word": "'enseigner.",
+"start": 4.92,
+"end": 5.3
+}
+]
+},
+{
+"index": 88,
+"audio": {
+"path": "obs",
+"start": 1187.716,
+"end": 1190.736
+},
+"camera": {
+"path": "cam",
+"start": 1187.0,
+"end": 1190.02
+},
+"frames": 142,
+"text": "C'est littéralement mon préféré dans la liste, c'est spectaculaire.",
+"words": [
+{
+"word": "C",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "'est",
+"start": 0.22,
+"end": 0.32
+},
+{
+"word": "littéralement",
+"start": 0.32,
+"end": 0.74
+},
+{
+"word": "mon",
+"start": 0.74,
+"end": 0.98
+},
+{
+"word": "préféré",
+"start": 0.98,
+"end": 1.6
+},
+{
+"word": "dans",
+"start": 1.6,
+"end": 1.7
+},
+{
+"word": "la",
+"start": 1.7,
+"end": 1.82
+},
+{
+"word": "liste,",
+"start": 1.82,
+"end": 2.14
+},
+{
+"word": "c",
+"start": 2.26,
+"end": 2.26
+},
+{
+"word": "'est",
+"start": 2.26,
+"end": 2.4
+},
+{
+"word": "spectaculaire.",
+"start": 2.4,
+"end": 3.22
+}
+]
+},
+{
+"index": 89,
+"audio": {
+"path": "obs",
+"start": 1194.716,
+"end": 1197.635
+},
+"camera": {
+"path": "cam",
+"start": 1194.0,
+"end": 1196.919
+},
+"frames": 138,
+"text": "Le dernier livre que j'ai donné à Claude, c'est quelque chose d'un peu différent.",
+"words": [
+{
+"word": "Le",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "dernier",
+"start": 0.24,
+"end": 0.44
+},
+{
+"word": "livre",
+"start": 0.44,
+"end": 0.7
+},
+{
+"word": "que",
+"start": 0.7,
+"end": 0.78
+},
+{
+"word": "j",
+"start": 0.78,
+"end": 0.84
+},
+{
+"word": "'ai",
+"start": 0.84,
+"end": 0.9
+},
+{
+"word": "donné",
+"start": 0.9,
+"end": 1.02
+},
+{
+"word": "à",
+"start": 1.02,
+"end": 1.18
+},
+{
+"word": "Claude,",
+"start": 1.18,
+"end": 1.46
+},
+{
+"word": "c",
+"start": 1.6,
+"end": 1.66
+},
+{
+"word": "'est",
+"start": 1.66,
+"end": 1.7
+},
+{
+"word": "quelque",
+"start": 1.7,
+"end": 1.84
+},
+{
+"word": "chose",
+"start": 1.84,
+"end": 2.02
+},
+{
+"word": "d",
+"start": 2.02,
+"end": 2.12
+},
+{
+"word": "'un",
+"start": 2.12,
+"end": 2.22
+},
+{
+"word": "peu",
+"start": 2.22,
+"end": 2.34
+},
+{
+"word": "différent.",
+"start": 2.34,
+"end": 2.66
+}
+]
+},
+{
+"index": 90,
+"audio": {
+"path": "obs",
+"start": 1199.036,
+"end": 1201.136
+},
+"camera": {
+"path": "cam",
+"start": 1198.32,
+"end": 1200.42
+},
+"frames": 99,
+"text": "Il doit m'aider à prendre de meilleures décisions.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "doit",
+"start": 0.24,
+"end": 0.36
+},
+{
+"word": "m",
+"start": 0.36,
+"end": 0.5
+},
+{
+"word": "'aider",
+"start": 0.5,
+"end": 0.68
+},
+{
+"word": "à",
+"start": 0.68,
+"end": 1.06
+},
+{
+"word": "prendre",
+"start": 1.06,
+"end": 1.54
+},
+{
+"word": "de",
+"start": 1.54,
+"end": 1.66
+},
+{
+"word": "meilleures",
+"start": 1.66,
+"end": 1.88
+},
+{
+"word": "décisions.",
+"start": 1.88,
+"end": 2.22
+}
+]
+},
+{
+"index": 91,
+"audio": {
+"path": "obs",
+"start": 1206.356,
+"end": 1215.356
+},
+"camera": {
+"path": "cam",
+"start": 1205.64,
+"end": 1214.64
+},
+"frames": 425,
+"text": "Et si vous avez déjà essayé d'utiliser Cloud pour ça, vous savez à quel point c'est insupportable. Vous pouvez lui donner la pire décision sur Terre et il va vous dire oui, c'est parfait. Let's go, tu as toutes tes chances.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "si",
+"start": 0.24,
+"end": 0.5
+},
+{
+"word": "vous",
+"start": 0.5,
+"end": 0.64
+},
+{
+"word": "avez",
+"start": 0.64,
+"end": 0.86
+},
+{
+"word": "déjà",
+"start": 0.86,
+"end": 1.22
+},
+{
+"word": "essayé",
+"start": 1.22,
+"end": 1.7
+},
+{
+"word": "d",
+"start": 1.7,
+"end": 1.78
+},
+{
+"word": "'utiliser",
+"start": 1.78,
+"end": 2.02
+},
+{
+"word": "Cloud",
+"start": 2.02,
+"end": 2.2
+},
+{
+"word": "pour",
+"start": 2.2,
+"end": 2.44
+},
+{
+"word": "ça,",
+"start": 2.44,
+"end": 2.58
+},
+{
+"word": "vous",
+"start": 2.64,
+"end": 2.74
+},
+{
+"word": "savez",
+"start": 2.74,
+"end": 3.1
+},
+{
+"word": "à",
+"start": 3.1,
+"end": 3.24
+},
+{
+"word": "quel",
+"start": 3.24,
+"end": 3.32
+},
+{
+"word": "point",
+"start": 3.32,
+"end": 3.48
+},
+{
+"word": "c",
+"start": 3.48,
+"end": 3.6
+},
+{
+"word": "'est",
+"start": 3.6,
+"end": 3.7
+},
+{
+"word": "insupportable.",
+"start": 3.7,
+"end": 4.4
+},
+{
+"word": "Vous",
+"start": 4.52,
+"end": 4.76
+},
+{
+"word": "pouvez",
+"start": 4.76,
+"end": 4.9
+},
+{
+"word": "lui",
+"start": 4.9,
+"end": 4.96
+},
+{
+"word": "donner",
+"start": 4.96,
+"end": 5.08
+},
+{
+"word": "la",
+"start": 5.08,
+"end": 5.26
+},
+{
+"word": "pire",
+"start": 5.26,
+"end": 5.58
+},
+{
+"word": "décision",
+"start": 5.58,
+"end": 6.0
+},
+{
+"word": "sur",
+"start": 6.0,
+"end": 6.2
+},
+{
+"word": "Terre",
+"start": 6.2,
+"end": 6.38
+},
+{
+"word": "et",
+"start": 6.38,
+"end": 6.5
+},
+{
+"word": "il",
+"start": 6.5,
+"end": 6.54
+},
+{
+"word": "va",
+"start": 6.54,
+"end": 6.58
+},
+{
+"word": "vous",
+"start": 6.58,
+"end": 6.7
+},
+{
+"word": "dire",
+"start": 6.7,
+"end": 6.88
+},
+{
+"word": "oui,",
+"start": 6.88,
+"end": 7.14
+},
+{
+"word": "c",
+"start": 7.34,
+"end": 7.36
+},
+{
+"word": "'est",
+"start": 7.36,
+"end": 7.42
+},
+{
+"word": "parfait.",
+"start": 7.42,
+"end": 7.64
+},
+{
+"word": "Let's",
+"start": 8.06,
+"end": 8.28
+},
+{
+"word": "go,",
+"start": 8.28,
+"end": 8.42
+},
+{
+"word": "tu",
+"start": 8.46,
+"end": 8.5
+},
+{
+"word": "as",
+"start": 8.5,
+"end": 8.56
+},
+{
+"word": "toutes",
+"start": 8.56,
+"end": 8.66
+},
+{
+"word": "tes",
+"start": 8.66,
+"end": 8.82
+},
+{
+"word": "chances.",
+"start": 8.82,
+"end": 9.04
+}
+]
+},
+{
+"index": 92,
+"audio": {
+"path": "obs",
+"start": 1227.696,
+"end": 1231.416
+},
+"camera": {
+"path": "cam",
+"start": 1226.98,
+"end": 1230.7
+},
+"frames": 175,
+"text": "Pour y remédier, je lui ai donné une méthode qui me guide dans la prise de décision au quotidien.",
+"words": [
+{
+"word": "Pour",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "y",
+"start": 0.26,
+"end": 0.38
+},
+{
+"word": "remédier,",
+"start": 0.38,
+"end": 0.76
+},
+{
+"word": "je",
+"start": 0.88,
+"end": 0.9
+},
+{
+"word": "lui",
+"start": 0.9,
+"end": 0.98
+},
+{
+"word": "ai",
+"start": 0.98,
+"end": 1.1
+},
+{
+"word": "donné",
+"start": 1.1,
+"end": 1.1
+},
+{
+"word": "une",
+"start": 1.1,
+"end": 1.32
+},
+{
+"word": "méthode",
+"start": 1.32,
+"end": 1.68
+},
+{
+"word": "qui",
+"start": 1.68,
+"end": 1.8
+},
+{
+"word": "me",
+"start": 1.8,
+"end": 1.92
+},
+{
+"word": "guide",
+"start": 1.92,
+"end": 2.06
+},
+{
+"word": "dans",
+"start": 2.06,
+"end": 2.42
+},
+{
+"word": "la",
+"start": 2.42,
+"end": 2.56
+},
+{
+"word": "prise",
+"start": 2.56,
+"end": 2.72
+},
+{
+"word": "de",
+"start": 2.72,
+"end": 2.82
+},
+{
+"word": "décision",
+"start": 2.82,
+"end": 3.18
+},
+{
+"word": "au",
+"start": 3.18,
+"end": 3.34
+},
+{
+"word": "quotidien.",
+"start": 3.34,
+"end": 3.76
+}
+]
+},
+{
+"index": 93,
+"audio": {
+"path": "obs",
+"start": 1233.536,
+"end": 1236.436
+},
+"camera": {
+"path": "cam",
+"start": 1232.82,
+"end": 1235.72
+},
+"frames": 137,
+"text": "J'utilisais avant déjà ce livre là mais je me suis dit que ce serait l'occasion de l'essayer.",
+"words": [
+{
+"word": "J",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "'utilisais",
+"start": 0.24,
+"end": 0.54
+},
+{
+"word": "avant",
+"start": 0.54,
+"end": 0.7
+},
+{
+"word": "déjà",
+"start": 0.7,
+"end": 0.86
+},
+{
+"word": "ce",
+"start": 0.86,
+"end": 1.08
+},
+{
+"word": "livre",
+"start": 1.08,
+"end": 1.28
+},
+{
+"word": "là",
+"start": 1.28,
+"end": 1.42
+},
+{
+"word": "mais",
+"start": 1.42,
+"end": 1.6
+},
+{
+"word": "je",
+"start": 1.6,
+"end": 1.7
+},
+{
+"word": "me",
+"start": 1.7,
+"end": 1.8
+},
+{
+"word": "suis",
+"start": 1.8,
+"end": 1.88
+},
+{
+"word": "dit",
+"start": 1.88,
+"end": 2.0
+},
+{
+"word": "que",
+"start": 2.0,
+"end": 2.1
+},
+{
+"word": "ce",
+"start": 2.1,
+"end": 2.18
+},
+{
+"word": "serait",
+"start": 2.18,
+"end": 2.38
+},
+{
+"word": "l",
+"start": 2.38,
+"end": 2.48
+},
+{
+"word": "'occasion",
+"start": 2.48,
+"end": 2.7
+},
+{
+"word": "de",
+"start": 2.7,
+"end": 2.8
+},
+{
+"word": "l",
+"start": 2.8,
+"end": 2.82
+},
+{
+"word": "'essayer.",
+"start": 2.82,
+"end": 3.0
+}
+]
+},
+{
+"index": 94,
+"audio": {
+"path": "obs",
+"start": 1236.916,
+"end": 1239.826
+},
+"camera": {
+"path": "cam",
+"start": 1236.2,
+"end": 1239.11
+},
+"frames": 137,
+"text": "Ça s'appelle Décisive de Chip et DoneEath.",
+"words": [
+{
+"word": "Ça",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "s",
+"start": 0.24,
+"end": 0.3
+},
+{
+"word": "'appelle",
+"start": 0.3,
+"end": 0.48
+},
+{
+"word": "Décisive",
+"start": 0.48,
+"end": 1.16
+},
+{
+"word": "de",
+"start": 1.16,
+"end": 1.34
+},
+{
+"word": "Chip",
+"start": 1.34,
+"end": 1.68
+},
+{
+"word": "et",
+"start": 1.68,
+"end": 2.0
+},
+{
+"word": "DoneEath.",
+"start": 2.0,
+"end": 2.52
+}
+]
+},
+{
+"index": 95,
+"audio": {
+"path": "obs",
+"start": 1244.856,
+"end": 1249.796
+},
+"camera": {
+"path": "cam",
+"start": 1244.14,
+"end": 1249.08
+},
+"frames": 233,
+"text": "Et tout le livre présente en fait un process en quatre étapes pour trancher les solutions quand on est bloqué.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "tout",
+"start": 0.28,
+"end": 0.38
+},
+{
+"word": "le",
+"start": 0.38,
+"end": 0.46
+},
+{
+"word": "livre",
+"start": 0.46,
+"end": 0.62
+},
+{
+"word": "présente",
+"start": 0.62,
+"end": 2.0
+},
+{
+"word": "en",
+"start": 2.0,
+"end": 2.06
+},
+{
+"word": "fait",
+"start": 2.06,
+"end": 2.16
+},
+{
+"word": "un",
+"start": 2.16,
+"end": 2.3
+},
+{
+"word": "process",
+"start": 2.3,
+"end": 2.52
+},
+{
+"word": "en",
+"start": 2.52,
+"end": 2.68
+},
+{
+"word": "quatre",
+"start": 2.68,
+"end": 2.84
+},
+{
+"word": "étapes",
+"start": 2.84,
+"end": 3.24
+},
+{
+"word": "pour",
+"start": 3.24,
+"end": 3.4
+},
+{
+"word": "trancher",
+"start": 3.4,
+"end": 3.94
+},
+{
+"word": "les",
+"start": 3.94,
+"end": 4.04
+},
+{
+"word": "solutions",
+"start": 4.04,
+"end": 4.36
+},
+{
+"word": "quand",
+"start": 4.36,
+"end": 4.6
+},
+{
+"word": "on",
+"start": 4.6,
+"end": 4.7
+},
+{
+"word": "est",
+"start": 4.7,
+"end": 4.78
+},
+{
+"word": "bloqué.",
+"start": 4.78,
+"end": 5.04
+}
+]
+},
+{
+"index": 96,
+"audio": {
+"path": "obs",
+"start": 1252.076,
+"end": 1255.736
+},
+"camera": {
+"path": "cam",
+"start": 1251.36,
+"end": 1255.02
+},
+"frames": 173,
+"text": "Désormais à chaque fois que je bloque sur une décision, je vais le dire à Claude.",
+"words": [
+{
+"word": "Désormais",
+"start": 0.0,
+"end": 0.66
+},
+{
+"word": "à",
+"start": 0.66,
+"end": 0.92
+},
+{
+"word": "chaque",
+"start": 0.92,
+"end": 1.12
+},
+{
+"word": "fois",
+"start": 1.12,
+"end": 1.38
+},
+{
+"word": "que",
+"start": 1.38,
+"end": 1.52
+},
+{
+"word": "je",
+"start": 1.52,
+"end": 1.62
+},
+{
+"word": "bloque",
+"start": 1.62,
+"end": 1.82
+},
+{
+"word": "sur",
+"start": 1.82,
+"end": 2.02
+},
+{
+"word": "une",
+"start": 2.02,
+"end": 2.16
+},
+{
+"word": "décision,",
+"start": 2.16,
+"end": 2.6
+},
+{
+"word": "je",
+"start": 2.86,
+"end": 2.88
+},
+{
+"word": "vais",
+"start": 2.88,
+"end": 2.98
+},
+{
+"word": "le",
+"start": 2.98,
+"end": 3.06
+},
+{
+"word": "dire",
+"start": 3.06,
+"end": 3.28
+},
+{
+"word": "à",
+"start": 3.28,
+"end": 3.46
+},
+{
+"word": "Claude.",
+"start": 3.46,
+"end": 3.64
+}
+]
+},
+{
+"index": 97,
+"audio": {
+"path": "obs",
+"start": 1259.596,
+"end": 1261.776
+},
+"camera": {
+"path": "cam",
+"start": 1258.88,
+"end": 1261.06
+},
+"frames": 103,
+"text": "Il va littéralement me faire suivre leur méthode en cas de temps.",
+"words": [
+{
+"word": "Il",
+"start": 0.0,
+"end": 0.24
+},
+{
+"word": "va",
+"start": 0.24,
+"end": 0.38
+},
+{
+"word": "littéralement",
+"start": 0.38,
+"end": 0.7
+},
+{
+"word": "me",
+"start": 0.7,
+"end": 0.76
+},
+{
+"word": "faire",
+"start": 0.76,
+"end": 0.88
+},
+{
+"word": "suivre",
+"start": 0.88,
+"end": 1.1
+},
+{
+"word": "leur",
+"start": 1.1,
+"end": 1.24
+},
+{
+"word": "méthode",
+"start": 1.24,
+"end": 1.6
+},
+{
+"word": "en",
+"start": 1.6,
+"end": 1.84
+},
+{
+"word": "cas",
+"start": 1.84,
+"end": 1.98
+},
+{
+"word": "de",
+"start": 1.98,
+"end": 2.08
+},
+{
+"word": "temps.",
+"start": 2.08,
+"end": 2.18
+}
+]
+},
+{
+"index": 98,
+"audio": {
+"path": "obs",
+"start": 1272.316,
+"end": 1280.687
+},
+"camera": {
+"path": "cam",
+"start": 1271.6,
+"end": 1279.971
+},
+"frames": 395,
+"text": "L'idée n'est absolument pas de déléguer ma décision à Claude, mais simplement de me challenger et de me faire aller plus loin que la réflexion que je pourrais avoir de base. Et croyez-moi, les résultats sont assez dingues.",
+"words": [
+{
+"word": "L",
+"start": 0.0,
+"end": 0.36
+},
+{
+"word": "'idée",
+"start": 0.36,
+"end": 0.5
+},
+{
+"word": "n",
+"start": 0.5,
+"end": 0.58
+},
+{
+"word": "'est",
+"start": 0.58,
+"end": 0.66
+},
+{
+"word": "absolument",
+"start": 0.66,
+"end": 0.92
+},
+{
+"word": "pas",
+"start": 0.92,
+"end": 1.16
+},
+{
+"word": "de",
+"start": 1.16,
+"end": 1.3
+},
+{
+"word": "déléguer",
+"start": 1.3,
+"end": 1.64
+},
+{
+"word": "ma",
+"start": 1.64,
+"end": 1.72
+},
+{
+"word": "décision",
+"start": 1.72,
+"end": 2.08
+},
+{
+"word": "à",
+"start": 2.08,
+"end": 2.22
+},
+{
+"word": "Claude,",
+"start": 2.22,
+"end": 2.36
+},
+{
+"word": "mais",
+"start": 2.44,
+"end": 2.48
+},
+{
+"word": "simplement",
+"start": 2.48,
+"end": 2.82
+},
+{
+"word": "de",
+"start": 2.82,
+"end": 3.06
+},
+{
+"word": "me",
+"start": 3.06,
+"end": 3.14
+},
+{
+"word": "challenger",
+"start": 3.14,
+"end": 3.78
+},
+{
+"word": "et",
+"start": 3.78,
+"end": 4.02
+},
+{
+"word": "de",
+"start": 4.02,
+"end": 4.1
+},
+{
+"word": "me",
+"start": 4.1,
+"end": 4.24
+},
+{
+"word": "faire",
+"start": 4.24,
+"end": 4.4
+},
+{
+"word": "aller",
+"start": 4.4,
+"end": 4.56
+},
+{
+"word": "plus",
+"start": 4.56,
+"end": 4.8
+},
+{
+"word": "loin",
+"start": 4.8,
+"end": 4.98
+},
+{
+"word": "que",
+"start": 4.98,
+"end": 5.06
+},
+{
+"word": "la",
+"start": 5.06,
+"end": 5.14
+},
+{
+"word": "réflexion",
+"start": 5.14,
+"end": 5.5
+},
+{
+"word": "que",
+"start": 5.5,
+"end": 5.58
+},
+{
+"word": "je",
+"start": 5.58,
+"end": 5.6
+},
+{
+"word": "pourrais",
+"start": 5.6,
+"end": 5.84
+},
+{
+"word": "avoir",
+"start": 5.84,
+"end": 5.96
+},
+{
+"word": "de",
+"start": 5.96,
+"end": 6.06
+},
+{
+"word": "base.",
+"start": 6.06,
+"end": 6.32
+},
+{
+"word": "Et",
+"start": 6.58,
+"end": 6.58
+},
+{
+"word": "croyez",
+"start": 6.58,
+"end": 6.94
+},
+{
+"word": "-moi,",
+"start": 6.94,
+"end": 7.08
+},
+{
+"word": "les",
+"start": 7.18,
+"end": 7.22
+},
+{
+"word": "résultats",
+"start": 7.22,
+"end": 7.66
+},
+{
+"word": "sont",
+"start": 7.66,
+"end": 7.84
+},
+{
+"word": "assez",
+"start": 7.84,
+"end": 8.18
+},
+{
+"word": "dingues.",
+"start": 8.18,
+"end": 8.48
+}
+]
+},
+{
+"index": 99,
+"audio": {
+"path": "obs",
+"start": 1297.616,
+"end": 1300.096
+},
+"camera": {
+"path": "cam",
+"start": 1296.9,
+"end": 1299.38
+},
+"frames": 116,
+"text": "Maintenant, je dois quand même être honnête, il y a certaines limites.",
+"words": [
+{
+"word": "Maintenant,",
+"start": 0.32,
+"end": 0.56
+},
+{
+"word": "je",
+"start": 0.68,
+"end": 0.72
+},
+{
+"word": "dois",
+"start": 0.72,
+"end": 0.86
+},
+{
+"word": "quand",
+"start": 0.86,
+"end": 0.96
+},
+{
+"word": "même",
+"start": 0.96,
+"end": 1.06
+},
+{
+"word": "être",
+"start": 1.06,
+"end": 1.22
+},
+{
+"word": "honnête,",
+"start": 1.22,
+"end": 1.52
+},
+{
+"word": "il",
+"start": 1.58,
+"end": 1.66
+},
+{
+"word": "y",
+"start": 1.66,
+"end": 1.68
+},
+{
+"word": "a",
+"start": 1.68,
+"end": 1.82
+},
+{
+"word": "certaines",
+"start": 1.82,
+"end": 2.3
+},
+{
+"word": "limites.",
+"start": 2.3,
+"end": 2.68
+}
+]
+},
+{
+"index": 100,
+"audio": {
+"path": "obs",
+"start": 1305.876,
+"end": 1310.176
+},
+"camera": {
+"path": "cam",
+"start": 1305.16,
+"end": 1309.46
+},
+"frames": 203,
+"text": "Bien sûr, ce ne sera jamais aussi bien que si vous lisiez et apprenez vous-même tout le livre.",
+"words": [
+{
+"word": "Bien",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "sûr,",
+"start": 0.32,
+"end": 0.58
+},
+{
+"word": "ce",
+"start": 0.72,
+"end": 0.74
+},
+{
+"word": "ne",
+"start": 0.74,
+"end": 0.82
+},
+{
+"word": "sera",
+"start": 0.82,
+"end": 0.92
+},
+{
+"word": "jamais",
+"start": 0.92,
+"end": 1.2
+},
+{
+"word": "aussi",
+"start": 1.2,
+"end": 1.4
+},
+{
+"word": "bien",
+"start": 1.4,
+"end": 1.58
+},
+{
+"word": "que",
+"start": 1.58,
+"end": 1.72
+},
+{
+"word": "si",
+"start": 1.72,
+"end": 1.9
+},
+{
+"word": "vous",
+"start": 1.9,
+"end": 2.08
+},
+{
+"word": "lisiez",
+"start": 2.08,
+"end": 2.6
+},
+{
+"word": "et",
+"start": 2.6,
+"end": 2.74
+},
+{
+"word": "apprenez",
+"start": 2.74,
+"end": 3.12
+},
+{
+"word": "vous",
+"start": 3.12,
+"end": 3.42
+},
+{
+"word": "-même",
+"start": 3.42,
+"end": 3.66
+},
+{
+"word": "tout",
+"start": 3.66,
+"end": 4.08
+},
+{
+"word": "le",
+"start": 4.08,
+"end": 4.2
+},
+{
+"word": "livre.",
+"start": 4.2,
+"end": 4.42
+}
+]
+},
+{
+"index": 101,
+"audio": {
+"path": "obs",
+"start": 1311.816,
+"end": 1314.536
+},
+"camera": {
+"path": "cam",
+"start": 1311.1,
+"end": 1313.82
+},
+"frames": 129,
+"text": "Parce qu'on va perdre tout simplement les formulations exactes de l'otheramie.",
+"words": [
+{
+"word": "Parce",
+"start": 0.0,
+"end": 0.2
+},
+{
+"word": "qu",
+"start": 0.2,
+"end": 0.28
+},
+{
+"word": "'on",
+"start": 0.28,
+"end": 0.32
+},
+{
+"word": "va",
+"start": 0.32,
+"end": 0.42
+},
+{
+"word": "perdre",
+"start": 0.42,
+"end": 0.62
+},
+{
+"word": "tout",
+"start": 0.62,
+"end": 0.74
+},
+{
+"word": "simplement",
+"start": 0.74,
+"end": 0.96
+},
+{
+"word": "les",
+"start": 0.96,
+"end": 1.18
+},
+{
+"word": "formulations",
+"start": 1.18,
+"end": 1.6
+},
+{
+"word": "exactes",
+"start": 1.6,
+"end": 2.18
+},
+{
+"word": "de",
+"start": 2.18,
+"end": 2.22
+},
+{
+"word": "l",
+"start": 2.22,
+"end": 2.26
+},
+{
+"word": "'otheramie.",
+"start": 2.26,
+"end": 2.7
+}
+]
+},
+{
+"index": 102,
+"audio": {
+"path": "obs",
+"start": 1315.636,
+"end": 1318.316
+},
+"camera": {
+"path": "cam",
+"start": 1314.92,
+"end": 1317.6
+},
+"frames": 126,
+"text": "Les longues études de cas qui peuvent convenir qui sont parfois hyper importantes.",
+"words": [
+{
+"word": "Les",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "longues",
+"start": 0.28,
+"end": 0.52
+},
+{
+"word": "études",
+"start": 0.52,
+"end": 0.76
+},
+{
+"word": "de",
+"start": 0.76,
+"end": 0.84
+},
+{
+"word": "cas",
+"start": 0.84,
+"end": 0.94
+},
+{
+"word": "qui",
+"start": 0.94,
+"end": 1.06
+},
+{
+"word": "peuvent",
+"start": 1.06,
+"end": 1.18
+},
+{
+"word": "convenir",
+"start": 1.18,
+"end": 1.58
+},
+{
+"word": "qui",
+"start": 1.58,
+"end": 1.7
+},
+{
+"word": "sont",
+"start": 1.7,
+"end": 1.82
+},
+{
+"word": "parfois",
+"start": 1.82,
+"end": 2.06
+},
+{
+"word": "hyper",
+"start": 2.06,
+"end": 2.3
+},
+{
+"word": "importantes.",
+"start": 2.3,
+"end": 2.62
+}
+]
+},
+{
+"index": 103,
+"audio": {
+"path": "obs",
+"start": 1319.656,
+"end": 1323.124
+},
+"camera": {
+"path": "cam",
+"start": 1318.94,
+"end": 1322.408
+},
+"frames": 164,
+"text": "Et on va pas être quand même une partie de la valeur que l'auteur a réussi à faire transcrire dans son livre.",
+"words": [
+{
+"word": "Et",
+"start": 0.0,
+"end": 0.22
+},
+{
+"word": "on",
+"start": 0.22,
+"end": 0.26
+},
+{
+"word": "va",
+"start": 0.26,
+"end": 0.34
+},
+{
+"word": "pas",
+"start": 0.34,
+"end": 0.44
+},
+{
+"word": "être",
+"start": 0.44,
+"end": 0.54
+},
+{
+"word": "quand",
+"start": 0.54,
+"end": 0.6
+},
+{
+"word": "même",
+"start": 0.6,
+"end": 0.68
+},
+{
+"word": "une",
+"start": 0.68,
+"end": 0.84
+},
+{
+"word": "partie",
+"start": 0.84,
+"end": 1.22
+},
+{
+"word": "de",
+"start": 1.22,
+"end": 1.36
+},
+{
+"word": "la",
+"start": 1.36,
+"end": 1.42
+},
+{
+"word": "valeur",
+"start": 1.42,
+"end": 1.64
+},
+{
+"word": "que",
+"start": 1.64,
+"end": 1.78
+},
+{
+"word": "l",
+"start": 1.78,
+"end": 1.88
+},
+{
+"word": "'auteur",
+"start": 1.88,
+"end": 2.06
+},
+{
+"word": "a",
+"start": 2.06,
+"end": 2.18
+},
+{
+"word": "réussi",
+"start": 2.18,
+"end": 2.4
+},
+{
+"word": "à",
+"start": 2.4,
+"end": 2.52
+},
+{
+"word": "faire",
+"start": 2.52,
+"end": 2.7
+},
+{
+"word": "transcrire",
+"start": 2.7,
+"end": 3.08
+},
+{
+"word": "dans",
+"start": 3.08,
+"end": 3.2
+},
+{
+"word": "son",
+"start": 3.2,
+"end": 3.3
+},
+{
+"word": "livre.",
+"start": 3.3,
+"end": 3.5
+}
+]
+},
+{
+"index": 104,
+"audio": {
+"path": "obs",
+"start": 1326.756,
+"end": 1329.776
+},
+"camera": {
+"path": "cam",
+"start": 1326.04,
+"end": 1329.06
+},
+"frames": 142,
+"text": "Mais maintenant, ceux qui ont le meilleur impact d'après mes essais,",
+"words": [
+{
+"word": "Mais",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "maintenant,",
+"start": 0.26,
+"end": 0.6
+},
+{
+"word": "ceux",
+"start": 0.76,
+"end": 1.04
+},
+{
+"word": "qui",
+"start": 1.04,
+"end": 1.18
+},
+{
+"word": "ont",
+"start": 1.18,
+"end": 1.32
+},
+{
+"word": "le",
+"start": 1.32,
+"end": 1.46
+},
+{
+"word": "meilleur",
+"start": 1.46,
+"end": 1.78
+},
+{
+"word": "impact",
+"start": 1.78,
+"end": 2.12
+},
+{
+"word": "d",
+"start": 2.12,
+"end": 2.32
+},
+{
+"word": "'après",
+"start": 2.32,
+"end": 2.48
+},
+{
+"word": "mes",
+"start": 2.48,
+"end": 2.68
+},
+{
+"word": "essais,",
+"start": 2.68,
+"end": 2.94
+}
+]
+},
+{
+"index": 105,
+"audio": {
+"path": "obs",
+"start": 1329.856,
+"end": 1333.036
+},
+"camera": {
+"path": "cam",
+"start": 1329.14,
+"end": 1332.32
+},
+"frames": 150,
+"text": "C'est ceux qui ont de la valeur, pas dans ce qui est dit, mais dans le process à suivre.",
+"words": [
+{
+"word": "C",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "'est",
+"start": 0.28,
+"end": 0.32
+},
+{
+"word": "ceux",
+"start": 0.32,
+"end": 0.44
+},
+{
+"word": "qui",
+"start": 0.44,
+"end": 0.54
+},
+{
+"word": "ont",
+"start": 0.54,
+"end": 0.64
+},
+{
+"word": "de",
+"start": 0.64,
+"end": 0.7
+},
+{
+"word": "la",
+"start": 0.7,
+"end": 0.76
+},
+{
+"word": "valeur,",
+"start": 0.76,
+"end": 1.02
+},
+{
+"word": "pas",
+"start": 1.12,
+"end": 1.24
+},
+{
+"word": "dans",
+"start": 1.24,
+"end": 1.36
+},
+{
+"word": "ce",
+"start": 1.36,
+"end": 1.5
+},
+{
+"word": "qui",
+"start": 1.5,
+"end": 1.62
+},
+{
+"word": "est",
+"start": 1.62,
+"end": 1.72
+},
+{
+"word": "dit,",
+"start": 1.72,
+"end": 1.94
+},
+{
+"word": "mais",
+"start": 2.1,
+"end": 2.22
+},
+{
+"word": "dans",
+"start": 2.22,
+"end": 2.32
+},
+{
+"word": "le",
+"start": 2.32,
+"end": 2.46
+},
+{
+"word": "process",
+"start": 2.46,
+"end": 2.88
+},
+{
+"word": "à",
+"start": 2.88,
+"end": 3.1
+},
+{
+"word": "suivre.",
+"start": 3.1,
+"end": 3.3
+}
+]
+},
+{
+"index": 106,
+"audio": {
+"path": "obs",
+"start": 1336.756,
+"end": 1344.976
+},
+"camera": {
+"path": "cam",
+"start": 1336.04,
+"end": 1344.26
+},
+"frames": 388,
+"text": "Par exemple, pour ce framework de prise de décision, c'est littéralement mieux que ce que j'avais l'habitude de faire moi simplement en prenant mon livre à la main et en mettant en place les décisions.",
+"words": [
+{
+"word": "Par",
+"start": 0.0,
+"end": 0.36
+},
+{
+"word": "exemple,",
+"start": 0.36,
+"end": 0.62
+},
+{
+"word": "pour",
+"start": 0.74,
+"end": 0.78
+},
+{
+"word": "ce",
+"start": 0.78,
+"end": 0.9
+},
+{
+"word": "framework",
+"start": 0.9,
+"end": 1.2
+},
+{
+"word": "de",
+"start": 1.2,
+"end": 1.44
+},
+{
+"word": "prise",
+"start": 1.44,
+"end": 1.74
+},
+{
+"word": "de",
+"start": 1.74,
+"end": 1.84
+},
+{
+"word": "décision,",
+"start": 1.84,
+"end": 2.32
+},
+{
+"word": "c",
+"start": 2.72,
+"end": 2.76
+},
+{
+"word": "'est",
+"start": 2.76,
+"end": 2.88
+},
+{
+"word": "littéralement",
+"start": 2.88,
+"end": 3.46
+},
+{
+"word": "mieux",
+"start": 3.46,
+"end": 3.8
+},
+{
+"word": "que",
+"start": 3.8,
+"end": 4.08
+},
+{
+"word": "ce",
+"start": 4.08,
+"end": 4.18
+},
+{
+"word": "que",
+"start": 4.18,
+"end": 4.24
+},
+{
+"word": "j",
+"start": 4.24,
+"end": 4.3
+},
+{
+"word": "'avais",
+"start": 4.3,
+"end": 4.4
+},
+{
+"word": "l",
+"start": 4.4,
+"end": 4.5
+},
+{
+"word": "'habitude",
+"start": 4.5,
+"end": 4.68
+},
+{
+"word": "de",
+"start": 4.68,
+"end": 4.82
+},
+{
+"word": "faire",
+"start": 4.82,
+"end": 5.02
+},
+{
+"word": "moi",
+"start": 5.02,
+"end": 5.24
+},
+{
+"word": "simplement",
+"start": 5.24,
+"end": 5.66
+},
+{
+"word": "en",
+"start": 5.66,
+"end": 5.86
+},
+{
+"word": "prenant",
+"start": 5.86,
+"end": 6.1
+},
+{
+"word": "mon",
+"start": 6.1,
+"end": 6.24
+},
+{
+"word": "livre",
+"start": 6.24,
+"end": 6.48
+},
+{
+"word": "à",
+"start": 6.48,
+"end": 6.56
+},
+{
+"word": "la",
+"start": 6.56,
+"end": 6.68
+},
+{
+"word": "main",
+"start": 6.68,
+"end": 6.82
+},
+{
+"word": "et",
+"start": 6.82,
+"end": 7.26
+},
+{
+"word": "en",
+"start": 7.26,
+"end": 7.4
+},
+{
+"word": "mettant",
+"start": 7.4,
+"end": 7.6
+},
+{
+"word": "en",
+"start": 7.6,
+"end": 7.68
+},
+{
+"word": "place",
+"start": 7.68,
+"end": 7.82
+},
+{
+"word": "les",
+"start": 7.82,
+"end": 7.94
+},
+{
+"word": "décisions.",
+"start": 7.94,
+"end": 8.32
+}
+]
+},
+{
+"index": 107,
+"audio": {
+"path": "obs",
+"start": 1346.096,
+"end": 1354.576
+},
+"camera": {
+"path": "cam",
+"start": 1345.38,
+"end": 1353.86
+},
+"frames": 400,
+"text": "Parce que là, ce n'est pas seulement à moi de réfléchir sur ma situation, c'est Claude qui a littéralement accès à tout mon contexte et qui est capable d'appliquer ce framework lui-même.",
+"words": [
+{
+"word": "Parce",
+"start": 0.0,
+"end": 0.28
+},
+{
+"word": "que",
+"start": 0.28,
+"end": 0.4
+},
+{
+"word": "là,",
+"start": 0.4,
+"end": 0.46
+},
+{
+"word": "ce",
+"start": 0.62,
+"end": 0.62
+},
+{
+"word": "n",
+"start": 0.62,
+"end": 0.72
+},
+{
+"word": "'est",
+"start": 0.72,
+"end": 1.88
+},
+{
+"word": "pas",
+"start": 1.88,
+"end": 2.0
+},
+{
+"word": "seulement",
+"start": 2.0,
+"end": 2.2
+},
+{
+"word": "à",
+"start": 2.2,
+"end": 2.44
+},
+{
+"word": "moi",
+"start": 2.44,
+"end": 2.62
+},
+{
+"word": "de",
+"start": 2.62,
+"end": 2.8
+},
+{
+"word": "réfléchir",
+"start": 2.8,
+"end": 3.34
+},
+{
+"word": "sur",
+"start": 3.34,
+"end": 3.52
+},
+{
+"word": "ma",
+"start": 3.52,
+"end": 3.64
+},
+{
+"word": "situation,",
+"start": 3.64,
+"end": 3.96
+},
+{
+"word": "c",
+"start": 4.2,
+"end": 4.46
+},
+{
+"word": "'est",
+"start": 4.46,
+"end": 4.58
+},
+{
+"word": "Claude",
+"start": 4.58,
+"end": 4.82
+},
+{
+"word": "qui",
+"start": 4.82,
+"end": 4.92
+},
+{
+"word": "a",
+"start": 4.92,
+"end": 5.0
+},
+{
+"word": "littéralement",
+"start": 5.0,
+"end": 5.36
+},
+{
+"word": "accès",
+"start": 5.36,
+"end": 5.68
+},
+{
+"word": "à",
+"start": 5.68,
+"end": 5.86
+},
+{
+"word": "tout",
+"start": 5.86,
+"end": 6.14
+},
+{
+"word": "mon",
+"start": 6.14,
+"end": 6.3
+},
+{
+"word": "contexte",
+"start": 6.3,
+"end": 6.8
+},
+{
+"word": "et",
+"start": 6.8,
+"end": 6.82
+},
+{
+"word": "qui",
+"start": 6.82,
+"end": 6.9
+},
+{
+"word": "est",
+"start": 6.9,
+"end": 7.0
+},
+{
+"word": "capable",
+"start": 7.0,
+"end": 7.34
+},
+{
+"word": "d",
+"start": 7.34,
+"end": 7.74
+},
+{
+"word": "'appliquer",
+"start": 7.74,
+"end": 8.0
+},
+{
+"word": "ce",
+"start": 8.0,
+"end": 8.08
+},
+{
+"word": "framework",
+"start": 8.08,
+"end": 8.3
+},
+{
+"word": "lui",
+"start": 8.3,
+"end": 8.5
+},
+{
+"word": "-même.",
+"start": 8.5,
+"end": 8.64
+}
+]
+},
+{
+"index": 108,
+"audio": {
+"path": "obs",
+"start": 1360.456,
+"end": 1367.516
+},
+"camera": {
+"path": "cam",
+"start": 1359.74,
+"end": 1366.8
+},
+"frames": 333,
+"text": "Mais par exemple, pour certains livres qui parlent de marketing ou d'études de cas, il faut quand même aller acheter le livre et aller le lire pour comprendre les leçons et les formulations exactes.",
+"words": [
+{
+"word": "Mais",
+"start": 0.0,
+"end": 0.26
+},
+{
+"word": "par",
+"start": 0.26,
+"end": 0.38
+},
+{
+"word": "exemple,",
+"start": 0.38,
+"end": 0.58
+},
+{
+"word": "pour",
+"start": 0.7,
+"end": 0.78
+},
+{
+"word": "certains",
+"start": 0.78,
+"end": 1.14
+},
+{
+"word": "livres",
+"start": 1.14,
+"end": 1.52
+},
+{
+"word": "qui",
+"start": 1.52,
+"end": 1.7
+},
+{
+"word": "parlent",
+"start": 1.7,
+"end": 1.9
+},
+{
+"word": "de",
+"start": 1.9,
+"end": 2.0
+},
+{
+"word": "marketing",
+"start": 2.0,
+"end": 2.4
+},
+{
+"word": "ou",
+"start": 2.4,
+"end": 2.7
+},
+{
+"word": "d",
+"start": 2.7,
+"end": 2.78
+},
+{
+"word": "'études",
+"start": 2.78,
+"end": 2.96
+},
+{
+"word": "de",
+"start": 2.96,
+"end": 3.06
+},
+{
+"word": "cas,",
+"start": 3.06,
+"end": 3.22
+},
+{
+"word": "il",
+"start": 3.4,
+"end": 3.4
+},
+{
+"word": "faut",
+"start": 3.4,
+"end": 3.52
+},
+{
+"word": "quand",
+"start": 3.52,
+"end": 3.6
+},
+{
+"word": "même",
+"start": 3.6,
+"end": 3.7
+},
+{
+"word": "aller",
+"start": 3.7,
+"end": 3.94
+},
+{
+"word": "acheter",
+"start": 3.94,
+"end": 4.28
+},
+{
+"word": "le",
+"start": 4.28,
+"end": 4.42
+},
+{
+"word": "livre",
+"start": 4.42,
+"end": 4.7
+},
+{
+"word": "et",
+"start": 4.7,
+"end": 4.82
+},
+{
+"word": "aller",
+"start": 4.82,
+"end": 4.96
+},
+{
+"word": "le",
+"start": 4.96,
+"end": 5.1
+},
+{
+"word": "lire",
+"start": 5.1,
+"end": 5.34
+},
+{
+"word": "pour",
+"start": 5.34,
+"end": 5.5
+},
+{
+"word": "comprendre",
+"start": 5.5,
+"end": 5.82
+},
+{
+"word": "les",
+"start": 5.82,
+"end": 5.94
+},
+{
+"word": "leçons",
+"start": 5.94,
+"end": 6.24
+},
+{
+"word": "et",
+"start": 6.24,
+"end": 6.38
+},
+{
+"word": "les",
+"start": 6.38,
+"end": 6.46
+},
+{
+"word": "formulations",
+"start": 6.46,
+"end": 6.88
+},
+{
+"word": "exactes.",
+"start": 6.88,
+"end": 7.34
+}
+]
+},
+{
+"index": 109,
+"audio": {
+"path": "obs",
+"start": 1372.656,
+"end": 1380.529
+},
+"camera": {
+"path": "cam",
+"start": 1371.94,
+"end": 1379.813
+},
+"frames": 371,
+"text": "Si vous voulez récupérer l'intégralité de ma méthode pour transformer n'importe lequel de votre livre en un skill qui est utilisable et qui vous apporte des résultats, c'est tout dans la description.",
+"words": [
+{
+"word": "Si",
+"start": 0.0,
+"end": 0.32
+},
+{
+"word": "vous",
+"start": 0.32,
+"end": 0.44
+},
+{
+"word": "voulez",
+"start": 0.44,
+"end": 0.56
+},
+{
+"word": "récupérer",
+"start": 0.56,
+"end": 1.02
+},
+{
+"word": "l",
+"start": 1.02,
+"end": 1.24
+},
+{
+"word": "'intégralité",
+"start": 1.24,
+"end": 1.78
+},
+{
+"word": "de",
+"start": 1.78,
+"end": 1.9
+},
+{
+"word": "ma",
+"start": 1.9,
+"end": 2.0
+},
+{
+"word": "méthode",
+"start": 2.0,
+"end": 2.3
+},
+{
+"word": "pour",
+"start": 2.3,
+"end": 2.44
+},
+{
+"word": "transformer",
+"start": 2.44,
+"end": 2.86
+},
+{
+"word": "n",
+"start": 2.86,
+"end": 3.28
+},
+{
+"word": "'importe",
+"start": 3.28,
+"end": 3.56
+},
+{
+"word": "lequel",
+"start": 3.56,
+"end": 3.86
+},
+{
+"word": "de",
+"start": 3.86,
+"end": 3.98
+},
+{
+"word": "votre",
+"start": 3.98,
+"end": 4.12
+},
+{
+"word": "livre",
+"start": 4.12,
+"end": 4.44
+},
+{
+"word": "en",
+"start": 4.44,
+"end": 4.68
+},
+{
+"word": "un",
+"start": 4.68,
+"end": 4.8
+},
+{
+"word": "skill",
+"start": 4.8,
+"end": 4.98
+},
+{
+"word": "qui",
+"start": 4.98,
+"end": 5.12
+},
+{
+"word": "est",
+"start": 5.12,
+"end": 5.2
+},
+{
+"word": "utilisable",
+"start": 5.2,
+"end": 5.62
+},
+{
+"word": "et",
+"start": 5.62,
+"end": 5.7
+},
+{
+"word": "qui",
+"start": 5.7,
+"end": 5.78
+},
+{
+"word": "vous",
+"start": 5.78,
+"end": 5.92
+},
+{
+"word": "apporte",
+"start": 5.92,
+"end": 6.16
+},
+{
+"word": "des",
+"start": 6.16,
+"end": 6.26
+},
+{
+"word": "résultats,",
+"start": 6.26,
+"end": 6.76
+},
+{
+"word": "c",
+"start": 7.02,
+"end": 7.08
+},
+{
+"word": "'est",
+"start": 7.08,
+"end": 7.16
+},
+{
+"word": "tout",
+"start": 7.16,
+"end": 7.3
+},
+{
+"word": "dans",
+"start": 7.3,
+"end": 7.42
+},
+{
+"word": "la",
+"start": 7.42,
+"end": 7.52
+},
+{
+"word": "description.",
+"start": 7.52,
+"end": 7.82
+}
+]
+},
+{
+"index": 110,
+"audio": {
+"path": "obs",
+"start": 1387.176,
+"end": 1393.147
+},
+"camera": {
+"path": "cam",
+"start": 1386.46,
+"end": 1392.431
+},
+"frames": 282,
+"text": "Dites-moi en commentaire quel est le premier livre que vous allez transformer en skill et si cette vidéo vous a été utile, je vous invite à vous abonner, ça m'aide beaucoup.",
+"words": [
+{
+"word": "Dites",
+"start": 0.0,
+"end": 0.34
+},
+{
+"word": "-moi",
+"start": 0.34,
+"end": 0.44
+},
+{
+"word": "en",
+"start": 0.44,
+"end": 0.54
+},
+{
+"word": "commentaire",
+"start": 0.54,
+"end": 0.86
+},
+{
+"word": "quel",
+"start": 0.86,
+"end": 1.0
+},
+{
+"word": "est",
+"start": 1.0,
+"end": 1.1
+},
+{
+"word": "le",
+"start": 1.1,
+"end": 1.22
+},
+{
+"word": "premier",
+"start": 1.22,
+"end": 1.44
+},
+{
+"word": "livre",
+"start": 1.44,
+"end": 1.62
+},
+{
+"word": "que",
+"start": 1.62,
+"end": 1.7
+},
+{
+"word": "vous",
+"start": 1.7,
+"end": 1.8
+},
+{
+"word": "allez",
+"start": 1.8,
+"end": 1.9
+},
+{
+"word": "transformer",
+"start": 1.9,
+"end": 2.34
+},
+{
+"word": "en",
+"start": 2.34,
+"end": 2.52
+},
+{
+"word": "skill",
+"start": 2.52,
+"end": 2.76
+},
+{
+"word": "et",
+"start": 2.76,
+"end": 3.04
+},
+{
+"word": "si",
+"start": 3.04,
+"end": 3.2
+},
+{
+"word": "cette",
+"start": 3.2,
+"end": 3.34
+},
+{
+"word": "vidéo",
+"start": 3.34,
+"end": 3.54
+},
+{
+"word": "vous",
+"start": 3.54,
+"end": 3.68
+},
+{
+"word": "a",
+"start": 3.68,
+"end": 3.78
+},
+{
+"word": "été",
+"start": 3.78,
+"end": 3.86
+},
+{
+"word": "utile,",
+"start": 3.86,
+"end": 4.18
+},
+{
+"word": "je",
+"start": 4.32,
+"end": 4.32
+},
+{
+"word": "vous",
+"start": 4.32,
+"end": 4.4
+},
+{
+"word": "invite",
+"start": 4.4,
+"end": 4.62
+},
+{
+"word": "à",
+"start": 4.62,
+"end": 4.72
+},
+{
+"word": "vous",
+"start": 4.72,
+"end": 4.86
+},
+{
+"word": "abonner,",
+"start": 4.86,
+"end": 5.32
+},
+{
+"word": "ça",
+"start": 5.48,
+"end": 5.56
+},
+{
+"word": "m",
+"start": 5.56,
+"end": 5.66
+},
+{
+"word": "'aide",
+"start": 5.66,
+"end": 5.72
+},
+{
+"word": "beaucoup.",
+"start": 5.72,
+"end": 5.92
+}
+]
+},
+{
+"index": 111,
+"audio": {
+"path": "obs",
+"start": 1394.356,
+"end": 1395.236
+},
+"camera": {
+"path": "cam",
+"start": 1393.64,
+"end": 1394.52
+},
+"frames": 41,
+"text": "Merci d'avoir regardé.",
+"words": [
+{
+"word": "Merci",
+"start": 0.0,
+"end": 0.4
+},
+{
+"word": "d",
+"start": 0.4,
+"end": 0.5
+},
+{
+"word": "'avoir",
+"start": 0.5,
+"end": 0.6
+},
+{
+"word": "regardé.",
+"start": 0.6,
+"end": 0.94
+}
+]
+}
+]

@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Poste et chantiers
+.montage-poste.json
+chantiers/
+bibliotheque/
+
+# Médias
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.LRF
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.aiff
+!code/motion/remotion/public/**/*.mp4
+
+# Outils
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+code/motion/remotion/out/
